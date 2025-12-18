@@ -15,6 +15,9 @@ const file = fs.readFileSync(filePath, 'utf8');
 app.get('/', async () => {
   return "Welcome to ExaminU's API"
 });
+app.get('/api/', async () => {
+  return data
+});
 app.get('/api/faculty/names', async () => {
   return data.map(f => f.name)
 });
