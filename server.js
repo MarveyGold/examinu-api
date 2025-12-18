@@ -12,8 +12,14 @@ await app.register(cors, {
 const filePath = process.cwd() + `/data/data.json`;
 const file = fs.readFileSync(filePath, 'utf8');
   const data = JSON.parse(file);
-app.get('/api/data', async () => {
+app.get('/', async () => {
+  return "Welcome to ExaminU's API"
+});
+app.get('/api/faculty/names', async () => {
   return data.map(f => f.name)
+});
+app.get('/api/faculty/codes', async () => {
+  return data.map(f => f.code)
 });
 app.listen({ port: 8080, host: '0.0.0.0'}, () => {
   console.log("server started on port 8080")
