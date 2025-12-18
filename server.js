@@ -14,6 +14,6 @@ app.get('/api/data', async () => {
   const file = fs.readFileSync(filePath, 'utf8');
   return JSON.parse(file)
 });
-app.listen({ port: 8080 }, () => {
+app.listen({ port: 8080, host: '0.0.0.0'}, () => {
   console.log("server started on port 8080")
 })
