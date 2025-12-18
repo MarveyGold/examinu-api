@@ -1,0 +1,1562 @@
+[
+    {
+      "title": "STA111",
+      "id": 1,
+      "question": "Which of these is NOT a type of data classification?",
+      "optionA": "Nominal",
+      "optionB": "Ordinal",
+      "optionC": "Interval",
+      "optionD": "Variable",
+      "correctAnswer": "Variable"
+    },
+    {
+      "title": "STA111",
+      "id": 2,
+      "question": "The simplest measure of dispersion is:",
+      "optionA": "Standard deviation",
+      "optionB": "Range",
+      "optionC": "Variance",
+      "optionD": "IQR",
+      "correctAnswer": "Range"
+    },
+    {
+      "title": "STA111",
+      "id": 3,
+      "question": "Which graph is best for showing frequency distributions?",
+      "optionA": "Line graph",
+      "optionB": "Pie chart",
+      "optionC": "Histogram",
+      "optionD": "Scatter plot",
+      "correctAnswer": "Histogram"
+    },
+    {
+      "title": "STA111",
+      "id": 4,
+      "question": "In a positively skewed distribution:",
+      "optionA": "Mean > Median > Mode",
+      "optionB": "Mean < Median < Mode",
+      "optionC": "Mean = Median = Mode",
+      "optionD": "Mode > Median > Mean",
+      "correctAnswer": "Mean > Median > Mode"
+    },
+    {
+      "title": "STA111",
+      "id": 5,
+      "question": "Which measure of central tendency is least affected by outliers?",
+      "optionA": "Mean",
+      "optionB": "Median",
+      "optionC": "Mode",
+      "optionD": "Range",
+      "correctAnswer": "Median"
+    },
+    {
+      "title": "STA111",
+      "id": 6,
+      "question": "The square root of the variance is called:",
+      "optionA": "Mean deviation",
+      "optionB": "Standard deviation",
+      "optionC": "Coefficient of variation",
+      "optionD": "Quartile deviation",
+      "correctAnswer": "Standard deviation"
+    },
+    {
+      "title": "STA111",
+      "id": 7,
+      "question": "Which of the following is a relative measure of dispersion?",
+      "optionA": "Range",
+      "optionB": "Variance",
+      "optionC": "Coefficient of variation",
+      "optionD": "Standard deviation",
+      "correctAnswer": "Coefficient of variation"
+    },
+    {
+      "title": "STA111",
+      "id": 8,
+      "question": "Kurtosis measures the:",
+      "optionA": "Skewness of a distribution",
+      "optionB": "Peakedness of a distribution",
+      "optionC": "Spread of data",
+      "optionD": "Central tendency",
+      "correctAnswer": "Peakedness of a distribution"
+    },
+    {
+      "title": "STA111",
+      "id": 9,
+      "question": "A flatter-than-normal distribution is called:",
+      "optionA": "Leptokurtic",
+      "optionB": "Mesokurtic",
+      "optionC": "Platykurtic",
+      "optionD": "Skewed",
+      "correctAnswer": "Platykurtic"
+    },
+    {
+      "title": "STA111",
+      "id": 10,
+      "question": "The Consumer Price Index (CPI) is an example of:",
+      "optionA": "A rate",
+      "optionB": "A ratio",
+      "optionC": "An index number",
+      "optionD": "A measure of dispersion",
+      "correctAnswer": "An index number"
+    },
+{
+  "title": "STA111",
+  "id": 11,
+  "question": "Which index number uses a fixed base year?",
+  "optionA": "Laspeyres",
+  "optionB": "Paasche",
+  "optionC": "Fisher's Ideal",
+  "optionD": "Simple aggregate",
+  "correctAnswer": "Laspeyres"
+},
+{
+  "title": "STA111",
+  "id": 12,
+  "question": "A mortality rate is an example of a:",
+  "optionA": "Ratio",
+  "optionB": "Rate",
+  "optionC": "Index",
+  "optionD": "Proportion",
+  "correctAnswer": "Rate"
+},
+{
+  "title": "STA111",
+  "id": 13,
+  "question": "The formula for a simple price index is:",
+  "optionA": "(Current Price/Base Price) × 100",
+  "optionB": "(Base Price/Current Price) × 100",
+  "optionC": "Current Price - Base Price",
+  "optionD": "Current Price/Base Price",
+  "correctAnswer": "(Current Price/Base Price) × 100"
+},
+{
+  "title": "STA111",
+  "id": 14,
+  "question": "Which of these is NOT a measure of central tendency?",
+  "optionA": "Variance",
+  "optionB": "Median",
+  "optionC": "Arithmetic mean",
+  "optionD": "Geometric mean",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 15,
+  "question": "If all values in a dataset are the same, the variance is:",
+  "optionA": "0",
+  "optionB": "1",
+  "optionC": "Equal to the mean",
+  "optionD": "Undefined",
+  "correctAnswer": "0"
+},
+{
+  "title": "STA111",
+  "id": 16,
+  "question": "Which measure is most affected by extreme values?",
+  "optionA": "Median",
+  "optionB": "Mode",
+  "optionC": "Range",
+  "optionD": "Interquartile range",
+  "correctAnswer": "Range"
+},
+{
+  "title": "STA111",
+  "id": 17,
+  "question": "If the standard deviation of a dataset is 4, its variance is:",
+  "optionA": "2",
+  "optionB": "8",
+  "optionC": "16",
+  "optionD": "64",
+  "correctAnswer": "16"
+},
+{
+  "title": "STA111",
+  "id": 18,
+  "question": "A right-tailed distribution is:",
+  "optionA": "Positively skewed",
+  "optionB": "Negatively skewed",
+  "optionC": "Symmetric",
+  "optionD": "Uniform",
+  "correctAnswer": "Positively skewed"
+},
+{
+  "title": "STA111",
+  "id": 19,
+  "question": "Kurtosis describes:",
+  "optionA": "Tail heaviness",
+  "optionB": "Central peak sharpness",
+  "optionC": "Both A and B",
+  "optionD": "Skewness direction",
+  "correctAnswer": "Both A and B"
+},
+{
+  "title": "STA111",
+  "id": 20,
+  "question": "When Mean = Median = Mode, the distribution is:",
+  "optionA": "Positively skewed",
+  "optionB": "Negatively skewed",
+  "optionC": "Symmetric",
+  "optionD": "Bimodal",
+  "correctAnswer": "Symmetric"
+},
+{
+  "title": "STA111",
+  "id": 21,
+  "question": "Which of these is a measure of position?",
+  "optionA": "Mean",
+  "optionB": "Quartile",
+  "optionC": "Variance",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Quartile"
+},
+{
+  "title": "STA111",
+  "id": 22,
+  "question": "The middle value in an ordered dataset is called the:",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Mode",
+  "optionD": "Midrange",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 23,
+  "question": "Which measure is most appropriate for categorical data?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Mode",
+  "optionD": "Range",
+  "correctAnswer": "Mode"
+},
+{
+  "title": "STA111",
+  "id": 24,
+  "question": "The interquartile range covers:",
+  "optionA": "The lowest 25% of data",
+  "optionB": "The middle 50% of data",
+  "optionC": "The highest 25% of data",
+  "optionD": "100% of the data",
+  "correctAnswer": "The middle 50% of data"
+},
+{
+  "title": "STA111",
+  "id": 25,
+  "question": "A box plot displays:",
+  "optionA": "Mean and standard deviation",
+  "optionB": "Minimum, Q1, Median, Q3, Maximum",
+  "optionC": "Frequency counts",
+  "optionD": "Correlation coefficients",
+  "correctAnswer": "Minimum, Q1, Median, Q3, Maximum"
+},
+{
+  "title": "STA111",
+  "id": 26,
+  "question": "Which of these is NOT a measure of spread?",
+  "optionA": "Range",
+  "optionB": "Variance",
+  "optionC": "Mean",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Mean"
+},
+{
+  "title": "STA111",
+  "id": 27,
+  "question": "The average of squared deviations from the mean is called:",
+  "optionA": "Standard deviation",
+  "optionB": "Variance",
+  "optionC": "Mean absolute deviation",
+  "optionD": "Range",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 28,
+  "question": "Which correlation coefficient indicates no linear relationship?",
+  "optionA": "-1",
+  "optionB": "0",
+  "optionC": "1",
+  "optionD": "0.5",
+  "correctAnswer": "0"
+},
+{
+  "title": "STA111",
+  "id": 29,
+  "question": "A scatter plot is used to show:",
+  "optionA": "Frequency distributions",
+  "optionB": "Relationships between two variables",
+  "optionC": "Composition of a whole",
+  "optionD": "Trends over time",
+  "correctAnswer": "Relationships between two variables"
+},
+{
+  "title": "STA111",
+  "id": 30,
+  "question": "Which of these is a measure of relative standing?",
+  "optionA": "Percentile",
+  "optionB": "Mean",
+  "optionC": "Variance",
+  "optionD": "Range",
+  "correctAnswer": "Percentile"
+},
+{
+  "title": "STA111",
+  "id": 31,
+  "question": "The 50th percentile is equivalent to:",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Mode",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 32,
+  "question": "Which of these is NOT a type of random sampling?",
+  "optionA": "Simple random sampling",
+  "optionB": "Stratified sampling",
+  "optionC": "Cluster sampling",
+  "optionD": "Convenience sampling",
+  "correctAnswer": "Convenience sampling"
+},
+{
+  "title": "STA111",
+  "id": 33,
+  "question": "The standard normal distribution has:",
+  "optionA": "Mean = 0, SD = 1",
+  "optionB": "Mean = 1, SD = 0",
+  "optionC": "Mean = 1, SD = 1",
+  "optionD": "Mean = 0, SD = 0",
+  "correctAnswer": "Mean = 0, SD = 1"
+},
+{
+  "title": "STA111",
+  "id": 34,
+  "question": "Which of these is NOT a graphical representation?",
+  "optionA": "Histogram",
+  "optionB": "Box plot",
+  "optionC": "Standard deviation",
+  "optionD": "Pie chart",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 35,
+  "question": "The sum of all frequencies equals:",
+  "optionA": "The mean",
+  "optionB": "The sample size (n)",
+  "optionC": "The variance",
+  "optionD": "The range",
+  "correctAnswer": "The sample size (n)"
+},
+{
+  "title": "STA111",
+  "id": 36,
+  "question": "Which of these is NOT a measure of shape?",
+  "optionA": "Skewness",
+  "optionB": "Kurtosis",
+  "optionC": "Variance",
+  "optionD": "Peakedness",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 37,
+  "question": "The empirical rule applies to:",
+  "optionA": "Any distribution",
+  "optionB": "Normal distributions",
+  "optionC": "Uniform distributions",
+  "optionD": "Exponential distributions",
+  "correctAnswer": "Normal distributions"
+},
+{
+  "title": "STA111",
+  "id": 38,
+  "question": "Which of these is a disadvantage of the range?",
+  "optionA": "It's easy to calculate",
+  "optionB": "It uses only two values",
+  "optionC": "It measures spread",
+  "optionD": "It's always positive",
+  "correctAnswer": "It uses only two values"
+},
+{
+  "title": "STA111",
+  "id": 39,
+  "question": "A z-score measures:",
+  "optionA": "Position relative to the mean in SD units",
+  "optionB": "The skewness of a distribution",
+  "optionC": "The kurtosis of a distribution",
+  "optionD": "The range of a dataset",
+  "correctAnswer": "Position relative to the mean in SD units"
+},
+{
+  "title": "STA111",
+  "id": 40,
+  "question": "Which correlation coefficient shows perfect negative correlation?",
+  "optionA": "-1",
+  "optionB": "0",
+  "optionC": "1",
+  "optionD": "0.5",
+  "correctAnswer": "-1"
+},
+{
+  "title": "STA111",
+  "id": 41,
+  "question": "A cumulative frequency graph is called:",
+  "optionA": "Histogram",
+  "optionB": "Ogive",
+  "optionC": "Box plot",
+  "optionD": "Stem-and-leaf plot",
+  "correctAnswer": "Ogive"
+},
+{
+  "title": "STA111",
+  "id": 42,
+  "question": "Which of these is NOT a measure of variability?",
+  "optionA": "Range",
+  "optionB": "Interquartile range",
+  "optionC": "Median",
+  "optionD": "Variance",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 43,
+  "question": "The middle quartile is equivalent to:",
+  "optionA": "25th percentile",
+  "optionB": "50th percentile",
+  "optionC": "75th percentile",
+  "optionD": "100th percentile",
+  "correctAnswer": "50th percentile"
+},
+{
+  "title": "STA111",
+  "id": 44,
+  "question": "Which of these is NOT a characteristic of the mean?",
+  "optionA": "Affected by outliers",
+  "optionB": "Uses all data points",
+  "optionC": "Appropriate for categorical data",
+  "optionD": "Algebraically tractable",
+  "correctAnswer": "Appropriate for categorical data"
+},
+{
+  "title": "STA111",
+  "id": 45,
+  "question": "The coefficient of variation is calculated as:",
+  "optionA": "(SD/Mean) × 100",
+  "optionB": "(Mean/SD) × 100",
+  "optionC": "SD × Mean",
+  "optionD": "SD - Mean",
+  "correctAnswer": "(SD/Mean) × 100"
+},
+{
+  "title": "STA111",
+  "id": 46,
+  "question": "Which of these is NOT a probability sampling method?",
+  "optionA": "Simple random sampling",
+  "optionB": "Systematic sampling",
+  "optionC": "Convenience sampling",
+  "optionD": "Stratified sampling",
+  "correctAnswer": "Convenience sampling"
+},
+{
+  "title": "STA111",
+  "id": 47,
+  "question": "A stem-and-leaf plot preserves:",
+  "optionA": "Only summary statistics",
+  "optionB": "Only the shape of distribution",
+  "optionC": "Original data values",
+  "optionD": "Only class boundaries",
+  "correctAnswer": "Original data values"
+},
+{
+  "title": "STA111",
+  "id": 48,
+  "question": "Which of these is NOT a type of frequency distribution?",
+  "optionA": "Simple",
+  "optionB": "Grouped",
+  "optionC": "Cumulative",
+  "optionD": "Theoretical",
+  "correctAnswer": "Theoretical"
+},
+{
+  "title": "STA111",
+  "id": 49,
+  "question": "The sum of deviations from the mean always equals:",
+  "optionA": "0",
+  "optionB": "1",
+  "optionC": "The variance",
+  "optionD": "The standard deviation",
+  "correctAnswer": "0"
+},
+{
+  "title": "STA111",
+  "id": 50,
+  "question": "Which of these is NOT a component of a box plot?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Quartiles",
+  "optionD": "Whiskers",
+  "correctAnswer": "Mean"
+},
+{
+  "title": "STA111",
+  "id": 51,
+  "question": "The empirical rule states that for normal distributions, about 68% of data falls within:",
+  "optionA": "1 SD of the mean",
+  "optionB": "2 SD of the mean",
+  "optionC": "3 SD of the mean",
+  "optionD": "The range",
+  "correctAnswer": "1 SD of the mean"
+},
+{
+  "title": "STA111",
+  "id": 52,
+  "question": "Which correlation coefficient shows perfect positive correlation?",
+  "optionA": "-1",
+  "optionB": "0",
+  "optionC": "1",
+  "optionD": "0.5",
+  "correctAnswer": "1"
+},
+{
+  "title": "STA111",
+  "id": 53,
+  "question": "Chebyshev's theorem applies to:",
+  "optionA": "Normal distributions only",
+  "optionB": "Any distribution",
+  "optionC": "Uniform distributions only",
+  "optionD": "Symmetric distributions only",
+  "correctAnswer": "Any distribution"
+},
+{
+  "title": "STA111",
+  "id": 54,
+  "question": "Which of these is NOT a measure of location?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Variance",
+  "optionD": "Mode",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 55,
+  "question": "The range is calculated as:",
+  "optionA": "Max - Min",
+  "optionB": "Q3 - Q1",
+  "optionC": "Mean - Median",
+  "optionD": "SD × 2",
+  "correctAnswer": "Max - Min"
+},
+{
+  "title": "STA111",
+  "id": 56,
+  "question": "Which of these is NOT a use of descriptive statistics?",
+  "optionA": "Data summarization",
+  "optionB": "Data visualization",
+  "optionC": "Hypothesis testing",
+  "optionD": "Identifying patterns",
+  "correctAnswer": "Hypothesis testing"
+},
+{
+  "title": "STA111",
+  "id": 57,
+  "question": "The interquartile range is calculated as:",
+  "optionA": "Q3 - Q1",
+  "optionB": "Max - Min",
+  "optionC": "Mean - Median",
+  "optionD": "SD × 3",
+  "correctAnswer": "Q3 - Q1"
+},
+{
+  "title": "STA111",
+  "id": 58,
+  "question": "Which of these is NOT a type of average?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Standard deviation",
+  "optionD": "Mode",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 59,
+  "question": "Which of these is NOT a measure of central tendency?",
+  "optionA": "Arithmetic mean",
+  "optionB": "Geometric mean",
+  "optionC": "Harmonic mean",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 60,
+  "question": "The mode is:",
+  "optionA": "The most frequent value",
+  "optionB": "The middle value",
+  "optionC": "The average value",
+  "optionD": "The difference between max and min",
+  "correctAnswer": "The most frequent value"
+},
+{
+  "title": "STA111",
+  "id": 61,
+  "question": "Which of these is NOT a property of the median?",
+  "optionA": "Affected by outliers",
+  "optionB": "Splits data into two equal parts",
+  "optionC": "Can be used with ordinal data",
+  "optionD": "Not affected by extreme values",
+  "correctAnswer": "Affected by outliers"
+},
+{
+  "title": "STA111",
+  "id": 62,
+  "question": "The harmonic mean is used for:",
+  "optionA": "Averaging rates",
+  "optionB": "Averaging test scores",
+  "optionC": "Averaging temperatures",
+  "optionD": "Averaging distances",
+  "correctAnswer": "Averaging rates"
+},
+{
+  "title": "STA111",
+  "id": 63,
+  "question": "Which of these is NOT a measure of spread?",
+  "optionA": "Range",
+  "optionB": "Interquartile range",
+  "optionC": "Mean",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Mean"
+},
+{
+  "title": "STA111",
+  "id": 64,
+  "question": "The geometric mean is used for:",
+  "optionA": "Averaging percentages",
+  "optionB": "Averaging test scores",
+  "optionC": "Averaging temperatures",
+  "optionD": "Averaging distances",
+  "correctAnswer": "Averaging percentages"
+},
+{
+  "title": "STA111",
+  "id": 65,
+  "question": "Which of these is NOT a measure of variability?",
+  "optionA": "Variance",
+  "optionB": "Standard deviation",
+  "optionC": "Mean absolute deviation",
+  "optionD": "Median",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 66,
+  "question": "The coefficient of variation is useful for:",
+  "optionA": "Comparing variability across different units",
+  "optionB": "Measuring central tendency",
+  "optionC": "Identifying outliers",
+  "optionD": "Calculating probabilities",
+  "correctAnswer": "Comparing variability across different units"
+},
+{
+  "title": "STA111",
+  "id": 67,
+  "question": "Which of these is NOT a type of graph?",
+  "optionA": "Histogram",
+  "optionB": "Box plot",
+  "optionC": "Standard deviation",
+  "optionD": "Pie chart",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 68,
+  "question": "A Pareto chart is used to:",
+  "optionA": "Show frequency distributions",
+  "optionB": "Prioritize important categories",
+  "optionC": "Show relationships between variables",
+  "optionD": "Display geographical data",
+  "correctAnswer": "Prioritize important categories"
+},
+{
+  "title": "STA111",
+  "id": 69,
+  "question": "Which of these is NOT a characteristic of the normal distribution?",
+  "optionA": "Bell-shaped",
+  "optionB": "Symmetric",
+  "optionC": "Mean = Median = Mode",
+  "optionD": "Uniform probability",
+  "correctAnswer": "Uniform probability"
+},
+{
+  "title": "STA111",
+  "id": 70,
+  "question": "A z-score of 0 indicates:",
+  "optionA": "The value is equal to the mean",
+  "optionB": "The value is one SD above the mean",
+  "optionC": "The value is one SD below the mean",
+  "optionD": "The value is an outlier",
+  "correctAnswer": "The value is equal to the mean"
+},
+{
+  "title": "STA111",
+  "id": 71,
+  "question": "Which of these is NOT a type of sampling error?",
+  "optionA": "Selection bias",
+  "optionB": "Non-response bias",
+  "optionC": "Measurement error",
+  "optionD": "Standard error",
+  "correctAnswer": "Standard error"
+},
+{
+  "title": "STA111",
+  "id": 72,
+  "question": "The standard error measures:",
+  "optionA": "Variability in population",
+  "optionB": "Variability in sample statistics",
+  "optionC": "Central tendency",
+  "optionD": "Skewness",
+  "correctAnswer": "Variability in sample statistics"
+},
+{
+  "title": "STA111",
+  "id": 73,
+  "question": "Which of these is NOT a measure of association?",
+  "optionA": "Correlation coefficient",
+  "optionB": "Covariance",
+  "optionC": "Standard deviation",
+  "optionD": "Regression coefficient",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 74,
+  "question": "A confidence interval provides:",
+  "optionA": "A point estimate",
+  "optionB": "A range of plausible values",
+  "optionC": "A measure of central tendency",
+  "optionD": "A measure of skewness",
+  "correctAnswer": "A range of plausible values"
+},
+{
+  "title": "STA111",
+  "id": 75,
+  "question": "Which of these is NOT a component of a time series?",
+  "optionA": "Trend",
+  "optionB": "Seasonality",
+  "optionC": "Cyclical variation",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 76,
+  "question": "The index number for the base year is usually set to:",
+  "optionA": "0",
+  "optionB": "1",
+  "optionC": "100",
+  "optionD": "The mean value",
+  "correctAnswer": "100"
+},
+{
+  "title": "STA111",
+  "id": 77,
+  "question": "Which of these is NOT a type of index number?",
+  "optionA": "Price index",
+  "optionB": "Quantity index",
+  "optionC": "Value index",
+  "optionD": "Standard index",
+  "correctAnswer": "Standard index"
+},
+{
+  "title": "STA111",
+  "id": 78,
+  "question": "The Laspeyres index uses:",
+  "optionA": "Base period quantities",
+  "optionB": "Current period quantities",
+  "optionC": "Average quantities",
+  "optionD": "No quantities",
+  "correctAnswer": "Base period quantities"
+},
+{
+  "title": "STA111",
+  "id": 79,
+  "question": "The Paasche index uses:",
+  "optionA": "Base period quantities",
+  "optionB": "Current period quantities",
+  "optionC": "Average quantities",
+  "optionD": "No quantities",
+  "correctAnswer": "Current period quantities"
+},
+{
+  "title": "STA111",
+  "id": 80,
+  "question": "Fisher's Ideal Index is the:",
+  "optionA": "Sum of Laspeyres and Paasche indices",
+  "optionB": "Difference of Laspeyres and Paasche indices",
+  "optionC": "Geometric mean of Laspeyres and Paasche indices",
+  "optionD": "Arithmetic mean of Laspeyres and Paasche indices",
+  "correctAnswer": "Geometric mean of Laspeyres and Paasche indices"
+},
+{
+  "title": "STA111",
+  "id": 81,
+  "question": "Which of these is NOT a measure of price change?",
+  "optionA": "Consumer Price Index",
+  "optionB": "Producer Price Index",
+  "optionC": "Wholesale Price Index",
+  "optionD": "Standard Price Index",
+  "correctAnswer": "Standard Price Index"
+},
+{
+  "title": "STA111",
+  "id": 82,
+  "question": "The Consumer Price Index measures:",
+  "optionA": "Changes in prices paid by consumers",
+  "optionB": "Changes in prices received by producers",
+  "optionC": "Changes in stock prices",
+  "optionD": "Changes in interest rates",
+  "correctAnswer": "Changes in prices paid by consumers"
+},
+{
+  "title": "STA111",
+  "id": 83,
+  "question": "Which of these is NOT a use of index numbers?",
+  "optionA": "Measuring inflation",
+  "optionB": "Adjusting wages for cost of living",
+  "optionC": "Comparing stock prices",
+  "optionD": "Calculating probabilities",
+  "correctAnswer": "Calculating probabilities"
+},
+{
+  "title": "STA111",
+  "id": 84,
+  "question": "The time reversal test requires that:",
+  "optionA": "Index(base→current) × Index(current→base) = 1",
+  "optionB": "Index(base→current) + Index(current→base) = 1",
+  "optionC": "Index(base→current) - Index(current→base) = 1",
+  "optionD": "Index(base→current) / Index(current→base) = 1",
+  "correctAnswer": "Index(base→current) × Index(current→base) = 1"
+},
+{
+  "title": "STA111",
+  "id": 85,
+  "question": "The factor reversal test requires that:",
+  "optionA": "Price index × Quantity index = Value index",
+  "optionB": "Price index + Quantity index = Value index",
+  "optionC": "Price index - Quantity index = Value index",
+  "optionD": "Price index / Quantity index = Value index",
+  "correctAnswer": "Price index × Quantity index = Value index"
+},
+{
+  "title": "STA111",
+  "id": 86,
+  "question": "Which of these is NOT a problem with index numbers?",
+  "optionA": "Quality changes",
+  "optionB": "New products",
+  "optionC": "Base year selection",
+  "optionD": "Standard deviation calculation",
+  "correctAnswer": "Standard deviation calculation"
+},
+{
+  "title": "STA111",
+  "id": 87,
+  "question": "Chain base index numbers:",
+  "optionA": "Use a fixed base year",
+  "optionB": "Update the base year periodically",
+  "optionC": "Don't use a base year",
+  "optionD": "Are geometric means",
+  "correctAnswer": "Update the base year periodically"
+},
+{
+  "title": "STA111",
+  "id": 88,
+  "question": "The terms 'current year' and 'base year' are used in:",
+  "optionA": "Time series analysis",
+  "optionB": "Index numbers",
+  "optionC": "Probability theory",
+  "optionD": "Descriptive statistics",
+  "correctAnswer": "Index numbers"
+},
+{
+  "title": "STA111",
+  "id": 89,
+  "question": "Which of these is NOT a weighted index number?",
+  "optionA": "Laspeyres",
+  "optionB": "Paasche",
+  "optionC": "Fisher's Ideal",
+  "optionD": "Simple aggregate",
+  "correctAnswer": "Simple aggregate"
+},
+{
+  "title": "STA111",
+  "id": 90,
+  "question": "The quantity index measures changes in:",
+  "optionA": "Prices",
+  "optionB": "Quantities",
+  "optionC": "Values",
+  "optionD": "Quality",
+  "correctAnswer": "Quantities"
+},
+{
+  "title": "STA111",
+  "id": 91,
+  "question": "Which of these is NOT a characteristic of a good index number?",
+  "optionA": "Representative",
+  "optionB": "Comparable",
+  "optionC": "Sensitive",
+  "optionD": "Fixed",
+  "correctAnswer": "Fixed"
+},
+{
+  "title": "STA111",
+  "id": 92,
+  "question": "The value index measures changes in:",
+  "optionA": "Prices only",
+  "optionB": "Quantities only",
+  "optionC": "Prices × Quantities",
+  "optionD": "Prices / Quantities",
+  "correctAnswer": "Prices × Quantities"
+},
+{
+  "title": "STA111",
+  "id": 93,
+  "question": "Which of these is NOT a method for constructing index numbers?",
+  "optionA": "Simple aggregate method",
+  "optionB": "Average of relatives method",
+  "optionC": "Weighted aggregate method",
+  "optionD": "Standard deviation method",
+  "correctAnswer": "Standard deviation method"
+},
+{
+  "title": "STA111",
+  "id": 94,
+  "question": "The base year for an index number should be:",
+  "optionA": "A normal year",
+  "optionB": "A recent year",
+  "optionC": "An arbitrary year",
+  "optionD": "A future year",
+  "correctAnswer": "A normal year"
+},
+{
+  "title": "STA111",
+  "id": 95,
+  "question": "Which of these is NOT a limitation of index numbers?",
+  "optionA": "Sampling errors",
+  "optionB": "Quality changes",
+  "optionC": "Arbitrary weights",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Standard deviation"
+},
+{
+  "title": "STA111",
+  "id": 96,
+  "question": "The purchasing power of money is inversely related to:",
+  "optionA": "Price index",
+  "optionB": "Quantity index",
+  "optionC": "Value index",
+  "optionD": "Quality index",
+  "correctAnswer": "Price index"
+},
+{
+  "title": "STA111",
+  "id": 97,
+  "question": "Real wages are calculated by:",
+  "optionA": "Money wages / Price index",
+  "optionB": "Money wages × Price index",
+  "optionC": "Money wages + Price index",
+  "optionD": "Money wages - Price index",
+  "correctAnswer": "Money wages / Price index"
+},
+{
+  "title": "STA111",
+  "id": 98,
+  "question": "Which of these is NOT a use of the Consumer Price Index?",
+  "optionA": "Measuring inflation",
+  "optionB": "Adjusting wages",
+  "optionC": "Setting interest rates",
+  "optionD": "Calculating probabilities",
+  "correctAnswer": "Calculating probabilities"
+},
+{
+  "title": "STA111",
+  "id": 99,
+  "question": "The Producer Price Index measures:",
+  "optionA": "Prices paid by consumers",
+  "optionB": "Prices received by producers",
+  "optionC": "Stock prices",
+  "optionD": "Interest rates",
+  "correctAnswer": "Prices received by producers"
+},
+{
+  "title": "STA111",
+  "id": 100,
+  "question": "Which of these is NOT a type of index number?",
+  "optionA": "Price index",
+  "optionB": "Quantity index",
+  "optionC": "Value index",
+  "optionD": "Standard index",
+  "correctAnswer": "Standard index"
+},
+{
+  "title": "STA111",
+  "id": 101,
+  "question": "Which measure is most appropriate for skewed distributions?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Mode",
+  "optionD": "Range",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 102,
+  "question": "In a normal distribution, what percentage of data falls within ±2 standard deviations?",
+  "optionA": "68%",
+  "optionB": "95%",
+  "optionC": "99.7%",
+  "optionD": "100%",
+  "correctAnswer": "95%"
+},
+{
+  "title": "STA111",
+  "id": 103,
+  "question": "Which graphical representation shows the five-number summary?",
+  "optionA": "Histogram",
+  "optionB": "Box plot",
+  "optionC": "Pie chart",
+  "optionD": "Line graph",
+  "correctAnswer": "Box plot"
+},
+{
+  "title": "STA111",
+  "id": 104,
+  "question": "If a dataset has a mean of 50 and a median of 60, the distribution is:",
+  "optionA": "Symmetric",
+  "optionB": "Positively skewed",
+  "optionC": "Negatively skewed",
+  "optionD": "Uniform",
+  "correctAnswer": "Negatively skewed"
+},
+{
+  "title": "STA111",
+  "id": 105,
+  "question": "Which correlation coefficient indicates the strongest relationship?",
+  "optionA": "-0.9",
+  "optionB": "0.5",
+  "optionC": "0.1",
+  "optionD": "0.8",
+  "correctAnswer": "-0.9"
+},
+{
+  "title": "STA111",
+  "id": 106,
+  "question": "The variance of a dataset is always:",
+  "optionA": "Positive",
+  "optionB": "Negative",
+  "optionC": "Zero",
+  "optionD": "Equal to the mean",
+  "correctAnswer": "Positive"
+},
+{
+  "title": "STA111",
+  "id": 107,
+  "question": "Which measure is unaffected by scaling of data?",
+  "optionA": "Range",
+  "optionB": "Standard deviation",
+  "optionC": "Coefficient of variation",
+  "optionD": "Variance",
+  "correctAnswer": "Coefficient of variation"
+},
+{
+  "title": "STA111",
+  "id": 108,
+  "question": "A dataset with kurtosis > 3 is called:",
+  "optionA": "Leptokurtic",
+  "optionB": "Platykurtic",
+  "optionC": "Mesokurtic",
+  "optionD": "Symmetric",
+  "correctAnswer": "Leptokurtic"
+},
+{
+  "title": "STA111",
+  "id": 109,
+  "question": "Which sampling method ensures equal representation of subgroups?",
+  "optionA": "Simple random",
+  "optionB": "Stratified",
+  "optionC": "Cluster",
+  "optionD": "Convenience",
+  "correctAnswer": "Stratified"
+},
+{
+  "title": "STA111",
+  "id": 110,
+  "question": "The middle 50% of data in a box plot is represented by:",
+  "optionA": "Whiskers",
+  "optionB": "Box",
+  "optionC": "Median line",
+  "optionD": "Outliers",
+  "correctAnswer": "Box"
+},
+{
+  "title": "STA111",
+  "id": 111,
+  "question": "Which measure is most sensitive to extreme values?",
+  "optionA": "Median",
+  "optionB": "Mode",
+  "optionC": "Mean",
+  "optionD": "IQR",
+  "correctAnswer": "Mean"
+},
+{
+  "title": "STA111",
+  "id": 112,
+  "question": "A z-score of 1.5 means the value is:",
+  "optionA": "1.5 SD below mean",
+  "optionB": "1.5 SD above mean",
+  "optionC": "At the median",
+  "optionD": "An outlier",
+  "correctAnswer": "1.5 SD above mean"
+},
+{
+  "title": "STA111",
+  "id": 113,
+  "question": "Which graph is best for time-series data?",
+  "optionA": "Bar chart",
+  "optionB": "Line graph",
+  "optionC": "Pie chart",
+  "optionD": "Scatter plot",
+  "correctAnswer": "Line graph"
+},
+{
+  "title": "STA111",
+  "id": 114,
+  "question": "The range of correlation coefficient (r) is:",
+  "optionA": "0 to 1",
+  "optionB": "-1 to 1",
+  "optionC": "0 to ∞",
+  "optionD": "-∞ to ∞",
+  "correctAnswer": "-1 to 1"
+},
+{
+  "title": "STA111",
+  "id": 115,
+  "question": "Which of these is NOT a measure of position?",
+  "optionA": "Percentile",
+  "optionB": "Quartile",
+  "optionC": "Standard score",
+  "optionD": "Variance",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 116,
+  "question": "In a symmetrical distribution:",
+  "optionA": "Mean > Median",
+  "optionB": "Mean < Median",
+  "optionC": "Mean = Median",
+  "optionD": "Mode > Median",
+  "correctAnswer": "Mean = Median"
+},
+{
+  "title": "STA111",
+  "id": 117,
+  "question": "Which index satisfies both time reversal and factor reversal tests?",
+  "optionA": "Laspeyres",
+  "optionB": "Paasche",
+  "optionC": "Fisher's Ideal",
+  "optionD": "Simple aggregate",
+  "correctAnswer": "Fisher's Ideal"
+},
+{
+  "title": "STA111",
+  "id": 118,
+  "question": "A dataset with all identical values has:",
+  "optionA": "SD = 0",
+  "optionB": "Mean = 0",
+  "optionC": "Range = 1",
+  "optionD": "IQR = ∞",
+  "correctAnswer": "SD = 0"
+},
+{
+  "title": "STA111",
+  "id": 119,
+  "question": "Which measure divides data into 100 equal parts?",
+  "optionA": "Quartile",
+  "optionB": "Percentile",
+  "optionC": "Decile",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Percentile"
+},
+{
+  "title": "STA111",
+  "id": 120,
+  "question": "The empirical rule applies to distributions that are:",
+  "optionA": "Uniform",
+  "optionB": "Normal",
+  "optionC": "Skewed",
+  "optionD": "Bimodal",
+  "correctAnswer": "Normal"
+},
+{
+  "title": "STA111",
+  "id": 121,
+  "question": "Which of these is NOT a characteristic of the mean?",
+  "optionA": "Uses all data points",
+  "optionB": "Affected by outliers",
+  "optionC": "Appropriate for categorical data",
+  "optionD": "Algebraically tractable",
+  "correctAnswer": "Appropriate for categorical data"
+},
+{
+  "title": "STA111",
+  "id": 122,
+  "question": "A dataset with mean=50, median=50, mode=50 is:",
+  "optionA": "Positively skewed",
+  "optionB": "Negatively skewed",
+  "optionC": "Symmetric",
+  "optionD": "Bimodal",
+  "correctAnswer": "Symmetric"
+},
+{
+  "title": "STA111",
+  "id": 123,
+  "question": "Which measure is best for comparing variability between datasets with different units?",
+  "optionA": "Variance",
+  "optionB": "Standard deviation",
+  "optionC": "Coefficient of variation",
+  "optionD": "Range",
+  "correctAnswer": "Coefficient of variation"
+},
+{
+  "title": "STA111",
+  "id": 124,
+  "question": "In a left-skewed distribution:",
+  "optionA": "Mean < Median < Mode",
+  "optionB": "Mean > Median > Mode",
+  "optionC": "Mean = Median = Mode",
+  "optionD": "Mode > Mean > Median",
+  "correctAnswer": "Mean < Median < Mode"
+},
+{
+  "title": "STA111",
+  "id": 125,
+  "question": "Which of these is NOT a probability sampling method?",
+  "optionA": "Simple random",
+  "optionB": "Stratified",
+  "optionC": "Convenience",
+  "optionD": "Systematic",
+  "correctAnswer": "Convenience"
+},
+{
+  "title": "STA111",
+  "id": 126,
+  "question": "The interquartile range covers:",
+  "optionA": "25% of data",
+  "optionB": "50% of data",
+  "optionC": "75% of data",
+  "optionD": "100% of data",
+  "correctAnswer": "50% of data"
+},
+{
+  "title": "STA111",
+  "id": 127,
+  "question": "Which graph preserves original data values?",
+  "optionA": "Histogram",
+  "optionB": "Stem-and-leaf plot",
+  "optionC": "Box plot",
+  "optionD": "Pie chart",
+  "correctAnswer": "Stem-and-leaf plot"
+},
+{
+  "title": "STA111",
+  "id": 128,
+  "question": "A dataset with SD=0 implies:",
+  "optionA": "Perfect variability",
+  "optionB": "No variability",
+  "optionC": "High skewness",
+  "optionD": "Outliers present",
+  "correctAnswer": "No variability"
+},
+{
+  "title": "STA111",
+  "id": 129,
+  "question": "Which correlation indicates no linear relationship?",
+  "optionA": "-1",
+  "optionB": "0",
+  "optionC": "1",
+  "optionD": "0.5",
+  "correctAnswer": "0"
+},
+{
+  "title": "STA111",
+  "id": 130,
+  "question": "The harmonic mean of 2 and 4 is:",
+  "optionA": "3",
+  "optionB": "2.67",
+  "optionC": "8/3",
+  "optionD": "Both B and C",
+  "correctAnswer": "Both B and C"
+},
+{
+  "title": "STA111",
+  "id": 131,
+  "question": "Which measure is most appropriate for rates?",
+  "optionA": "Arithmetic mean",
+  "optionB": "Geometric mean",
+  "optionC": "Harmonic mean",
+  "optionD": "Median",
+  "correctAnswer": "Harmonic mean"
+},
+{
+  "title": "STA111",
+  "id": 132,
+  "question": "A leptokurtic distribution has:",
+  "optionA": "Thicker tails than normal",
+  "optionB": "Thinner tails than normal",
+  "optionC": "No tails",
+  "optionD": "Uniform tails",
+  "correctAnswer": "Thicker tails than normal"
+},
+{
+  "title": "STA111",
+  "id": 133,
+  "question": "Which index uses current period quantities?",
+  "optionA": "Laspeyres",
+  "optionB": "Paasche",
+  "optionC": "Fisher's Ideal",
+  "optionD": "Simple aggregate",
+  "correctAnswer": "Paasche"
+},
+{
+  "title": "STA111",
+  "id": 134,
+  "question": "The geometric mean of 1, 2, and 4 is:",
+  "optionA": "2",
+  "optionB": "7/3",
+  "optionC": "∛8",
+  "optionD": "Both A and C",
+  "correctAnswer": "Both A and C"
+},
+{
+  "title": "STA111",
+  "id": 135,
+  "question": "Which measure is NOT affected by all data values?",
+  "optionA": "Mean",
+  "optionB": "Median",
+  "optionC": "Variance",
+  "optionD": "Standard deviation",
+  "correctAnswer": "Median"
+},
+{
+  "title": "STA111",
+  "id": 136,
+  "question": "A dataset with Q1=20, Q3=40 has IQR of:",
+  "optionA": "10",
+  "optionB": "20",
+  "optionC": "30",
+  "optionD": "60",
+  "correctAnswer": "20"
+},
+{
+  "title": "STA111",
+  "id": 137,
+  "question": "Which graph shows cumulative frequencies?",
+  "optionA": "Histogram",
+  "optionB": "Ogive",
+  "optionC": "Pie chart",
+  "optionD": "Scatter plot",
+  "correctAnswer": "Ogive"
+},
+{
+  "title": "STA111",
+  "id": 138,
+  "question": "A platykurtic distribution has:",
+  "optionA": "Sharper peak than normal",
+  "optionB": "Flatter peak than normal",
+  "optionC": "No peak",
+  "optionD": "Multiple peaks",
+  "correctAnswer": "Flatter peak than normal"
+},
+{
+  "title": "STA111",
+  "id": 139,
+  "question": "Which measure is most affected by data scaling?",
+  "optionA": "Median",
+  "optionB": "Mode",
+  "optionC": "Variance",
+  "optionD": "IQR",
+  "correctAnswer": "Variance"
+},
+{
+  "title": "STA111",
+  "id": 140,
+  "question": "A dataset with mean=70 and median=80 is likely:",
+  "optionA": "Symmetric",
+  "optionB": "Positively skewed",
+  "optionC": "Negatively skewed",
+  "optionD": "Uniform",
+  "correctAnswer": "Negatively skewed"
+}    ,
+    {
+      "title": "STA111",
+      "id": 141,
+      "question": "Which of the following is NOT a characteristic of the normal distribution?",
+      "optionA": "Bell-shaped curve",
+      "optionB": "Symmetrical about the mean",
+      "optionC": "Mean = Median = Mode",
+      "optionD": "Uniform probability",
+      "correctAnswer": "Uniform probability"
+    },
+    {
+      "title": "STA111",
+      "id": 142,
+      "question": "The range of a dataset is calculated as:",
+      "optionA": "Maximum value - Minimum value",
+      "optionB": "Q3 - Q1",
+      "optionC": "Mean - Median",
+      "optionD": "Standard deviation × 2",
+      "correctAnswer": "Maximum value - Minimum value"
+    },
+    {
+      "title": "STA111",
+      "id": 143,
+      "question": "Which measure is most appropriate for comparing variability between datasets with different units?",
+      "optionA": "Variance",
+      "optionB": "Standard deviation",
+      "optionC": "Coefficient of variation",
+      "optionD": "Range",
+      "correctAnswer": "Coefficient of variation"
+    },
+    {
+      "title": "STA111",
+      "id": 144,
+      "question": "In a box plot, outliers are typically defined as values that are:",
+      "optionA": "Below Q1 or above Q3",
+      "optionB": "Below Q1 - 1.5×IQR or above Q3 + 1.5×IQR",
+      "optionC": "Below the mean or above the mean",
+      "optionD": "Below the median or above the median",
+      "correctAnswer": "Below Q1 - 1.5×IQR or above Q3 + 1.5×IQR"
+    },
+    {
+      "title": "STA111",
+      "id": 145,
+      "question": "Which of the following is NOT a measure of position?",
+      "optionA": "Percentile",
+      "optionB": "Quartile",
+      "optionC": "Standard score (z-score)",
+      "optionD": "Variance",
+      "correctAnswer": "Variance"
+    },
+    {
+      "title": "STA111",
+      "id": 146,
+      "question": "The empirical rule states that for a normal distribution, approximately what percentage of data falls within ±1 standard deviation of the mean?",
+      "optionA": "50%",
+      "optionB": "68%",
+      "optionC": "95%",
+      "optionD": "99.7%",
+      "correctAnswer": "68%"
+    },
+    {
+      "title": "STA111",
+      "id": 147,
+      "question": "Which correlation coefficient indicates the strongest linear relationship?",
+      "optionA": "-0.95",
+      "optionB": "0.85",
+      "optionC": "0.10",
+      "optionD": "0.50",
+      "correctAnswer": "-0.95"
+    },
+    {
+      "title": "STA111",
+      "id": 148,
+      "question": "A dataset with all values identical will have:",
+      "optionA": "Standard deviation = 0",
+      "optionB": "Mean = 0",
+      "optionC": "Range = 1",
+      "optionD": "Variance = 1",
+      "correctAnswer": "Standard deviation = 0"
+    },
+    {
+      "title": "STA111",
+      "id": 149,
+      "question": "Which graphical representation is best for showing the relationship between two quantitative variables?",
+      "optionA": "Bar chart",
+      "optionB": "Pie chart",
+      "optionC": "Scatter plot",
+      "optionD": "Histogram",
+      "correctAnswer": "Scatter plot"
+    },
+    {
+      "title": "STA111",
+      "id": 150,
+      "question": "The interquartile range (IQR) is calculated as:",
+      "optionA": "Q3 - Q1",
+      "optionB": "Maximum - Minimum",
+      "optionC": "Mean - Median",
+      "optionD": "Standard deviation × 2",
+      "correctAnswer": "Q3 - Q1"
+    },
+    {
+      "title": "STA111",
+      "id": 151,
+      "question": "Which of the following is NOT a probability sampling method?",
+      "optionA": "Simple random sampling",
+      "optionB": "Stratified sampling",
+      "optionC": "Convenience sampling",
+      "optionD": "Systematic sampling",
+      "correctAnswer": "Convenience sampling"
+    },
+    {
+      "title": "STA111",
+      "id": 152,
+      "question": "A z-score of 2 indicates that the data point is:",
+      "optionA": "2 standard deviations below the mean",
+      "optionB": "2 standard deviations above the mean",
+      "optionC": "At the median",
+      "optionD": "An outlier",
+      "correctAnswer": "2 standard deviations above the mean"
+    },
+    {
+      "title": "STA111",
+      "id": 153,
+      "question": "Which measure of central tendency is most affected by extreme values?",
+      "optionA": "Median",
+      "optionB": "Mode",
+      "optionC": "Mean",
+      "optionD": "All are equally affected",
+      "correctAnswer": "Mean"
+    },
+    {
+      "title": "STA111",
+      "id": 154,
+      "question": "In a negatively skewed distribution:",
+      "optionA": "Mean > Median > Mode",
+      "optionB": "Mean < Median < Mode",
+      "optionC": "Mean = Median = Mode",
+      "optionD": "Mode > Mean > Median",
+      "correctAnswer": "Mean < Median < Mode"
+    },
+    {
+      "title": "STA111",
+      "id": 155,
+      "question": "Which of the following is NOT a component of a box plot?",
+      "optionA": "Mean",
+      "optionB": "Median",
+      "optionC": "Quartiles",
+      "optionD": "Whiskers",
+      "correctAnswer": "Mean"
+    },
+    {
+      "title": "STA111",
+      "id": 156,
+      "question": "The coefficient of variation is calculated as:",
+      "optionA": "(Standard deviation / Mean) × 100",
+      "optionB": "(Mean / Standard deviation) × 100",
+      "optionC": "Standard deviation × Mean",
+      "optionD": "Standard deviation - Mean",
+      "correctAnswer": "(Standard deviation / Mean) × 100"
+    }
+  ]

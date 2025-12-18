@@ -1,0 +1,1502 @@
+[
+    {
+        "title": "ENT211",
+        "id": 1,
+        "question": "Entrepreneur is a person or a group of persons who bears",
+        "optionA": "Risk",
+        "optionB": "Loss",
+        "optionC": "Certainty",
+        "optionD": "None of these",
+        "correctAnswer": "Risk"
+    },
+    {
+        "title": "ENT211",
+        "id": 2,
+        "question": "The following are the role of entrepreneur except",
+        "optionA": "wealth creation",
+        "optionB": "contributes to GDP",
+        "optionC": "employment generation",
+        "optionE": "Generation of inflation",
+        "correctAnswer": "Generation of inflation"
+    },
+    {
+        "title": "ENT211",
+        "id": 3,
+        "question": "____ operated from within the organization itself",
+        "optionA": "Entrepreneur",
+        "optionB": "Intrapreneur",
+        "optionC": "Organizer",
+        "optionD": "None of these",
+        "correctAnswer": "Intrapreneur"
+    },
+    {
+        "title": "ENT211",
+        "id": 4,
+        "question": "Which among the following is a characteristic of an entrepreneur?",
+        "optionA": "curiosity",
+        "optionB": "decisiveness",
+        "optionC": "adaptability",
+        "optionD": "all of the above",
+        "correctAnswer": "all of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 5,
+        "question": "The willingness to face the losses arising from the uncertainties in the field of business bravely called",
+        "optionA": "Risk bearing",
+        "optionB": "Trading",
+        "optionC": "Loss",
+        "optionD": "Uncertainty",
+        "correctAnswer": "Risk bearing"
+    },
+    {
+        "title": "ENT211",
+        "id": 6,
+        "question": "____ Entrepreneurs are imitating the successful innovations made by other entrepreneurs",
+        "optionA": "Imitating",
+        "optionB": "Fabian",
+        "optionC": "Rational",
+        "optionD": "Cognitive",
+        "correctAnswer": "Imitating"
+    },
+    {
+        "title": "ENT211",
+        "id": 7,
+        "question": "____ Entrepreneurs are shy and lazy",
+        "optionA": "Done",
+        "optionB": "Cognitive",
+        "optionC": "Fabian",
+        "optionD": "Shy",
+        "correctAnswer": "Fabian"
+    },
+    {
+        "title": "ENT211",
+        "id": 8,
+        "question": "____ entrepreneur is a craftsman",
+        "optionA": "Technical",
+        "optionB": "Motivated",
+        "optionC": "Industrial",
+        "optionD": "None of these",
+        "correctAnswer": "Technical"
+    },
+    {
+        "title": "ENT211",
+        "id": 9,
+        "question": "____ entrepreneurs are concerned only with developing alternative marketing strategies to promote the business",
+        "optionA": "Professional",
+        "optionB": "Technical",
+        "optionC": "Redact",
+        "optionD": "Corporate",
+        "correctAnswer": "Professional"
+    },
+    {
+        "title": "ENT211",
+        "id": 10,
+        "question": "____ entrepreneurs are motivated by psychological and economic rewards",
+        "optionA": "Professional",
+        "optionB": "Pure",
+        "optionC": "Induced",
+        "optionD": "None of these",
+        "correctAnswer": "Induced"
+    },
+    {
+        "title": "ENT211",
+        "id": 11,
+        "question": "____ entrepreneurs follow the traditional method of production",
+        "optionA": "Drone",
+        "optionB": "Rational",
+        "optionC": "Fabian",
+        "optionD": "Imitating",
+        "correctAnswer": "Drone"
+    },
+    {
+        "title": "ENT211",
+        "id": 12,
+        "question": "____ is a stereo-typed entrepreneur",
+        "optionA": "Professional",
+        "optionB": "Modern",
+        "optionC": "Classical",
+        "optionD": "none of these",
+        "correctAnswer": "Classical"
+    },
+    {
+        "title": "ENT211",
+        "id": 13,
+        "question": "____ entrepreneur hardly introduces anything revolutionary and follows the principle of rule or thumb",
+        "optionA": "Cognitive",
+        "optionB": "Rational",
+        "optionC": "Empirical",
+        "optionD": "None of these",
+        "correctAnswer": "Empirical"
+    },
+    {
+        "title": "ENT211",
+        "id": 14,
+        "question": "What is the first step in identifying a business opportunity?",
+        "optionA": "Developing a business plan",
+        "optionB": "Identifying a problem or unmet need",
+        "optionC": "Securing Auditing",
+        "optionD": "Creating a marketing strategy",
+        "correctAnswer": "Identifying a problem or unmet need"
+    },
+    {
+        "title": "ENT211",
+        "id": 15,
+        "question": "What is the role of innovation in identifying business opportunities?",
+        "optionA": "Create new products, services, or processes",
+        "optionB": "To execute marketing plan",
+        "optionC": "To secure funding",
+        "optionD": "Noticing target customers",
+        "correctAnswer": "Create new products, services, or processes"
+    },
+    {
+        "title": "ENT211",
+        "id": 16,
+        "question": "Which of the following is a type of competitive analysis?",
+        "optionA": "Analyzing a competitor's strengths and weaknesses",
+        "optionB": "Developing a marketing plan",
+        "optionC": "Creating a business plan",
+        "optionD": "Securing funding",
+        "correctAnswer": "Analyzing a competitor's strengths and weaknesses"
+    },
+    {
+        "title": "ENT211",
+        "id": 17,
+        "question": "What does 'SWOT analysis' stand for in the context of business opportunities?",
+        "optionA": "Strength, Weak, Opportunity, Threats",
+        "optionB": "Strong, Weak, Opportunities, Threats",
+        "optionC": "Skills, Work, Opportunities, Talent",
+        "optionD": "Strategic, Weak, Opportunities, Tactics",
+        "correctAnswer": "Strength, Weak, Opportunity, Threats"
+    },
+    {
+        "title": "ENT211",
+        "id": 18,
+        "question": "A business opportunity can be defined as:",
+        "optionA": "A new product or service idea",
+        "optionB": "A problem that can be solved in a profitable way",
+        "optionC": "A gap in the market that can be filled",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 32,
+        "question": "Which of the following could be a strength?",
+        "optionA": "Weather",
+        "optionB": "A new international market",
+        "optionC": "A price that is too high",
+        "optionD": "The location of a business",
+        "correctAnswer": "The location of a business"
+    },
+    {
+        "title": "ENT211",
+        "id": 33,
+        "question": "Which of the following could be a weakness?",
+        "optionA": "A developing market such as the Internet",
+        "optionB": "Competitors with access to better channels of distribution",
+        "optionC": "Poor quality of goods and services",
+        "optionD": "Special marketing expertise",
+        "correctAnswer": "Poor quality of goods and services"
+    },
+    {
+        "title": "ENT211",
+        "id": 34,
+        "question": "To achieve these prime objectives, we have to conduct first",
+        "optionA": "Marketing feasibility study",
+        "optionB": "Preliminary feasibility study",
+        "optionC": "Financial feasibility study",
+        "optionD": "Technical and engineering feasibility study",
+        "correctAnswer": "Preliminary feasibility study"
+    },
+    {
+        "title": "ENT211",
+        "id": 35,
+        "question": "Historical Data is the data that is collected from the surrounding environment through survey, and sales representatives.",
+        "optionA": "True",
+        "optionB": "False",
+        "correctAnswer": "True"
+    },
+    {
+        "title": "ENT211",
+        "id": 36,
+        "question": "If a technology is required to convert the idea of a product offering is available, it is known as ____ Feasibility Study.",
+        "optionA": "Economic",
+        "optionB": "Financial",
+        "optionC": "Commercial",
+        "optionD": "Technical",
+        "correctAnswer": "Technical"
+    },
+    {
+        "title": "ENT211",
+        "id": 37,
+        "question": "Which of the following aspects are typically included when analyzing the environment?",
+        "optionA": "The volume of sales within the industry",
+        "optionB": "The rate of technological innovation in the industry",
+        "optionC": "The threat of new entrants",
+        "optionD": "The level of government regulations in the industry",
+        "correctAnswer": "The threat of new entrants"
+    },
+    {
+        "title": "ENT211",
+        "id": 38,
+        "question": "Which force evaluates the influence of customers on an industry?",
+        "optionA": "Threat of new entrants",
+        "optionB": "Bargaining power of suppliers",
+        "optionC": "Bargaining power of buyers",
+        "optionD": "Intensity of competitive rivalry",
+        "correctAnswer": "Bargaining power of buyers"
+    },
+    {
+        "title": "ENT211",
+        "id": 39,
+        "question": "Which factor primarily deals with the characteristics of a target market such as age, gender, and income?",
+        "optionA": "Economic conditions",
+        "optionB": "Demographics",
+        "optionC": "Social and cultural forces",
+        "optionD": "Technology",
+        "correctAnswer": "Demographics"
+    },
+    {
+        "title": "ENT211",
+        "id": 40,
+        "question": "Sources and costs of machinery and equipment to be used are considered to be:",
+        "optionA": "Organization information",
+        "optionB": "Production information",
+        "optionC": "Manpower information",
+        "optionD": "Market information",
+        "correctAnswer": "Production information"
+    },
+    {
+        "title": "ENT211",
+        "id": 41,
+        "question": "What is the marketing gap?",
+        "optionA": "The difference between marketing expenses and revenue",
+        "optionB": "The difference between quantity supplied and quantity demanded",
+        "optionC": "The gap between product development and market launch",
+        "optionD": "The difference between brand awareness and brand loyalty",
+        "correctAnswer": "The difference between quantity supplied and quantity demanded"
+    },
+    {
+        "title": "ENT211",
+        "id": 42,
+        "question": "What is the primary purpose of a production feasibility study?",
+        "optionA": "Assessing market demand",
+        "optionB": "Evaluating technical requirements",
+        "optionC": "Analyzing financial projections",
+        "optionD": "Identifying legal regulations",
+        "correctAnswer": "Evaluating technical requirements"
+    },
+    {
+        "title": "ENT211",
+        "id": 43,
+        "question": "What does a technical feasibility study primarily focus on?",
+        "optionA": "Market trends analysis",
+        "optionB": "Regulatory compliance",
+        "optionC": "Equipment and technology requirements",
+        "optionD": "Supplier evaluation",
+        "correctAnswer": "Equipment and technology requirements"
+    },
+    {
+        "title": "ENT211",
+        "id": 44,
+        "question": "What does the break-even point represent in business?",
+        "optionA": "The point at which total revenue equals total costs",
+        "optionB": "The point at which total revenue exceeds total costs",
+        "optionC": "The point at which total costs exceed total revenue",
+        "optionD": "The point at which fixed costs are fully recovered",
+        "correctAnswer": "The point at which total revenue equals total costs"
+    },
+    {
+        "title": "ENT211",
+        "id": 45,
+        "question": "The structure in which there is a separation of ownership and management is called",
+        "optionA": "Sole proprietorship",
+        "optionB": "Partnership",
+        "optionC": "Company",
+        "optionD": "All business organization",
+        "correctAnswer": "Company"
+    },
+    {
+        "title": "ENT211",
+        "id": 46,
+        "question": "What is a sole proprietorship?",
+        "optionA": "Business owned by two or more individuals",
+        "optionB": "Business owned and operated by one person",
+        "optionC": "Business owned by shareholders",
+        "optionD": "Business owned by the government",
+        "correctAnswer": "Business owned and operated by one person"
+    },
+    {
+        "title": "ENT211",
+        "id": 47,
+        "question": "Which of the following is characteristic of a partnership?",
+        "optionA": "Limited liability for the owners",
+        "optionB": "Double taxation",
+        "optionC": "Unlimited liability for the owners",
+        "optionD": "Separate legal entity from its owners",
+        "correctAnswer": "Unlimited liability for the owners"
+    },
+    {
+        "title": "ENT211",
+        "id": 48,
+        "question": "What is a key advantage of a corporation?",
+        "optionA": "Limited liability for the owners",
+        "optionB": "Simplicity of formation",
+        "optionC": "Pass-through taxation",
+        "optionD": "Unlimited liability for the owners",
+        "correctAnswer": "Limited liability for the owners"
+    },
+    {
+        "title": "ENT211",
+        "id": 49,
+        "question": "What is a characteristic of a limited liability company (LLC)?",
+        "optionA": "Unlimited liability for the owners",
+        "optionB": "Double taxation",
+        "optionC": "Limited life",
+        "optionD": "Flexibility in management structure",
+        "correctAnswer": "Flexibility in management structure"
+    },
+    {
+        "title": "ENT211",
+        "id": 50,
+        "question": "A key decision when choosing a legal form of business is related to:",
+        "optionA": "The cost of creating and maintaining the business",
+        "optionB": "The level of legal protection for the owners",
+        "optionC": "The degree of management flexibility",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 51,
+        "question": "In a partnership, a partner's liability is typically:",
+        "optionA": "Limited to their investment",
+        "optionB": "Unlimited, meaning personal assets can be used to pay business debts",
+        "optionC": "Protected from business debts",
+        "optionD": "Limited only to the partnership debts",
+        "correctAnswer": "Unlimited, meaning personal assets can be used to pay business debts"
+    },
+    {
+        "title": "ENT211",
+        "id": 52,
+        "question": "Which form of business is known for its flexibility in taxation, allowing owners to choose how their profits are taxed?",
+        "optionA": "Corporation",
+        "optionB": "Partnership",
+        "optionC": "LLC",
+        "optionD": "Sole Proprietorship",
+        "correctAnswer": "LLC"
+    },
+    {
+        "title": "ENT211",
+        "id": 53,
+        "question": "In a sole proprietorship, the owner and the business are:",
+        "optionA": "Legally separate entities",
+        "optionB": "Commercial entities",
+        "optionC": "The same legal entity",
+        "optionD": "Only in the realm of business",
+        "correctAnswer": "The same legal entity"
+    },
+    {
+        "title": "ENT211",
+        "id": 54,
+        "question": "Which legal form of business organization is known for its pass-through taxation?",
+        "optionA": "Corporation",
+        "optionB": "Sole proprietorship",
+        "optionC": "Partnership",
+        "optionD": "Limited liability company (LLC)",
+        "correctAnswer": "Sole proprietorship"
+    },
+    {
+        "title": "ENT211",
+        "id": 55,
+        "question": "Emotional attachment in family businesses can lead to:",
+        "optionA": "Increased innovation",
+        "optionB": "Objective decision-making",
+        "optionC": "Resistance to change",
+        "optionD": "Faster growth",
+        "correctAnswer": "Resistance to change"
+    },
+    {
+        "title": "ENT211",
+        "id": 56,
+        "question": "What is a common reason why family businesses often prefer internal successors?",
+        "optionA": "Lower salaries",
+        "optionB": "Better tax benefits",
+        "optionC": "Stronger emotional ties and loyalty",
+        "optionD": "Regulatory ease",
+        "correctAnswer": "Stronger emotional ties and loyalty"
+    },
+    {
+        "title": "ENT211",
+        "id": 57,
+        "question": "In succession planning, a 'primogeniture' rule refers to:",
+        "optionA": "The youngest child inherits the business",
+        "optionB": "The business is split equally among all children",
+        "optionC": "The eldest child inherits the leadership",
+        "optionD": "A non-family member is appointed CEO",
+        "correctAnswer": "The eldest child inherits the leadership"
+    },
+    {
+        "title": "ENT211",
+        "id": 58,
+        "question": "Which of the following best describes a family constitution?",
+        "optionA": "A legal tax document",
+        "optionB": "A detailed business plan",
+        "optionC": "A set of agreements that govern family participation in the business",
+        "optionD": "The company's official registration certificate",
+        "correctAnswer": "A set of agreements that govern family participation in the business"
+    },
+    {
+        "title": "ENT211",
+        "id": 59,
+        "question": "Which generation is most commonly responsible for business failure in family enterprises?",
+        "optionA": "First generation",
+        "optionB": "Second generation",
+        "optionC": "Fourth generation",
+        "optionD": "Third generation",
+        "correctAnswer": "Third generation"
+    },
+    {
+        "title": "ENT211",
+        "id": 60,
+        "question": "What is a primary challenge in family business succession?",
+        "optionA": "Lack of innovation",
+        "optionB": "Conflict among family members",
+        "optionC": "High competition",
+        "optionD": "Tax regulations",
+        "correctAnswer": "Conflict among family members"
+    },
+    {
+        "title": "ENT211",
+        "id": 61,
+        "question": "What is typically the first step in succession planning for a family business?",
+        "optionA": "Selling the business",
+        "optionB": "Identifying and grooming a successor",
+        "optionC": "Reducing company expenses",
+        "optionD": "Expanding into new markets",
+        "correctAnswer": "Identifying and grooming a successor"
+    },
+    {
+        "title": "ENT211",
+        "id": 62,
+        "question": "In family businesses, 'succession' most often refers to:",
+        "optionA": "Financial restructuring",
+        "optionB": "Transfer of leadership and ownership",
+        "optionC": "Expansion into new markets",
+        "optionD": "Downsizing the workforce",
+        "correctAnswer": "Transfer of leadership and ownership"
+    },
+    {
+        "title": "ENT211",
+        "id": 63,
+        "question": "Which professional might most commonly be hired to assist in family business succession?",
+        "optionA": "Sports coach",
+        "optionB": "Family business consultant",
+        "optionC": "Marketing executive",
+        "optionD": "Software engineer",
+        "correctAnswer": "Family business consultant"
+    },
+    {
+        "title": "ENT211",
+        "id": 64,
+        "question": "What is the main purpose of market research in a new business?",
+        "optionA": "To determine employee salaries",
+        "optionB": "To analyze competitors and understand customer needs",
+        "optionC": "To register the business name",
+        "optionD": "To calculate taxes",
+        "correctAnswer": "To analyze competitors and understand customer needs"
+    },
+    {
+        "title": "ENT211",
+        "id": 65,
+        "question": "What is the first step in starting a new business?",
+        "optionA": "Hiring employees",
+        "optionB": "Finding investors",
+        "optionC": "Identifying a business opportunity",
+        "optionD": "Renting office space",
+        "correctAnswer": "Identifying a business opportunity"
+    },
+    {
+        "title": "ENT211",
+        "id": 66,
+        "question": "Researching, designing and managing a new business requires the following except",
+        "optionA": "Finance",
+        "optionB": "Partnership",
+        "optionC": "Human resources",
+        "optionD": "Strategy",
+        "optionE": "Technology",
+        "correctAnswer": "Partnership"
+    },
+    {
+        "title": "ENT211",
+        "id": 67,
+        "question": "A break-even analysis helps a business determine:",
+        "optionA": "How much profit it will make annually",
+        "optionB": "The point where revenue equals costs",
+        "optionC": "How many employees it should hire",
+        "optionD": "The company's market share",
+        "correctAnswer": "The point where revenue equals costs"
+    },
+    {
+        "title": "ENT211",
+        "id": 68,
+        "question": "Which of the following are the key areas in managing a business effectively",
+        "optionA": "Timely brainstorming",
+        "optionB": "Dynamic environment",
+        "optionC": "Effectual planning",
+        "optionD": "Effective communication",
+        "optionE": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 69,
+        "question": "What is an angel investor?",
+        "optionA": "A person who manages your business",
+        "optionB": "A government official who grants licenses",
+        "optionC": "An individual who provides capital for startups in exchange for ownership equity",
+        "optionD": "A customer who promotes your product",
+        "correctAnswer": "An individual who provides capital for startups in exchange for ownership equity"
+    },
+    {
+        "title": "ENT211",
+        "id": 70,
+        "question": "Which of the following is NOT a characteristic of an entrepreneur?",
+        "optionA": "Risk-taking",
+        "optionB": "Innovativeness",
+        "optionC": "Aversion to change",
+        "optionD": "Proactiveness",
+        "correctAnswer": "Aversion to change"
+    },
+    {
+        "title": "ENT211",
+        "id": 71,
+        "question": "Which document outlines a company's goals and the strategy to achieve them?",
+        "optionA": "Business contract",
+        "optionB": "Business license",
+        "optionC": "Business plan",
+        "optionD": "Marketing plan",
+        "correctAnswer": "Business plan"
+    },
+    {
+        "title": "ENT211",
+        "id": 72,
+        "question": "What is the term for the external factors that influence an entrepreneur's business decisions?",
+        "optionA": "Internal environment",
+        "optionB": "Business environment",
+        "optionC": "Macro environment",
+        "optionD": "Micro environment",
+        "correctAnswer": "Business environment"
+    },
+    {
+        "title": "ENT211",
+        "id": 73,
+        "question": "Which of the following are key themes 'business environment'?",
+        "optionA": "The internal setup of a company",
+        "optionB": "The combination of internal and external factors that influence a business",
+        "optionC": "Only government regulations affecting business",
+        "optionD": "Financial policies of a business",
+        "correctAnswer": "The combination of internal and external factors that influence a business"
+    },
+    {
+        "title": "ENT211",
+        "id": 74,
+        "question": "The law related to consumer protection falls under which environment?",
+        "optionA": "Economic",
+        "optionB": "Political",
+        "optionC": "Legal",
+        "optionD": "Technological",
+        "correctAnswer": "Legal"
+    },
+    {
+        "title": "ENT211",
+        "id": 75,
+        "question": "Which of the following is a micro-environment factor?",
+        "optionA": "Suppliers",
+        "optionB": "Inflation rate",
+        "optionC": "Political stability",
+        "optionD": "Demographic changes",
+        "correctAnswer": "Suppliers"
+    },
+    {
+        "title": "ENT211",
+        "id": 76,
+        "question": "Which of the following strategies helps an entrepreneur deal with threats from the external environment?",
+        "optionA": "Ignoring competitors",
+        "optionB": "SWOT analysis",
+        "optionC": "Only focusing on production",
+        "optionD": "Rewriting innovation",
+        "correctAnswer": "SWOT analysis"
+    },
+    {
+        "title": "ENT211",
+        "id": 77,
+        "question": "Which of the following is NOT a component of the external business environment?",
+        "optionA": "Customers",
+        "optionB": "Employees",
+        "optionC": "Government policies",
+        "optionD": "Competitors",
+        "correctAnswer": "Employees"
+    },
+    {
+        "title": "ENT211",
+        "id": 78,
+        "question": "Which environment includes the attitudes, values, and beliefs of society?",
+        "optionA": "Political environment",
+        "optionB": "Technological environment",
+        "optionC": "Socio-cultural environment",
+        "optionD": "Legal environment",
+        "correctAnswer": "Socio-cultural environment"
+    },
+    {
+        "title": "ENT211",
+        "id": 79,
+        "question": "Change in tax policies by the government would be part of which business environment?",
+        "optionA": "Economic",
+        "optionB": "Technological",
+        "optionC": "Social",
+        "optionD": "Cultural",
+        "correctAnswer": "Economic"
+    },
+    {
+        "title": "ENT211",
+        "id": 80,
+        "question": "Which one of the following is a feature of the business environment?",
+        "optionA": "Static nature",
+        "optionB": "Predictable changes",
+        "optionC": "Dynamic nature",
+        "optionD": "Homogeneity",
+        "correctAnswer": "Dynamic nature"
+    },
+    {
+        "title": "ENT211",
+        "id": 81,
+        "question": "Which of the following is an example of direct marketing?",
+        "optionA": "Billboards",
+        "optionB": "Email campaigns to targeted customers",
+        "optionC": "TV commercials",
+        "optionD": "Radio advertisements",
+        "correctAnswer": "Email campaigns to targeted customers"
+    },
+    
+    {
+        "title": "ENT211",
+        "id": 19,
+        "question": "Which of the following is NOT a typical method for identifying business opportunities?",
+        "optionA": "Observing customer behavior",
+        "optionB": "Analyzing industry trends",
+        "optionC": "Reading industry reports",
+        "optionD": "Focusing on solving a personal problem",
+        "correctAnswer": "Focusing on solving a personal problem"
+    },
+    {
+        "title": "ENT211",
+        "id": 20,
+        "question": "A 'niche market' refers to:",
+        "optionA": "A market with a high level of competition",
+        "optionB": "A small, specialized market segment",
+        "optionC": "Large, untapped market",
+        "optionD": "A market with rapidly changing trends",
+        "correctAnswer": "A small, specialized market segment"
+    },
+    {
+        "title": "ENT211",
+        "id": 21,
+        "question": "Which of the following is NOT a potential source of business opportunities?",
+        "optionA": "Personal experiences",
+        "optionB": "Technological advancements",
+        "optionC": "Economic downturns",
+        "optionD": "Government policies",
+        "correctAnswer": "Government policies"
+    },
+    {
+        "title": "ENT211",
+        "id": 22,
+        "question": "Which of the following is a key factor in determining the potential success of a business opportunity?",
+        "optionA": "The size of the initial investment",
+        "optionB": "The presence of strong competitors",
+        "optionC": "The scalability of the opportunity",
+        "optionD": "The availability of experienced staff",
+        "correctAnswer": "The scalability of the opportunity"
+    },
+    {
+        "title": "ENT211",
+        "id": 23,
+        "question": "A SWOT analysis is used to:",
+        "optionA": "Identify the best marketing channels",
+        "optionB": "Evaluate the strengths, weaknesses, opportunities, and threats of a business",
+        "optionC": "Determine the price of a product",
+        "optionD": "Conduct market research",
+        "correctAnswer": "Evaluate the strengths, weaknesses, opportunities, and threats of a business"
+    },
+    {
+        "title": "ENT211",
+        "id": 24,
+        "question": "What is the primary purpose of conducting a feasibility study?",
+        "optionA": "To determine the profitability of a project",
+        "optionB": "To identify potential risks and challenges",
+        "optionC": "To evaluate the technical feasibility of a project",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 25,
+        "question": "What is the main objective of a market feasibility study?",
+        "optionA": "To analyze the financial implications of a project",
+        "optionB": "To assess the potential demand for a product or service",
+        "optionC": "To evaluate the environmental impact of a project",
+        "optionD": "To determine the operational feasibility of a project",
+        "correctAnswer": "To assess the potential demand for a product or service"
+    },
+    {
+        "title": "ENT211",
+        "id": 26,
+        "question": "When should a feasibility study typically be conducted in the project lifecycle?",
+        "optionA": "After the project has been completed",
+        "optionB": "Before the project is initiated",
+        "optionC": "During the project's execution phase",
+        "optionD": "After the project has started generating revenue",
+        "correctAnswer": "Before the project is initiated"
+    },
+    {
+        "title": "ENT211",
+        "id": 27,
+        "question": "What does a feasibility study primarily aim to determine?",
+        "optionA": "Project timeline",
+        "optionB": "Project scope",
+        "optionC": "Project viability",
+        "optionD": "Project budget",
+        "correctAnswer": "Project viability"
+    },
+    {
+        "title": "ENT211",
+        "id": 28,
+        "question": "Feasibility studies are conducted primarily to determine if a proposed project or business venture is viable or not. (True or False)",
+        "optionA": "True",
+        "optionB": "False",
+        "correctAnswer": "True"
+    },
+    {
+        "title": "ENT211",
+        "id": 29,
+        "question": "The Market Study covers the following Except:",
+        "optionA": "The ongoing trends and opportunities in main and secondary markets, which the business will target",
+        "optionB": "Qualified statements of markets' sizes, growth, and expected market shares",
+        "optionC": "The position of the competitors",
+        "optionD": "Inventory plans for stocks, work in-progress, finished products",
+        "correctAnswer": "Inventory plans for stocks, work in-progress, finished products"
+    },
+    {
+        "title": "ENT211",
+        "id": 30,
+        "question": "Assertion (A): feasibility analysis is a crucial step in evaluating the viability and potential success of a business idea or project. Assertion (B): feasibility analysis helps assess the practicality, market potential, financial viability and resource requirements of a business idea before committing significant resources",
+        "optionA": "Assertion (A) is correct",
+        "optionB": "Assertion (B) is correct",
+        "optionC": "Neither (A) nor (B) is correct",
+        "optionD": "Both (A) and (B) are correct",
+        "correctAnswer": "Both (A) and (B) are correct"
+    },
+    {
+        "title": "ENT211",
+        "id": 31,
+        "question": "The financial study must include answers to questions like:",
+        "optionA": "What should the future balance sheet look like at a given period?",
+        "optionB": "How will individual responsibilities be described to encourage the people to do their best and accomplish the business objectives and purposes?",
+        "optionC": "What types or styles of leadership, motivation, communication, and accountability will be best to knit the people together to achieve the project's objectives and purposes?",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+ {
+        "title": "ENT211",
+        "id": 118,
+        "question": "The tax system in which the taxpayer pays a fixed proportion of their income irrespective of their income level is",
+        "optionA": "Proportional",
+        "optionB": "Progressive",
+        "optionC": "Aggressive",
+        "optionD": "None of the above",
+        "correctAnswer": "Proportional"
+    },
+    {
+        "title": "ENT211",
+        "id": 119,
+        "question": "Which among the following is an indirect tax?",
+        "optionA": "Personal income tax",
+        "optionB": "Capital gain tax",
+        "optionC": "Excise tax",
+        "optionD": "Company tax",
+        "correctAnswer": "Excise tax"
+    },
+    {
+        "title": "ENT211",
+        "id": 120,
+        "question": "The tax body that provides advisory support to the federal government on double taxation and capital allowances is known as",
+        "optionA": "FIRS",
+        "optionB": "ITB",
+        "optionC": "SIRS",
+        "optionD": "All of the above",
+        "correctAnswer": "ITB"
+    },
+    {
+        "title": "ENT211",
+        "id": 121,
+        "question": "A legal way of arranging one's financial affairs in order to reduce tax liability is",
+        "optionA": "Tax avoidance",
+        "optionB": "Tax runs",
+        "optionC": "Tax evasion",
+        "optionD": "Tax rate",
+        "correctAnswer": "Tax avoidance"
+    },
+    {
+        "title": "ENT211",
+        "id": 122,
+        "question": "The specific measure or value upon which a tax is levied is",
+        "optionA": "Tax burden",
+        "optionB": "Tax elasticity",
+        "optionC": "Tax base",
+        "optionD": "Tax incentives",
+        "correctAnswer": "Tax base"
+    },
+    {
+        "title": "ENT211",
+        "id": 123,
+        "question": "Which is the most important challenge in collecting tax in Nigeria?",
+        "optionA": "Corruption and bribery",
+        "optionB": "Inadequate qualified tax personnel",
+        "optionC": "Issues of tax evasion",
+        "optionD": "Current policies and regulation",
+        "correctAnswer": "Issues of tax evasion"
+    },
+    {
+        "title": "ENT211",
+        "id": 124,
+        "question": "Social media platforms can be categorized into the following except",
+        "optionA": "Professional sites",
+        "optionB": "Social sites",
+        "optionC": "Publication sites",
+        "optionD": "Microblogs",
+        "correctAnswer": "Publication sites"
+    },
+    {
+        "title": "ENT211",
+        "id": 125,
+        "question": "One major advantage social media have over traditional media is",
+        "optionA": "Social media is one-way communication",
+        "optionB": "The reach of social media is limited compared to traditional media",
+        "optionC": "Social media does not depend on internet",
+        "optionD": "Information sharing can be instant for social media",
+        "correctAnswer": "Information sharing can be instant for social media"
+    },
+    {
+        "title": "ENT211",
+        "id": 126,
+        "question": "Which amongst the following is a benefit of social media?",
+        "optionA": "It is less cost-effective",
+        "optionB": "It is less interactive",
+        "optionC": "It has a territorial limit",
+        "optionD": "It is less expensive",
+        "correctAnswer": "It is less expensive"
+    },
+    {
+        "title": "ENT211",
+        "id": 127,
+        "question": "The following are adoption theories of technology except",
+        "optionA": "The theory of Reasoned action",
+        "optionB": "Utopia theory of action",
+        "optionC": "Decomposed theory of planned behaviour",
+        "optionD": "Technology of Acceptance model",
+        "correctAnswer": "Utopia theory of action"
+    },
+    {
+        "title": "ENT211",
+        "id": 128,
+        "question": "According to Duane and O'Reilly, organizations go through the following stages in adopting social media except",
+        "optionA": "Exploration",
+        "optionB": "Experimentation and learning",
+        "optionC": "Direction and coordination",
+        "optionD": "Formalization",
+        "correctAnswer": "Formalization"
+    },
+    {
+        "title": "ENT211",
+        "id": 129,
+        "question": "Which amongst the following is a professional social media site?",
+        "optionA": "Facebook",
+        "optionB": "X",
+        "optionC": "Linkedin",
+        "optionD": "Escapboard",
+        "correctAnswer": "Linkedin"
+    },
+    {
+        "title": "ENT211",
+        "id": 130,
+        "question": "All SMEs can market their products through the following social media except",
+        "optionA": "Facebook",
+        "optionB": "YouTube",
+        "optionC": "Radio",
+        "optionD": "Google+",
+        "correctAnswer": "Radio"
+    },
+    {
+        "title": "ENT211",
+        "id": 131,
+        "question": "The development that meets with present needs without compromising the needs of future generations is known as",
+        "optionA": "Action development",
+        "optionB": "Business development",
+        "optionC": "Sustainable development",
+        "optionD": "Idea development",
+        "correctAnswer": "Sustainable development"
+    },
+    {
+        "title": "ENT211",
+        "id": 132,
+        "question": "The origin of sustainable development can be traced to 1992 Rio de Janeiro United Nations Conference on Environment and Development (True/False)",
+        "optionA": "True",
+        "optionB": "False",
+        "correctAnswer": "True"
+    },
+    {
+        "title": "ENT211",
+        "id": 133,
+        "question": "The top pillars of sustainable development include the following except",
+        "optionA": "Environmental sustainability",
+        "optionB": "Human sustainability",
+        "optionC": "Climate sustainability",
+        "optionD": "Economic sustainability",
+        "correctAnswer": "Climate sustainability"
+    },
+    {
+        "title": "ENT211",
+        "id": 134,
+        "question": "SDG simply means",
+        "optionA": "Social development goals",
+        "optionB": "Stable double group",
+        "optionC": "Sustainability development goals",
+        "optionD": "Sustainability development group",
+        "correctAnswer": "Sustainability development goals"
+    },
+    {
+        "title": "ENT211",
+        "id": 135,
+        "question": "SDG was adopted by the United Nations in what year?",
+        "optionA": "September 2000",
+        "optionB": "October 2015",
+        "optionC": "January 2017",
+        "optionD": "September 2015",
+        "correctAnswer": "September 2015"
+    },
+    {
+        "title": "ENT211",
+        "id": 136,
+        "question": "Which amongst the following preceded the SDG?",
+        "optionA": "RTG",
+        "optionB": "MOG",
+        "optionC": "PLO",
+        "optionD": "MDE",
+        "correctAnswer": "MOG"
+    },
+    {
+        "title": "ENT211",
+        "id": 137,
+        "question": "SDG is made up of how many goals?",
+        "optionA": "12",
+        "optionB": "15",
+        "optionC": "23",
+        "optionD": "17",
+        "correctAnswer": "17"
+    },
+    {
+        "title": "ENT211",
+        "id": 138,
+        "question": "The following are goals of SDG except",
+        "optionA": "Reduced inequality",
+        "optionB": "Zero hunger",
+        "optionC": "Good health and well-being",
+        "optionD": "Deforestation",
+        "correctAnswer": "Deforestation"
+    },
+    {
+        "title": "ENT211",
+        "id": 139,
+        "question": "The following are ethical issues faced by business except",
+        "optionA": "Unethical accounting",
+        "optionB": "Harassment and discrimination",
+        "optionC": "Health and safety",
+        "optionD": "Nepotism and favouritism",
+        "correctAnswer": "Health and safety"
+    },
+    {
+        "title": "ENT211",
+        "id": 140,
+        "question": "______ is a moral principle that guides a business conduct which extends beyond legal requirements",
+        "optionA": "Business plan",
+        "optionB": "Business ethics",
+        "optionC": "Business policy",
+        "optionD": "All of the above",
+        "correctAnswer": "Business ethics"
+    },
+    {
+        "title": "ENT211",
+        "id": 141,
+        "question": "______ is a business initiative designed to meet no other specific goals related to ethics, sustainability and social impact",
+        "optionA": "Policy social responsibility",
+        "optionB": "Legal governance possibility",
+        "optionC": "Corporate social responsibility",
+        "optionD": "Corporate sustainability responsibility",
+        "correctAnswer": "Corporate social responsibility"
+    },
+    {
+        "title": "ENT211",
+        "id": 142,
+        "question": "The following are primary stakeholders in a business except",
+        "optionA": "Suppliers",
+        "optionB": "Customers",
+        "optionC": "Government",
+        "optionD": "Employees",
+        "correctAnswer": "Government"
+    },
+    {
+        "title": "ENT211",
+        "id": 143,
+        "question": "One of the following is not a secondary stakeholder",
+        "optionA": "Employees",
+        "optionB": "NGOs",
+        "optionC": "Activists",
+        "optionD": "Local communities",
+        "correctAnswer": "Employees"
+    },
+    {
+        "title": "ENT211",
+        "id": 144,
+        "question": "______ is a type of corporate social responsibility whereby financial decisions are based on commitment to doing good",
+        "optionA": "Ethics",
+        "optionB": "Economic",
+        "optionC": "Environmental",
+        "optionD": "Philanthropic",
+        "correctAnswer": "Philanthropic"
+    },
+    {
+        "title": "ENT211",
+        "id": 145,
+        "question": "Which of the following is the benefit of corporate social responsibility?",
+        "optionA": "Increase in employee engagement",
+        "optionB": "Commitment to United Nations SDG",
+        "optionC": "Refinement of public image",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 146,
+        "question": "______ is a process of enhancing the skillset and knowledge of entrepreneurs regarding the development, management and organization of a business venture while keeping in mind the risks associated with it",
+        "optionA": "Business development",
+        "optionB": "Political development",
+        "optionC": "Entrepreneurship development",
+        "optionD": "Social development",
+        "correctAnswer": "Entrepreneurship development"
+    },
+    {
+        "title": "ENT211",
+        "id": 147,
+        "question": "The government agency responsible for incorporation of companies in Nigeria is",
+        "optionA": "CAC",
+        "optionB": "NAEDAC",
+        "optionC": "FIRS",
+        "optionD": "NEPC",
+        "correctAnswer": "CAC"
+    },
+    {
+        "title": "ENT211",
+        "id": 148,
+        "question": "______ is responsible for the promotion, development and diversification of non-oil exports",
+        "optionA": "FIRS",
+        "optionB": "NEPC",
+        "optionC": "NCC",
+        "optionD": "NAEDAC",
+        "correctAnswer": "NEPC"
+    },
+    {
+        "title": "ENT211",
+        "id": 149,
+        "question": "The government agency responsible for the implementation of policies and guidelines for driving ICT in Nigeria is",
+        "optionA": "National Information Technology Development Agency (NITDA)",
+        "optionB": "NAEDAC",
+        "optionC": "BOI",
+        "optionD": "NIPC",
+        "correctAnswer": "National Information Technology Development Agency (NITDA)"
+    },
+    {
+        "title": "ENT211",
+        "id": 150,
+        "question": "Government agency charged with the responsibility of finance and advisory support to businesses is",
+        "optionA": "BOI",
+        "optionB": "NIPC",
+        "optionC": "NEPC",
+        "optionD": "DBN",
+        "correctAnswer": "BOI"
+    },
+    {
+        "title": "ENT211",
+        "id": 151,
+        "question": "The government agency responsible for the initiation and support measures to enhance investment in Nigeria is",
+        "optionA": "NEPC",
+        "optionB": "NIPC",
+        "optionC": "ITF",
+        "optionD": "SMEDAN",
+        "correctAnswer": "NIPC"
+    },
+    {
+        "title": "ENT211",
+        "id": 152,
+        "question": "The government agency responsible for the promotion and encouragement of the development and acquisition of industrial and commercial skills in Nigeria is",
+        "optionA": "ITF",
+        "optionB": "CBN",
+        "optionC": "NIPC",
+        "optionD": "BOI",
+        "correctAnswer": "ITF"
+    },
+    {
+        "title": "ENT211",
+        "id": 153,
+        "question": "The following is a non-statutory agency in Nigeria",
+        "optionA": "Tony Elumelu Foundation Entrepreneurship Programme",
+        "optionB": "BOI",
+        "optionC": "NEPC",
+        "optionD": "NIPC",
+        "correctAnswer": "Tony Elumelu Foundation Entrepreneurship Programme"
+    },
+    {
+        "title": "ENT211",
+        "id": 154,
+        "question": "The government agency responsible for the development of SMEs and MSME in Nigeria is",
+        "optionA": "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)",
+        "optionB": "ITF",
+        "optionC": "NEPC",
+        "optionD": "BOA",
+        "correctAnswer": "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)"
+    },
+    {
+        "title": "ENT211",
+        "id": 155,
+        "question": "The planning, organizing, staffing, leading, controlling and coordinating the different activities of workers within an organization is",
+        "optionA": "Business organization",
+        "optionB": "Corporate social responsibility",
+        "optionC": "Human resources management",
+        "optionD": "Operations management",
+        "correctAnswer": "Human resources management"
+    },
+    {
+        "title": "ENT211",
+        "id": 156,
+        "question": "The leadership behaviours expected of an effective entrepreneur includes the following except",
+        "optionA": "Create a culture of ethical conduct",
+        "optionB": "Exhibit respect and support for the employees",
+        "optionC": "Lead by example",
+        "optionD": "Create a climate of distrust in the company",
+        "correctAnswer": "Create a climate of distrust in the company"
+    },
+    {
+        "title": "ENT211",
+        "id": 157,
+        "question": "______ is the process of collecting, analyzing and setting out information about job content in order to provide a basis for a job recruitment and evaluation",
+        "optionA": "Job role",
+        "optionB": "Job specification",
+        "optionC": "Job analysis",
+        "optionD": "Job description",
+        "correctAnswer": "Job analysis"
+    },
+    {
+        "title": "ENT211",
+        "id": 158,
+        "question": "Written statement of the purpose of the job, where it fits in the organization structure and the context within which the job holder functions is ______",
+        "optionA": "Job role summary",
+        "optionB": "Job analysis",
+        "optionC": "Job description",
+        "optionD": "Job specification",
+        "correctAnswer": "Job description"
+    },
+    {
+        "title": "ENT211",
+        "id": 159,
+        "question": "Which amongst the following is an example of job description",
+        "optionA": "Job title",
+        "optionB": "Job location",
+        "optionC": "Job summary",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 160,
+        "question": "______ is the process of locating and encouraging potential applicants to apply for existing or anticipated job openings",
+        "optionA": "Employment",
+        "optionB": "Selection",
+        "optionC": "Reception",
+        "optionD": "Recruitment",
+        "correctAnswer": "Recruitment"
+    },
+    {
+        "title": "ENT211",
+        "id": 161,
+        "question": "Which amongst the following is not an example of job specification",
+        "optionA": "Job title",
+        "optionB": "Qualification",
+        "optionC": "Experience",
+        "optionD": "Skills",
+        "correctAnswer": "Job title"
+    },
+    {
+        "title": "ENT211",
+        "id": 162,
+        "question": "______ is a process of differentiating between job applicants in order to identify and hire those with the best likelihood of succeeding on the job",
+        "optionA": "Responsibility",
+        "optionB": "Recruitment",
+        "optionC": "Selection",
+        "optionD": "Specification",
+        "correctAnswer": "Selection"
+    },
+    {
+        "title": "ENT211",
+        "id": 163,
+        "question": "Which of the following is not part of job selection process",
+        "optionA": "Reception of the candidates",
+        "optionB": "Screening interview",
+        "optionC": "Rating out application blank to collect candidate information",
+        "optionD": "Job placement",
+        "correctAnswer": "Job placement"
+    },
+    {
+        "title": "ENT211",
+        "id": 164,
+        "question": "The existence of vacancy in an organization and the filling of the same vacancy within the organization is known as ______",
+        "optionA": "Summary recruitment",
+        "optionB": "External recruitment",
+        "optionC": "Internal recruitment",
+        "optionD": "All of the above",
+        "correctAnswer": "Internal recruitment"
+    },
+    {
+        "title": "ENT211",
+        "id": 165,
+        "question": "External recruitment can be done through the following means except",
+        "optionA": "Newspaper",
+        "optionB": "Internet",
+        "optionC": "Radio",
+        "optionD": "None of the above",
+        "correctAnswer": "None of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 166,
+        "question": "Which of the following factors can affect the success of a recruitment process",
+        "optionA": "The engagement of the recruiting company",
+        "optionB": "The nature of the job been offered",
+        "optionC": "The size of the company",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 167,
+        "question": "Which amongst the following is a remuneration method",
+        "optionA": "Time rate method",
+        "optionB": "Job alignment method",
+        "optionC": "Piece rate method",
+        "optionD": "A and C",
+        "correctAnswer": "A and C"
+    },
+    {
+        "title": "ENT211",
+        "id": 168,
+        "question": "Which of the processes take place after an applicant has been hired",
+        "optionA": "Placement",
+        "optionB": "Orientation",
+        "optionC": "Training",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 169,
+        "question": "The process of familiarizing the new employees to the organization rules and regulations is known as",
+        "optionA": "Placement",
+        "optionB": "Induction",
+        "optionC": "Recruitment",
+        "optionD": "Selection",
+        "correctAnswer": "Induction"
+    },
+    {
+        "title": "ENT211",
+        "id": 170,
+        "question": "OJT stands for",
+        "optionA": "On the job training",
+        "optionB": "On the job technique",
+        "optionC": "On the job technology",
+        "optionD": "Off the job training",
+        "correctAnswer": "On the job training"
+    },
+    {
+        "title": "ENT211",
+        "id": 171,
+        "question": "On the job training includes",
+        "optionA": "Coaching",
+        "optionB": "Conference",
+        "optionC": "Understudy",
+        "optionD": "All of these",
+        "correctAnswer": "All of these"
+    },
+   {
+        "title": "ENT211",
+        "id": 172,
+        "question": "In ______ training, a training centre is set-up and actual job conditions are duplicated or simulated in it",
+        "optionA": "Classroom",
+        "optionB": "Apprenticeship",
+        "optionC": "Internship",
+        "optionD": "Vestibule",
+        "correctAnswer": "Vestibule"
+    },
+    {
+        "title": "ENT211",
+        "id": 173,
+        "question": "Which of the following is NOT a Social Media Platform?",
+        "optionA": "Facebook",
+        "optionB": "Twitter",
+        "optionC": "Instagram",
+        "optionD": "Google",
+        "correctAnswer": "Google"
+    },
+    {
+        "title": "ENT211",
+        "id": 174,
+        "question": "E-marketing is also called ______",
+        "optionA": "Direct purchasing",
+        "optionB": "Electronic banking",
+        "optionC": "E-mail order",
+        "optionD": "Internet business",
+        "correctAnswer": "Internet business"
+    },
+    {
+        "title": "ENT211",
+        "id": 175,
+        "question": "What is the primary goal of sustainable development in entrepreneurship?",
+        "optionA": "Maximizing short-term profits",
+        "optionB": "Meeting the needs of the present without compromising the ability of future generations to meet their own needs",
+        "optionC": "Ignoring environmental and social impacts",
+        "optionD": "Prioritizing technological innovation over social responsibility",
+        "correctAnswer": "Meeting the needs of the present without compromising the ability of future generations to meet their own needs"
+    },
+    {
+        "title": "ENT211",
+        "id": 176,
+        "question": "Which of the following is NOT a key aspect of sustainable entrepreneurship?",
+        "optionA": "Focusing on environmental sustainability",
+        "optionB": "Ignoring social and economic coordination",
+        "optionC": "Prioritizing long-term value creation over short-term goals",
+        "optionD": "Investing in innovation and technological solution",
+        "correctAnswer": "Ignoring social and economic coordination"
+    },
+    {
+        "title": "ENT211",
+        "id": 177,
+        "question": "Which of the following is an example of a sustainable business practice?",
+        "optionA": "Using excessive amount of non-renewable resources",
+        "optionB": "Investing in renewable energy sources",
+        "optionC": "Ignoring social and environmental impact assessments",
+        "optionD": "Prioritizing short-term profits over long-term sustainability",
+        "correctAnswer": "Investing in renewable energy sources"
+    },
+    {
+        "title": "ENT211",
+        "id": 178,
+        "question": "What is the first step in starting a new business?",
+        "optionA": "Develop a marketing strategy",
+        "optionB": "Write a business plan",
+        "optionC": "Secure funding",
+        "optionD": "Find a location for the business",
+        "correctAnswer": "Write a business plan"
+    },
+    {
+        "title": "ENT211",
+        "id": 179,
+        "question": "What is the role of a mentor in entrepreneurship?",
+        "optionA": "To provide financial support for the business",
+        "optionB": "To provide guidance and support for the entrepreneur",
+        "optionC": "Make over the business when the entrepreneur is unavailable",
+        "optionD": "To manage the day-to-day operations of the business",
+        "correctAnswer": "To provide guidance and support for the entrepreneur"
+    },
+    {
+        "title": "ENT211",
+        "id": 180,
+        "question": "What is the role of a business owner in managing a new business?",
+        "optionA": "To oversee all aspects of the business",
+        "optionB": "To manage the day-to-day operations of the business",
+        "optionC": "To hire and train employees",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 181,
+        "question": "The assets that can be converted into cash within a year are known as ______",
+        "optionA": "Investments",
+        "optionB": "Intangible assets",
+        "optionC": "Current assets",
+        "optionD": "None of the above",
+        "correctAnswer": "Current assets"
+    },
+    {
+        "title": "ENT211",
+        "id": 182,
+        "question": "The debts which are repaid within a year are known as ______",
+        "optionA": "Contingent liabilities",
+        "optionB": "Fixed liabilities",
+        "optionC": "Current liabilities",
+        "optionD": "None of the above",
+        "correctAnswer": "Current liabilities"
+    },
+    {
+        "title": "ENT211",
+        "id": 183,
+        "question": "Bookkeeping mainly consists of ______ part of the accounting process",
+        "optionA": "Auditing the books of accounts",
+        "optionB": "Recording financial information",
+        "optionC": "Preparing financial statements",
+        "optionD": "Analyzing",
+        "correctAnswer": "Recording financial information"
+    },
+    {
+        "title": "ENT211",
+        "id": 184,
+        "question": "Which of the following is a current liability for the firm?",
+        "optionA": "Bank overdraft",
+        "optionB": "Bills payable",
+        "optionC": "Outstanding expenses",
+        "optionD": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+        "title": "ENT211",
+        "id": 185,
+        "question": "What is the difference between ethical and legal issues in business?",
+        "optionA": "Legal issues are only relevant to large corporations",
+        "optionB": "Ethical issues are always legally required",
+        "optionC": "Ethical issues involve moral principles, while legal issues are governed by rules",
+        "optionD": "Ethical and legal issues are the same",
+        "correctAnswer": "Ethical issues involve moral principles, while legal issues are governed by rules"
+    },
+    {
+        "title": "ENT211",
+        "id": 186,
+        "question": "Which of the following is NOT an ethical issue that entrepreneurs may face?",
+        "optionA": "Fair wages for employees",
+        "optionB": "Accurate accounting records",
+        "optionC": "Price gouging",
+        "optionD": "All of the above are ethical issues",
+        "correctAnswer": "All of the above are ethical issues"
+    }
+
+
+
+]

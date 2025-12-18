@@ -1,0 +1,45 @@
+[
+    {
+        "title": "MTH101",
+        "id": 1,
+        "question": "Solve the inequality log(8x + 18x + 67) < 3",
+        "optionA": "x < -5 or x ≤ -8",
+        "optionB": "5 < x ≤ 6",
+        "optionC": "-5 < x ≤ 8",
+        "optionD": "5 < x ≤ 7",
+        "optionE": "None of the above",
+        "correctAnswer": "-5 < x ≤ 8"
+    },
+    {
+        "title": "MTH101",
+        "id": 2,
+        "question": "Evaluate the sum from i=1 to n of 2^i",
+        "optionA": "252",
+        "optionB": "248",
+        "optionC": "254",
+        "optionD": "244",
+        "optionE": "None of the above",
+        "correctAnswer": "254"
+    },
+    {
+        "title": "MTH101",
+        "id": 3,
+        "question": "The p-series sum from i=1 to n of 1/n is convergent if:",
+        "optionA": "p ≤ 1",
+        "optionB": "p > 1",
+        "optionC": "p = 1",
+        "optionD": "p ≤ 1",
+        "optionE": "None of the above",
+        "correctAnswer": "p > 1"
+    },
+    {
+        "title": "MTH101",
+        "id": 4,
+        "question": "Evaluate tan(theta) = 4tan(theta)(1 - tan^2(theta)) / (1 + 6tan^2(theta) - tan^2(theta))",
+        "optionA": "4tan(theta)(1 - tan^2(theta))",
+        "optionB": "1 - 6tan^2(theta) + tan^2(theta)",
+        "optionC": "None of the above",
+        "optionD": "tan(theta)(1 - tan^2(theta))",
+        "correctAnswer": "4tan(theta)(1 - tan^2(theta))"
+    }
+]

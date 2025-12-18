@@ -1,0 +1,502 @@
+[
+    {
+      "title": "Economics",
+      "id": 1,
+      "question": "Under perfect competition, long run equilibrium requires",
+      "optionA": "MR=MC",
+      "optionB": "MR=AC=AR",
+      "optionC": "MR=MC=AR=AC",
+      "optionD": "AR=AC",
+      "correctAnswer": "MR=MC=AR=AC"
+    },
+    {
+      "title": "Economics",
+      "id": 2,
+      "question": "A government bond is a form of debt which is due for repayment after",
+      "optionA": "6 months",
+      "optionB": "9 months",
+      "optionC": "2 years",
+      "optionD": "10 years or more",
+      "correctAnswer": "10 years or more"
+    },
+    {
+      "title": "Economics",
+      "id": 3,
+      "question": "How many National Development plans have there been between 1960 and 1984?",
+      "optionA": "One",
+      "optionB": "Two",
+      "optionC": "Four",
+      "optionD": "Five",
+      "correctAnswer": "Four"
+    },
+    {
+      "title": "Economics",
+      "id": 4,
+      "question": "When total revenue is at maximum, marginal revenue is",
+      "optionA": "Constant",
+      "optionB": "Negative",
+      "optionC": "Zero",
+      "optionD": "Positive",
+      "correctAnswer": "Zero"
+    },
+    {
+      "title": "Economics",
+      "id": 5,
+      "question": "If a person receives a higher wage than would be necessary for him, he is said to be receiving",
+      "optionA": "Profit",
+      "optionB": "Rent",
+      "optionC": "Interest",
+      "optionD": "Excess income",
+      "correctAnswer": "Rent"
+    },
+    {
+      "title": "Economics",
+      "id": 6,
+      "question": "In the normal channels of distribution, the breaking of bulk is performed by the",
+      "optionA": "Producer",
+      "optionB": "Wholesaler",
+      "optionC": "Retailer",
+      "optionD": "Consumer",
+      "correctAnswer": "Retailer"
+    },
+    {
+      "title": "Economics",
+      "id": 7,
+      "question": "The Nigerian Bank for Commerce and Industry is",
+      "optionA": "A development bank",
+      "optionB": "A commercial bank",
+      "optionC": "An industrial bank",
+      "optionD": "A merchant bank",
+      "correctAnswer": "A development bank"
+    },
+    {
+      "title": "Economics",
+      "id": 8,
+      "question": "A shift in the demand curve for a commodity when the supply curve is vertical will lead to a change in the",
+      "optionA": "Quantity only",
+      "optionB": "Quantity and price",
+      "optionC": "Quality only",
+      "optionD": "Price only",
+      "correctAnswer": "Price only"
+    },
+    {
+      "title": "Economics",
+      "id": 9,
+      "question": "What form of market is found in an imperfect competition where there are few buyers and many sellers?",
+      "optionA": "Oligopoly",
+      "optionB": "Monopoly",
+      "optionC": "Oligopsony",
+      "optionD": "Duopoly",
+      "correctAnswer": "Oligopsony"
+    },
+    {
+      "title": "Economics",
+      "id": 10,
+      "question": "The value of the total output of goods and services produced within Nigeria by all residents (citizens and non-citizens) is referred to as the",
+      "optionA": "Gross national product",
+      "optionB": "National disposable income",
+      "optionC": "National income",
+      "optionD": "Gross domestic product",
+      "correctAnswer": "Gross domestic product"
+    },
+    {
+      "title": "Economics",
+      "id": 11,
+      "question": "Which of the following is a good example of invisible item on balance of payments account?",
+      "optionA": "Shipping and aviation",
+      "optionB": "Exports and imports",
+      "optionC": "Merchandise",
+      "optionD": "Bullion",
+      "correctAnswer": "Shipping and aviation"
+    },
+    {
+      "title": "Economics",
+      "id": 12,
+      "question": "Economic decisions are taken",
+      "optionA": "At the margin",
+      "optionB": "At once as consumption goes on",
+      "optionC": "At the beginning of events",
+      "optionD": "At the level of the household",
+      "correctAnswer": "At the margin"
+    },
+    {
+      "title": "Economics",
+      "id": 13,
+      "question": "If units of a variable factor are increasingly added to a fixed factor and the marginal physical product keeps increasing, production is said to be taking place under conditions of",
+      "optionA": "Increasing returns to the variable factor",
+      "optionB": "Fixed cost less its variable cost",
+      "optionC": "Constant returns to the variable factor",
+      "optionD": "External economies of scale",
+      "correctAnswer": "Increasing returns to the variable factor"
+    },
+    {
+      "title": "Economics",
+      "id": 14,
+      "question": "Short run period in production is a period too short for a firm to be able to change its",
+      "optionA": "Scale of operation",
+      "optionB": "Total revenue",
+      "optionC": "Variable inputs",
+      "optionD": "Total outputs",
+      "correctAnswer": "Scale of operation"
+    },
+    {
+      "title": "Economics",
+      "id": 15,
+      "question": "A firm's shut-down point is reached when the average revenue falls to cover the",
+      "optionA": "Marginal cost",
+      "optionB": "Average fixed cost",
+      "optionC": "Average total cost",
+      "optionD": "Average variable cost",
+      "correctAnswer": "Average variable cost"
+    },
+    {
+      "title": "Economics",
+      "id": 16,
+      "question": "It is important to measure the national income of a country because",
+      "optionA": "It is a major determinant of the standard of living",
+      "optionB": "It reveals hazards of development like pollution and congestion",
+      "optionC": "It reveals the distribution of the citizen's saving in foreign banks",
+      "optionD": "Its size determines the extent of political stability",
+      "correctAnswer": "It is a major determinant of the standard of living"
+    },
+    {
+      "title": "Economics",
+      "id": 17,
+      "question": "Adding government and foreign sector to the circular flow of income and product",
+      "optionA": "Does not disturb the basic qualities of the circular flow",
+      "optionB": "Does alter the basic qualities of the circular flow",
+      "optionC": "Is the basis for understanding the circular flow",
+      "optionD": "Disturbs the understanding of the circular flow",
+      "correctAnswer": "Does alter the basic qualities of the circular flow"
+    },
+    {
+      "title": "Economics",
+      "id": 18,
+      "question": "Consumption plus investment plus government purchases plus net exports make up",
+      "optionA": "National income",
+      "optionB": "Net national income",
+      "optionC": "Net national product",
+      "optionD": "National product",
+      "correctAnswer": "National income"
+    },
+    {
+      "title": "Economics",
+      "id": 19,
+      "question": "The role of the Central Bank in the economic development of Nigeria is to",
+      "optionA": "Use cheques and bank drafts to facilitate business transactions",
+      "optionB": "Maintain a stable price system",
+      "optionC": "Give short-term and medium-term loans to the public",
+      "optionD": "Give financial and technical advice to customers",
+      "correctAnswer": "Maintain a stable price system"
+    },
+    {
+      "title": "Economics",
+      "id": 20,
+      "question": "The average tax rate is defined as",
+      "optionA": "Total tax rate less than marginal tax rate",
+      "optionB": "The tax rate which applies to additional value of income",
+      "optionC": "The ratio of the total taxes paid to total income",
+      "optionD": "Marginal tax rate for being progressive",
+      "correctAnswer": "The ratio of the total taxes paid to total income"
+    },
+    {
+      "title": "Economics",
+      "id": 21,
+      "question": "Which of the following is likely to be inflationary?",
+      "optionA": "Tax increase",
+      "optionB": "Increase in unemployment",
+      "optionC": "Budget surplus",
+      "optionD": "Wage increase",
+      "correctAnswer": "Wage increase"
+    },
+    {
+      "title": "Economics",
+      "id": 22,
+      "question": "Industries that can be randomly located are characterized by",
+      "optionA": "Relatively low transport cost for both raw materials and output and factor mobility",
+      "optionB": "Relatively heavy transport cost for raw materials or output",
+      "optionC": "Constant returns to scale",
+      "optionD": "Significant economy of scale",
+      "correctAnswer": "Relatively low transport cost for both raw materials and output and factor mobility"
+    },
+    {
+      "title": "Economics",
+      "id": 23,
+      "question": "Full employment is a situation in which",
+      "optionA": "Every adult is employed",
+      "optionB": "All adults who can work are employed",
+      "optionC": "All those who are able and eligible to work can find employment",
+      "optionD": "Only the disabled are not employed",
+      "correctAnswer": "All those who are able and eligible to work can find employment"
+    },
+    {
+      "title": "Economics",
+      "id": 24,
+      "question": "The axiom 'canons of taxation' is attributable to",
+      "optionA": "Prof. Lionel Robinson",
+      "optionB": "Adam Smith",
+      "optionC": "Prof. Paul Samuelson",
+      "optionD": "Prof. Irving Fisher",
+      "correctAnswer": "Adam Smith"
+    },
+    {
+      "title": "Economics",
+      "id": 25,
+      "question": "Taxes which are levied on a person's expenditure are known as",
+      "optionA": "Purchase tax",
+      "optionB": "Sales tax",
+      "optionC": "Direct tax",
+      "optionD": "Poll tax",
+      "correctAnswer": "Sales tax"
+    },
+    {
+      "title": "Economics",
+      "id": 26,
+      "question": "In a free market economy, the rationing of scarce goods is done principally by",
+      "optionA": "Price mechanism",
+      "optionB": "Consumers",
+      "optionC": "The government",
+      "optionD": "A and B",
+      "correctAnswer": "Price mechanism"
+    },
+    {
+      "title": "Economics",
+      "id": 27,
+      "question": "Developments outside a given firm which reduce the firm's costs are called",
+      "optionA": "Internal economics",
+      "optionB": "External economics",
+      "optionC": "External diseconomics",
+      "optionD": "Optimum effects",
+      "correctAnswer": "External economics"
+    },
+    {
+      "title": "Economics",
+      "id": 28,
+      "question": "A production possibility curve shows",
+      "optionA": "How much of the resources of society are used to produce a particular commodity",
+      "optionB": "The rate of unemployment in the economy",
+      "optionC": "The various combinations of two commodities that can be produced",
+      "optionD": "The rate of inflation",
+      "correctAnswer": "The various combinations of two commodities that can be produced"
+    },
+    {
+      "title": "Economics",
+      "id": 29,
+      "question": "Given that the cash reserve ratio is 10%, what is the maximum amount of money that the banking system can create from an initial cash deposit of ₦1,000.00?",
+      "optionA": "₦100.00",
+      "optionB": "₦1,000.00",
+      "optionC": "₦9,000.00",
+      "optionD": "₦10,000.00",
+      "correctAnswer": "₦10,000.00"
+    },
+    {
+      "title": "Economics",
+      "id": 30,
+      "question": "For normal goods, the income elasticity of demand is",
+      "optionA": "Positive",
+      "optionB": "Negative",
+      "optionC": "Zero",
+      "optionD": "Infinite",
+      "correctAnswer": "Positive"
+    },
+    {
+      "title": "Economics",
+      "id": 31,
+      "question": "Let Px represent the price of exports and Pm the price of imports. Then, the terms of trade (TOT) are said to be favorable if",
+      "optionA": "Px > Pm",
+      "optionB": "Px = Pm",
+      "optionC": "0 < Px < 1",
+      "optionD": "Px < Pm",
+      "correctAnswer": "Px > Pm"
+    },
+    {
+      "title": "Economics",
+      "id": 32,
+      "question": "The basic principles of co-operative societies are those of",
+      "optionA": "Active participation of capitalists in the affairs of co-operative societies",
+      "optionB": "Worker ownership and worker control",
+      "optionC": "Sole proprietorship",
+      "optionD": "Partnership",
+      "correctAnswer": "Worker ownership and worker control"
+    },
+    {
+      "title": "Economics",
+      "id": 33,
+      "question": "Under perfect competition, the long-term equilibrium requires",
+      "optionA": "MR > MC",
+      "optionB": "MR = AC = AR",
+      "optionC": "MR > MC",
+      "optionD": "MR = MC = AR = AC",
+      "correctAnswer": "MR = MC = AR = AC"
+    },
+    {
+      "title": "Economics",
+      "id": 34,
+      "question": "The argument for tariff protection in less developed economies is that such measure would",
+      "optionA": "Raise the price of goods affected abroad",
+      "optionB": "Help reduce excess capacity in domestic industry",
+      "optionC": "Protect infant-industries from ruinous competition from abroad",
+      "optionD": "Stifle private investment initiatives",
+      "correctAnswer": "Protect infant-industries from ruinous competition from abroad"
+    },
+    {
+      "title": "Economics",
+      "id": 35,
+      "question": "Mobility of labour is NOT affected by",
+      "optionA": "Marriage",
+      "optionB": "Regulation of trade union",
+      "optionC": "Period of training",
+      "optionD": "Optimum size of population",
+      "correctAnswer": "Optimum size of population"
+    },
+    {
+      "title": "Economics",
+      "id": 36,
+      "question": "An imperfect market in which there is only one buyer of a commodity is",
+      "optionA": "Duopoly",
+      "optionB": "Monopsony",
+      "optionC": "Oligopoly",
+      "optionD": "Monopoly",
+      "correctAnswer": "Monopsony"
+    },
+    {
+      "title": "Economics",
+      "id": 37,
+      "question": "The major reason for the survival of small shops despite competition from large business enterprise is because of",
+      "optionA": "The small capital outlay involved",
+      "optionB": "Regular and constant supply of commodities by them",
+      "optionC": "Their local services and longer hours of operation",
+      "optionD": "Their level of managerial competence",
+      "correctAnswer": "Their local services and longer hours of operation"
+    },
+    {
+      "title": "Economics",
+      "id": 38,
+      "question": "A sustained increase in the per capita income of a country over a period of time is called",
+      "optionA": "Economic growth",
+      "optionB": "Economic development",
+      "optionC": "Structural change",
+      "optionD": "Stagflation",
+      "correctAnswer": "Economic development"
+    },
+    {
+      "title": "Economics",
+      "id": 39,
+      "question": "To facilitate the exportation of crude oil from Nigeria, special",
+      "optionA": "Airstrips were constructed for jets to evacuate the oil",
+      "optionB": "Roads were built to connect the major oil wells to the ports",
+      "optionC": "Pipelines were laid to connect the major oil wells to the ports",
+      "optionD": "Railway lines were constructed",
+      "correctAnswer": "Pipelines were laid to connect the major oil wells to the ports"
+    },
+    {
+      "title": "Economics",
+      "id": 40,
+      "question": "The major reason why nations engage in international trade is that",
+      "optionA": "It allows free movement of factors of production",
+      "optionB": "It makes possible the use of capital intensive method of production",
+      "optionC": "It affords the trading nations the opportunity to earn high profit",
+      "optionD": "Nations are substantially different in their endowments of economic resources",
+      "correctAnswer": "Nations are substantially different in their endowments of economic resources"
+    },
+    {
+      "title": "Economics",
+      "id": 41,
+      "question": "If the country's GNP in the current year is ₦65 billion and the GNP in the base year is ₦50 billion, the GNP deflator is",
+      "optionA": "130.0",
+      "optionB": "30.0",
+      "optionC": "15.0",
+      "optionD": "1.3",
+      "correctAnswer": "130.0"
+    },
+    {
+      "title": "Economics",
+      "id": 42,
+      "question": "Some of the key indicators of under development in a country are",
+      "optionA": "Poverty, high level of literacy and low income",
+      "optionB": "Poverty, low level of literacy and low income",
+      "optionC": "Low level of illiteracy, low income and poverty",
+      "optionD": "Poverty, low income and low unemployment level",
+      "correctAnswer": "Poverty, low level of literacy and low income"
+    },
+    {
+      "title": "Economics",
+      "id": 43,
+      "question": "In a free market system, trading can only take place when the",
+      "optionA": "Market is not working efficiently",
+      "optionB": "Equilibrium price is attained",
+      "optionC": "Price of a commodity tends to attract consumers",
+      "optionD": "Consumer sovereignty is lacking",
+      "correctAnswer": "Equilibrium price is attained"
+    },
+    {
+      "title": "Economics",
+      "id": 44,
+      "question": "A major liability of a commercial bank arises from",
+      "optionA": "Customers' deposits",
+      "optionB": "Loans and advances",
+      "optionC": "Overdrafts",
+      "optionD": "Staff allowances",
+      "correctAnswer": "Customers' deposits"
+    },
+    {
+      "title": "Economics",
+      "id": 45,
+      "question": "Retailers in an economy perform the function of",
+      "optionA": "Production",
+      "optionB": "Exchange",
+      "optionC": "Distribution",
+      "optionD": "Investment",
+      "correctAnswer": "Distribution"
+    },
+    {
+      "title": "Economics",
+      "id": 46,
+      "question": "In a sole proprietorship, the decisions are made by the",
+      "optionA": "Government",
+      "optionB": "Board of directors",
+      "optionC": "Owner",
+      "optionD": "Shareholders conference",
+      "correctAnswer": "Owner"
+    },
+    {
+      "title": "Economics",
+      "id": 47,
+      "question": "The meaning of wage-price spiral is",
+      "optionA": "Demand pull and cost push inflation pulling each other in different directions",
+      "optionB": "Demand pull and cost push intensifying each other",
+      "optionC": "That wages and price are rising at a proportional rate",
+      "optionD": "That demand pull and cost push inflation increase employment",
+      "correctAnswer": "Demand pull and cost push intensifying each other"
+    },
+    {
+      "title": "Economics",
+      "id": 48,
+      "question": "Which of the following enterprise does not pursue the sole objective of profit maximization?",
+      "optionA": "Roads Nig Ltd",
+      "optionB": "Union Bank of Nigeria Ltd",
+      "optionC": "Power Holding Company of Nigeria",
+      "optionD": "Kingsway Nigeria Ltd",
+      "correctAnswer": "Power Holding Company of Nigeria"
+    },
+    {
+      "title": "Economics",
+      "id": 49,
+      "question": "Palm oil industry is located in Edo state because the state",
+      "optionA": "Imports raw material for oil industry",
+      "optionB": "Is a palm tree growing area",
+      "optionC": "Government does not engage land for other crops",
+      "optionD": "Land is suitable for oil",
+      "correctAnswer": "Is a palm tree growing area"
+    },
+    {
+      "title": "Economics",
+      "id": 50,
+      "question": "Disequilibrium in the balance of payments means",
+      "optionA": "Imports of the country exceeding its exports",
+      "optionB": "Deficit in the trade balance",
+      "optionC": "Capital flowing out of the country exceeds the capital flowing into the country",
+      "optionD": "Overall deficit or surplus in the current account and capital account of the balance of payment",
+      "correctAnswer": "Overall deficit or surplus in the current account and capital account of the balance of payment"
+    }
+]

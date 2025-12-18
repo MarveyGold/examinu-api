@@ -1,0 +1,2002 @@
+[
+    {
+      "title": "COS101",
+      "id": 1,
+      "question": "The term used for all the programs in a particular computer is:",
+      "optionA": "software",
+      "optionB": "computer programs",
+      "optionC": "programs",
+      "optionD": "apps",
+      "correctAnswer": "software"
+    },
+    {
+      "title": "COS101",
+      "id": 2,
+      "question": "Which of the following is NOT an input device?",
+      "optionA": "Keyboard",
+      "optionB": "Mouse",
+      "optionC": "Printer",
+      "optionD": "Scanner",
+      "correctAnswer": "Printer"
+    },
+    {
+      "title": "COS101",
+      "id": 3,
+      "question": "The brain of the computer is the:",
+      "optionA": "RAM",
+      "optionB": "CPU",
+      "optionC": "Hard Drive",
+      "optionD": "Motherboard",
+      "correctAnswer": "CPU"
+    },
+    {
+      "title": "COS101",
+      "id": 4,
+      "question": "Which of these is an example of system software?",
+      "optionA": "Microsoft Word",
+      "optionB": "Windows OS",
+      "optionC": "Google Chrome",
+      "optionD": "Photoshop",
+      "correctAnswer": "Windows OS"
+    },
+    {
+      "title": "COS101",
+      "id": 5,
+      "question": "What does 'HTTP' stand for in web addresses?",
+      "optionA": "HyperText Transfer Protocol",
+      "optionB": "High-Tech Text Protocol",
+      "optionC": "Hyperlink Text Transfer Process",
+      "optionD": "Home Transfer Text Protocol",
+      "correctAnswer": "HyperText Transfer Protocol"
+    },
+    {
+      "title": "COS101",
+      "id": 6,
+      "question": "Which of the following is a volatile memory?",
+      "optionA": "ROM",
+      "optionB": "Hard Disk",
+      "optionC": "RAM",
+      "optionD": "SSD",
+      "correctAnswer": "RAM"
+    },
+    {
+      "title": "COS101",
+      "id": 7,
+      "question": "A collection of 8 bits is called a:",
+      "optionA": "Nibble",
+      "optionB": "Byte",
+      "optionC": "Word",
+      "optionD": "Kilobyte",
+      "correctAnswer": "Byte"
+    },
+    {
+      "title": "COS101",
+      "id": 8,
+      "question": "Which generation of computers used transistors?",
+      "optionA": "First",
+      "optionB": "Second",
+      "optionC": "Third",
+      "optionD": "Fourth",
+      "correctAnswer": "Second"
+    },
+    {
+      "title": "COS101",
+      "id": 9,
+      "question": "What does 'URL' stand for?",
+      "optionA": "Uniform Resource Locator",
+      "optionB": "Universal Resource Link",
+      "optionC": "Unified Resource Locator",
+      "optionD": "Uniform Retrieval Link",
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "title": "COS101",
+      "id": 10,
+      "question": "Which of these is NOT a web browser?",
+      "optionA": "Firefox",
+      "optionB": "Chrome",
+      "optionC": "Photoshop",
+      "optionD": "Edge",
+      "correctAnswer": "Photoshop"
+    },
+    {
+      "title": "COS101",
+      "id": 11,
+      "question": "Which programming language is known for web development?",
+      "optionA": "Python",
+      "optionB": "Java",
+      "optionC": "HTML",
+      "optionD": "C++",
+      "correctAnswer": "HTML"
+    },
+    {
+      "title": "COS101",
+      "id": 12,
+      "question": "The physical components of a computer are called:",
+      "optionA": "Software",
+      "optionB": "Hardware",
+      "optionC": "Firmware",
+      "optionD": "Middleware",
+      "correctAnswer": "Hardware"
+    },
+    {
+      "title": "COS101",
+      "id": 13,
+      "question": "Which of these is an output device?",
+      "optionA": "Microphone",
+      "optionB": "Speaker",
+      "optionC": "Touchpad",
+      "optionD": "Webcam",
+      "correctAnswer": "Speaker"
+    },
+    {
+      "title": "COS101",
+      "id": 14,
+      "question": "What is the primary function of an operating system?",
+      "optionA": "To create documents",
+      "optionB": "To manage hardware and software resources",
+      "optionC": "To browse the internet",
+      "optionD": "To play games",
+      "correctAnswer": "To manage hardware and software resources"
+    },
+    {
+      "title": "COS101",
+      "id": 15,
+      "question": "Which company developed the Windows operating system?",
+      "optionA": "Apple",
+      "optionB": "IBM",
+      "optionC": "Microsoft",
+      "optionD": "Google",
+      "correctAnswer": "Microsoft"
+    },
+    {
+      "title": "COS101",
+      "id": 16,
+      "question": "What does 'LAN' stand for?",
+      "optionA": "Local Area Network",
+      "optionB": "Large Access Network",
+      "optionC": "Linked Area Node",
+      "optionD": "Long Antenna Network",
+      "correctAnswer": "Local Area Network"
+    },
+    {
+      "title": "COS101",
+      "id": 17,
+      "question": "Which of these is a cloud storage service?",
+      "optionA": "Google Drive",
+      "optionB": "Microsoft Word",
+      "optionC": "Adobe Photoshop",
+      "optionD": "CorelDRAW",
+      "correctAnswer": "Google Drive"
+    },
+    {
+      "title": "COS101",
+      "id": 18,
+      "question": "Which of these is NOT a programming language?",
+      "optionA": "Java",
+      "optionB": "Python",
+      "optionC": "Microsoft Excel",
+      "optionD": "C++",
+      "correctAnswer": "Microsoft Excel"
+    },
+    {
+      "title": "COS101",
+      "id": 19,
+      "question": "What does 'CPU' stand for?",
+      "optionA": "Central Processing Unit",
+      "optionB": "Computer Processing Unit",
+      "optionC": "Core Processing Unit",
+      "optionD": "Central Power Unit",
+      "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "title": "COS101",
+      "id": 20,
+      "question": "Which of these is an example of an application software?",
+      "optionA": "Windows OS",
+      "optionB": "Linux",
+      "optionC": "Microsoft Excel",
+      "optionD": "BIOS",
+      "correctAnswer": "Microsoft Excel"
+    },
+        {
+      "title": "COS101",
+      "id": 21,
+      "question": "Which of these is a secondary storage device?",
+      "optionA": "RAM",
+      "optionB": "CPU Cache",
+      "optionC": "Hard Disk",
+      "optionD": "ROM",
+      "correctAnswer": "Hard Disk"
+    },
+    {
+      "title": "COS101",
+      "id": 22,
+      "question": "What is the binary equivalent of the decimal number 10?",
+      "optionA": "1010",
+      "optionB": "1001",
+      "optionC": "1100",
+      "optionD": "1111",
+      "correctAnswer": "1010"
+    },
+    {
+      "title": "COS101",
+      "id": 23,
+      "question": "Which protocol is used to send emails?",
+      "optionA": "HTTP",
+      "optionB": "FTP",
+      "optionC": "SMTP",
+      "optionD": "TCP",
+      "correctAnswer": "SMTP"
+    },
+    {
+      "title": "COS101",
+      "id": 24,
+      "question": "What does 'GUI' stand for?",
+      "optionA": "Graphical User Interface",
+      "optionB": "General Utility Interface",
+      "optionC": "Graphic Unified Input",
+      "optionD": "Global User Interaction",
+      "correctAnswer": "Graphical User Interface"
+    },
+    {
+      "title": "COS101",
+      "id": 25,
+      "question": "Which of these is NOT a type of computer virus?",
+      "optionA": "Trojan Horse",
+      "optionB": "Worm",
+      "optionC": "Firewall",
+      "optionD": "Spyware",
+      "correctAnswer": "Firewall"
+    },
+    {
+      "title": "COS101",
+      "id": 26,
+      "question": "What is the primary function of a motherboard?",
+      "optionA": "Store data permanently",
+      "optionB": "Connect all hardware components",
+      "optionC": "Display graphics",
+      "optionD": "Power the computer",
+      "correctAnswer": "Connect all hardware components"
+    },
+    {
+      "title": "COS101",
+      "id": 27,
+      "question": "Which of these is an example of an open-source OS?",
+      "optionA": "Windows",
+      "optionB": "macOS",
+      "optionC": "Linux",
+      "optionD": "iOS",
+      "correctAnswer": "Linux"
+    },
+    {
+      "title": "COS101",
+      "id": 28,
+      "question": "What does 'ISP' stand for?",
+      "optionA": "Internet Service Provider",
+      "optionB": "Internal System Protocol",
+      "optionC": "Integrated Software Package",
+      "optionD": "International Standard Port",
+      "correctAnswer": "Internet Service Provider"
+    },
+    {
+      "title": "COS101",
+      "id": 29,
+      "question": "Which programming language is used for Android app development?",
+      "optionA": "Swift",
+      "optionB": "Kotlin",
+      "optionC": "C#",
+      "optionD": "Ruby",
+      "correctAnswer": "Kotlin"
+    },
+    {
+      "title": "COS101",
+      "id": 30,
+      "question": "What is the smallest unit of data in a computer?",
+      "optionA": "Byte",
+      "optionB": "Kilobyte",
+      "optionC": "Bit",
+      "optionD": "Megabyte",
+      "correctAnswer": "Bit"
+    },
+    {
+      "title": "COS101",
+      "id": 31,
+      "question": "Which device converts digital signals to analog for telephone lines?",
+      "optionA": "Router",
+      "optionB": "Modem",
+      "optionC": "Switch",
+      "optionD": "Hub",
+      "correctAnswer": "Modem"
+    },
+    {
+      "title": "COS101",
+      "id": 32,
+      "question": "What does 'PDF' stand for?",
+      "optionA": "Printed Document Format",
+      "optionB": "Portable Document Format",
+      "optionC": "Personal Data File",
+      "optionD": "Public Domain File",
+      "correctAnswer": "Portable Document Format"
+    },
+    {
+      "title": "COS101",
+      "id": 33,
+      "question": "Which of these is a high-level programming language?",
+      "optionA": "Assembly",
+      "optionB": "Machine Code",
+      "optionC": "Python",
+      "optionD": "Binary",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 34,
+      "question": "What is the purpose of a firewall?",
+      "optionA": "Increase internet speed",
+      "optionB": "Block unauthorized access",
+      "optionC": "Store backups",
+      "optionD": "Print documents",
+      "correctAnswer": "Block unauthorized access"
+    },
+    {
+      "title": "COS101",
+      "id": 35,
+      "question": "Which company developed the Python programming language?",
+      "optionA": "Microsoft",
+      "optionB": "Google",
+      "optionC": "Guido van Rossum",
+      "optionD": "Apple",
+      "correctAnswer": "Guido van Rossum"
+    },
+    {
+      "title": "COS101",
+      "id": 36,
+      "question": "What does 'SQL' stand for?",
+      "optionA": "Structured Query Language",
+      "optionB": "Simple Question Logic",
+      "optionC": "System Query Link",
+      "optionD": "Standard Quantitative Language",
+      "correctAnswer": "Structured Query Language"
+    },
+    {
+      "title": "COS101",
+      "id": 37,
+      "question": "Which of these is a volatile storage?",
+      "optionA": "SSD",
+      "optionB": "USB Drive",
+      "optionC": "RAM",
+      "optionD": "Hard Disk",
+      "correctAnswer": "RAM"
+    },
+    {
+      "title": "COS101",
+      "id": 38,
+      "question": "What is the full form of 'HTML'?",
+      "optionA": "HyperText Markup Language",
+      "optionB": "High-Level Machine Language",
+      "optionC": "Hyperlink Text Management Language",
+      "optionD": "Home Tool Markup Language",
+      "correctAnswer": "HyperText Markup Language"
+    },
+    {
+      "title": "COS101",
+      "id": 39,
+      "question": "Which of these is NOT a database management system?",
+      "optionA": "MySQL",
+      "optionB": "Oracle",
+      "optionC": "Photoshop",
+      "optionD": "MongoDB",
+      "correctAnswer": "Photoshop"
+    },
+    {
+      "title": "COS101",
+      "id": 40,
+      "question": "What is the function of an ALU in a CPU?",
+      "optionA": "Store data",
+      "optionB": "Perform arithmetic/logic operations",
+      "optionC": "Display graphics",
+      "optionD": "Manage power supply",
+      "correctAnswer": "Perform arithmetic/logic operations"
+    },
+    {
+      "title": "COS101",
+      "id": 41,
+      "question": "Which of these is a search engine?",
+      "optionA": "Google Chrome",
+      "optionB": "Bing",
+      "optionC": "Mozilla Firefox",
+      "optionD": "Microsoft Edge",
+      "correctAnswer": "Bing"
+    },
+    {
+      "title": "COS101",
+      "id": 42,
+      "question": "What does 'VPN' stand for?",
+      "optionA": "Virtual Private Network",
+      "optionB": "Verified Public Node",
+      "optionC": "Visual Processing Network",
+      "optionD": "Volatile Protocol Number",
+      "correctAnswer": "Virtual Private Network"
+    },
+    {
+      "title": "COS101",
+      "id": 43,
+      "question": "Which file format is used for images with transparency?",
+      "optionA": "JPEG",
+      "optionB": "PNG",
+      "optionC": "BMP",
+      "optionD": "GIF",
+      "correctAnswer": "PNG"
+    },
+    {
+      "title": "COS101",
+      "id": 44,
+      "question": "What is the purpose of an operating system's kernel?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    },
+    {
+      "title": "COS101",
+      "id": 45,
+      "question": "Which of these is a programming paradigm?",
+      "optionA": "Object-Oriented",
+      "optionB": "Spreadsheet",
+      "optionC": "Database",
+      "optionD": "Word Processing",
+      "correctAnswer": "Object-Oriented"
+    },
+    {
+      "title": "COS101",
+      "id": 46,
+      "question": "What does 'BIOS' stand for?",
+      "optionA": "Basic Input/Output System",
+      "optionB": "Binary Input/Output Service",
+      "optionC": "Boot Information Operating System",
+      "optionD": "Basic Integrated Operating Software",
+      "correctAnswer": "Basic Input/Output System"
+    },
+    {
+      "title": "COS101",
+      "id": 47,
+      "question": "Which of these is a cloud computing service?",
+      "optionA": "AWS (Amazon Web Services)",
+      "optionB": "Microsoft Word",
+      "optionC": "Adobe Illustrator",
+      "optionD": "CorelDRAW",
+      "correctAnswer": "AWS (Amazon Web Services)"
+    },
+    {
+      "title": "COS101",
+      "id": 48,
+      "question": "What is the primary role of a compiler?",
+      "optionA": "Execute code line-by-line",
+      "optionB": "Translate high-level code to machine code",
+      "optionC": "Debug programs",
+      "optionD": "Manage memory",
+      "correctAnswer": "Translate high-level code to machine code"
+    },
+    {
+      "title": "COS101",
+      "id": 49,
+      "question": "Which of these is NOT a network topology?",
+      "optionA": "Star",
+      "optionB": "Bus",
+      "optionC": "Ring",
+      "optionD": "Cube",
+      "correctAnswer": "Cube"
+    },
+    {
+      "title": "COS101",
+      "id": 50,
+      "question": "What does 'DNS' stand for?",
+      "optionA": "Domain Name System",
+      "optionB": "Data Network Service",
+      "optionC": "Digital Naming Standard",
+      "optionD": "Dynamic Node Server",
+      "correctAnswer": "Domain Name System"
+    },
+        {
+      "title": "COS101",
+      "id": 51,
+      "question": "Which of these is a non-volatile memory?",
+      "optionA": "RAM",
+      "optionB": "Cache",
+      "optionC": "ROM",
+      "optionD": "Register",
+      "correctAnswer": "ROM"
+    },
+    {
+      "title": "COS101",
+      "id": 52,
+      "question": "What is the primary function of a GPU?",
+      "optionA": "Process arithmetic operations",
+      "optionB": "Render graphics",
+      "optionC": "Store data permanently",
+      "optionD": "Manage network connections",
+      "correctAnswer": "Render graphics"
+    },
+    {
+      "title": "COS101",
+      "id": 53,
+      "question": "Which protocol is used for secure web browsing?",
+      "optionA": "HTTP",
+      "optionB": "FTP",
+      "optionC": "HTTPS",
+      "optionD": "SMTP",
+      "correctAnswer": "HTTPS"
+    },
+    {
+      "title": "COS101",
+      "id": 54,
+      "question": "What does 'OS' stand for?",
+      "optionA": "Operating System",
+      "optionB": "Output Service",
+      "optionC": "Optical Storage",
+      "optionD": "Online Server",
+      "correctAnswer": "Operating System"
+    },
+    {
+      "title": "COS101",
+      "id": 55,
+      "question": "Which of these is a markup language?",
+      "optionA": "Python",
+      "optionB": "HTML",
+      "optionC": "Java",
+      "optionD": "C++",
+      "correctAnswer": "HTML"
+    },
+    {
+      "title": "COS101",
+      "id": 56,
+      "question": "What is the purpose of an IP address?",
+      "optionA": "Identify a website's design",
+      "optionB": "Uniquely identify a device on a network",
+      "optionC": "Store files",
+      "optionD": "Encrypt data",
+      "correctAnswer": "Uniquely identify a device on a network"
+    },
+    {
+      "title": "COS101",
+      "id": 57,
+      "question": "Which generation of computers used integrated circuits?",
+      "optionA": "First",
+      "optionB": "Second",
+      "optionC": "Third",
+      "optionD": "Fourth",
+      "correctAnswer": "Third"
+    },
+    {
+      "title": "COS101",
+      "id": 58,
+      "question": "What does 'Wi-Fi' stand for?",
+      "optionA": "Wireless Fidelity",
+      "optionB": "Wired Fiber",
+      "optionC": "Wireless Frequency",
+      "optionD": "Wideband Internet",
+      "correctAnswer": "Wireless Fidelity"
+    },
+    {
+      "title": "COS101",
+      "id": 59,
+      "question": "Which of these is NOT a type of malware?",
+      "optionA": "Adware",
+      "optionB": "Firewall",
+      "optionC": "Ransomware",
+      "optionD": "Spyware",
+      "correctAnswer": "Firewall"
+    },
+    {
+      "title": "COS101",
+      "id": 60,
+      "question": "What is the role of a compiler?",
+      "optionA": "Execute code line-by-line",
+      "optionB": "Translate high-level code to machine code",
+      "optionC": "Debug programs",
+      "optionD": "Manage memory",
+      "correctAnswer": "Translate high-level code to machine code"
+    },
+    {
+      "title": "COS101",
+      "id": 61,
+      "question": "Which of these is a relational database?",
+      "optionA": "MongoDB",
+      "optionB": "MySQL",
+      "optionC": "Redis",
+      "optionD": "Cassandra",
+      "correctAnswer": "MySQL"
+    },
+    {
+      "title": "COS101",
+      "id": 62,
+      "question": "What does 'CSS' stand for?",
+      "optionA": "Computer Style Sheets",
+      "optionB": "Cascading Style Sheets",
+      "optionC": "Creative Style System",
+      "optionD": "Centralized Styling Service",
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "title": "COS101",
+      "id": 63,
+      "question": "Which device connects multiple networks?",
+      "optionA": "Hub",
+      "optionB": "Switch",
+      "optionC": "Router",
+      "optionD": "Modem",
+      "correctAnswer": "Router"
+    },
+    {
+      "title": "COS101",
+      "id": 64,
+      "question": "What is the main purpose of an SSD?",
+      "optionA": "Process data",
+      "optionB": "Store data persistently",
+      "optionC": "Render graphics",
+      "optionD": "Connect to the internet",
+      "correctAnswer": "Store data persistently"
+    },
+    {
+      "title": "COS101",
+      "id": 65,
+      "question": "Which of these is a low-level programming language?",
+      "optionA": "Python",
+      "optionB": "Assembly",
+      "optionC": "Java",
+      "optionD": "Ruby",
+      "correctAnswer": "Assembly"
+    },
+    {
+      "title": "COS101",
+      "id": 66,
+      "question": "What does 'API' stand for?",
+      "optionA": "Application Programming Interface",
+      "optionB": "Automated Program Interaction",
+      "optionC": "Advanced Programming Instruction",
+      "optionD": "Application Process Integration",
+      "correctAnswer": "Application Programming Interface"
+    },
+    {
+      "title": "COS101",
+      "id": 67,
+      "question": "Which of these is a version control system?",
+      "optionA": "Git",
+      "optionB": "Excel",
+      "optionC": "Photoshop",
+      "optionD": "Word",
+      "correctAnswer": "Git"
+    },
+    {
+      "title": "COS101",
+      "id": 68,
+      "question": "What is the function of a cache memory?",
+      "optionA": "Store long-term data",
+      "optionB": "Speed up CPU operations",
+      "optionC": "Connect peripherals",
+      "optionD": "Display graphics",
+      "correctAnswer": "Speed up CPU operations"
+    },
+    {
+      "title": "COS101",
+      "id": 69,
+      "question": "Which of these is a dynamic programming language?",
+      "optionA": "C",
+      "optionB": "Java",
+      "optionC": "Python",
+      "optionD": "Assembly",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 70,
+      "question": "What does 'IoT' stand for?",
+      "optionA": "Internet of Things",
+      "optionB": "Input/Output Technology",
+      "optionC": "Integrated Online Tools",
+      "optionD": "Internal Operating Thread",
+      "correctAnswer": "Internet of Things"
+    },
+    {
+      "title": "COS101",
+      "id": 71,
+      "question": "Which of these is NOT a cloud service model?",
+      "optionA": "IaaS",
+      "optionB": "PaaS",
+      "optionC": "SaaS",
+      "optionD": "HaaS",
+      "correctAnswer": "HaaS"
+    },
+    {
+      "title": "COS101",
+      "id": 72,
+      "question": "What is the purpose of a QR code?",
+      "optionA": "Encrypt data",
+      "optionB": "Store information in a machine-readable format",
+      "optionC": "Render 3D graphics",
+      "optionD": "Connect to Wi-Fi",
+      "correctAnswer": "Store information in a machine-readable format"
+    },
+    {
+      "title": "COS101",
+      "id": 73,
+      "question": "Which of these is a NoSQL database?",
+      "optionA": "MySQL",
+      "optionB": "PostgreSQL",
+      "optionC": "MongoDB",
+      "optionD": "SQLite",
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "title": "COS101",
+      "id": 74,
+      "question": "What does 'RAM' stand for?",
+      "optionA": "Random Access Memory",
+      "optionB": "Read-Only Memory",
+      "optionC": "Redundant Array of Memory",
+      "optionD": "Rapid Access Module",
+      "correctAnswer": "Random Access Memory"
+    },
+    {
+      "title": "COS101",
+      "id": 75,
+      "question": "Which of these is a file compression format?",
+      "optionA": "JPEG",
+      "optionB": "MP3",
+      "optionC": "ZIP",
+      "optionD": "HTML",
+      "correctAnswer": "ZIP"
+    },
+    {
+      "title": "COS101",
+      "id": 76,
+      "question": "What is the role of an assembler?",
+      "optionA": "Translate assembly code to machine code",
+      "optionB": "Debug high-level programs",
+      "optionC": "Manage databases",
+      "optionD": "Render web pages",
+      "correctAnswer": "Translate assembly code to machine code"
+    },
+    {
+      "title": "COS101",
+      "id": 77,
+      "question": "Which of these is a scripting language?",
+      "optionA": "C",
+      "optionB": "JavaScript",
+      "optionC": "Assembly",
+      "optionD": "Fortran",
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "title": "COS101",
+      "id": 78,
+      "question": "What does 'URL' stand for?",
+      "optionA": "Uniform Resource Locator",
+      "optionB": "Universal Resource Link",
+      "optionC": "Unified Retrieval Language",
+      "optionD": "User Request Layer",
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "title": "COS101",
+      "id": 79,
+      "question": "Which of these is a peripheral device?",
+      "optionA": "CPU",
+      "optionB": "Motherboard",
+      "optionC": "Printer",
+      "optionD": "ALU",
+      "correctAnswer": "Printer"
+    },
+    {
+      "title": "COS101",
+      "id": 80,
+      "question": "What is the purpose of a cookie in web browsing?",
+      "optionA": "Store user preferences",
+      "optionB": "Increase internet speed",
+      "optionC": "Block ads",
+      "optionD": "Encrypt data",
+      "correctAnswer": "Store user preferences"
+    },
+        {
+      "title": "COS101",
+      "id": 81,
+      "question": "Which of these is a network protocol?",
+      "optionA": "JPEG",
+      "optionB": "TCP/IP",
+      "optionC": "MP3",
+      "optionD": "PDF",
+      "correctAnswer": "TCP/IP"
+    },
+    {
+      "title": "COS101",
+      "id": 82,
+      "question": "What does 'AI' stand for?",
+      "optionA": "Automated Input",
+      "optionB": "Artificial Intelligence",
+      "optionC": "Advanced Internet",
+      "optionD": "Application Interface",
+      "correctAnswer": "Artificial Intelligence"
+    },
+    {
+      "title": "COS101",
+      "id": 83,
+      "question": "Which of these is NOT a valid data type in programming?",
+      "optionA": "Integer",
+      "optionB": "Boolean",
+      "optionC": "String",
+      "optionD": "Loop",
+      "correctAnswer": "Loop"
+    },
+    {
+      "title": "COS101",
+      "id": 84,
+      "question": "What is the function of a kernel in an OS?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    },
+    {
+      "title": "COS101",
+      "id": 85,
+      "question": "Which of these is a wireless communication technology?",
+      "optionA": "Bluetooth",
+      "optionB": "USB",
+      "optionC": "HDMI",
+      "optionD": "Ethernet",
+      "correctAnswer": "Bluetooth"
+    },
+    {
+      "title": "COS101",
+      "id": 86,
+      "question": "What does 'IDE' stand for in programming?",
+      "optionA": "Integrated Development Environment",
+      "optionB": "Internet Data Exchange",
+      "optionC": "Input Device Emulator",
+      "optionD": "Interactive Design Engine",
+      "correctAnswer": "Integrated Development Environment"
+    },
+    {
+      "title": "COS101",
+      "id": 87,
+      "question": "Which of these is a valid loop structure in programming?",
+      "optionA": "If-else",
+      "optionB": "Switch-case",
+      "optionC": "For",
+      "optionD": "Try-catch",
+      "correctAnswer": "For"
+    },
+    {
+      "title": "COS101",
+      "id": 88,
+      "question": "What is the purpose of a subnet mask?",
+      "optionA": "Divide an IP network into subnets",
+      "optionB": "Encrypt data",
+      "optionC": "Store website content",
+      "optionD": "Render graphics",
+      "correctAnswer": "Divide an IP network into subnets"
+    },
+    {
+      "title": "COS101",
+      "id": 89,
+      "question": "Which of these is a containerization platform?",
+      "optionA": "Docker",
+      "optionB": "Kubernetes",
+      "optionC": "VMware",
+      "optionD": "Hyper-V",
+      "correctAnswer": "Docker"
+    },
+    {
+      "title": "COS101",
+      "id": 90,
+      "question": "What does 'SEO' stand for?",
+      "optionA": "Secure Email Operation",
+      "optionB": "Search Engine Optimization",
+      "optionC": "System Error Override",
+      "optionD": "Software Engineering Object",
+      "correctAnswer": "Search Engine Optimization"
+    },
+    {
+      "title": "COS101",
+      "id": 91,
+      "question": "Which of these is a type of cyber attack?",
+      "optionA": "Phishing",
+      "optionB": "Firewall",
+      "optionC": "Compiler",
+      "optionD": "Debugger",
+      "correctAnswer": "Phishing"
+    },
+    {
+      "title": "COS101",
+      "id": 92,
+      "question": "What is the role of a debugger?",
+      "optionA": "Execute code",
+      "optionB": "Identify and fix errors in code",
+      "optionC": "Compile programs",
+      "optionD": "Manage databases",
+      "correctAnswer": "Identify and fix errors in code"
+    },
+    {
+      "title": "COS101",
+      "id": 93,
+      "question": "Which of these is a valid sorting algorithm?",
+      "optionA": "Bubble Sort",
+      "optionB": "Linear Search",
+      "optionC": "Binary Tree",
+      "optionD": "Stack",
+      "correctAnswer": "Bubble Sort"
+    },
+    {
+      "title": "COS101",
+      "id": 94,
+      "question": "What does 'CRUD' stand for in databases?",
+      "optionA": "Create, Read, Update, Delete",
+      "optionB": "Compile, Run, Update, Debug",
+      "optionC": "Cache, Retrieve, Upload, Download",
+      "optionD": "Copy, Replace, Undo, Duplicate",
+      "correctAnswer": "Create, Read, Update, Delete"
+    },
+    {
+      "title": "COS101",
+      "id": 95,
+      "question": "Which of these is a version of Linux?",
+      "optionA": "Windows 10",
+      "optionB": "Ubuntu",
+      "optionC": "macOS",
+      "optionD": "iOS",
+      "correctAnswer": "Ubuntu"
+    },
+    {
+      "title": "COS101",
+      "id": 96,
+      "question": "What is the purpose of a CDN?",
+      "optionA": "Store backups",
+      "optionB": "Deliver web content faster",
+      "optionC": "Encrypt data",
+      "optionD": "Manage databases",
+      "correctAnswer": "Deliver web content faster"
+    },
+    {
+      "title": "COS101",
+      "id": 97,
+      "question": "Which of these is a backend programming language?",
+      "optionA": "HTML",
+      "optionB": "CSS",
+      "optionC": "JavaScript",
+      "optionD": "PHP",
+      "correctAnswer": "PHP"
+    },
+    {
+      "title": "COS101",
+      "id": 98,
+      "question": "What does 'XML' stand for?",
+      "optionA": "Extensible Markup Language",
+      "optionB": "Extended Memory Location",
+      "optionC": "Xerox Machine Language",
+      "optionD": "Executive Management Layer",
+      "correctAnswer": "Extensible Markup Language"
+    },
+    {
+      "title": "COS101",
+      "id": 99,
+      "question": "Which of these is a data structure?",
+      "optionA": "Loop",
+      "optionB": "Array",
+      "optionC": "Function",
+      "optionD": "Class",
+      "correctAnswer": "Array"
+    },
+    {
+      "title": "COS101",
+      "id": 100,
+      "question": "What is the purpose of a CAPTCHA?",
+      "optionA": "Prevent spam/bots",
+      "optionB": "Encrypt data",
+      "optionC": "Speed up websites",
+      "optionD": "Store passwords",
+      "correctAnswer": "Prevent spam/bots"
+    },
+        {
+      "title": "COS101",
+      "id": 101,
+      "question": "Which of these is a type of computer network?",
+      "optionA": "LAN",
+      "optionB": "CPU",
+      "optionC": "GPU",
+      "optionD": "ALU",
+      "correctAnswer": "LAN"
+    },
+    {
+      "title": "COS101",
+      "id": 102,
+      "question": "What does 'BIOS' stand for?",
+      "optionA": "Basic Input/Output System",
+      "optionB": "Binary Input/Output Service",
+      "optionC": "Boot Information Operating System",
+      "optionD": "Basic Integrated Operating Software",
+      "correctAnswer": "Basic Input/Output System"
+    },
+    {
+      "title": "COS101",
+      "id": 103,
+      "question": "Which of these is a cloud computing service model?",
+      "optionA": "IaaS",
+      "optionB": "PaaS",
+      "optionC": "SaaS",
+      "optionD": "All of the above",
+      "correctAnswer": "All of the above"
+    },
+    {
+      "title": "COS101",
+      "id": 104,
+      "question": "What is the primary function of an interpreter?",
+      "optionA": "Translate high-level code line-by-line",
+      "optionB": "Compile entire programs at once",
+      "optionC": "Manage hardware resources",
+      "optionD": "Store data permanently",
+      "correctAnswer": "Translate high-level code line-by-line"
+    },
+    {
+      "title": "COS101",
+      "id": 105,
+      "question": "Which of these is a non-relational database?",
+      "optionA": "MySQL",
+      "optionB": "PostgreSQL",
+      "optionC": "MongoDB",
+      "optionD": "SQLite",
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "title": "COS101",
+      "id": 106,
+      "question": "What does 'GPU' stand for?",
+      "optionA": "Graphical Processing Unit",
+      "optionB": "General Processing Unit",
+      "optionC": "Global Power Unit",
+      "optionD": "Graphics Performance Utility",
+      "correctAnswer": "Graphical Processing Unit"
+    },
+    {
+      "title": "COS101",
+      "id": 107,
+      "question": "Which protocol is used for file transfer?",
+      "optionA": "HTTP",
+      "optionB": "FTP",
+      "optionC": "SMTP",
+      "optionD": "TCP",
+      "correctAnswer": "FTP"
+    },
+    {
+      "title": "COS101",
+      "id": 108,
+      "question": "What is the purpose of a firewall?",
+      "optionA": "Block unauthorized access",
+      "optionB": "Increase internet speed",
+      "optionC": "Store backups",
+      "optionD": "Print documents",
+      "correctAnswer": "Block unauthorized access"
+    },
+    {
+      "title": "COS101",
+      "id": 109,
+      "question": "Which of these is a high-level programming language?",
+      "optionA": "Assembly",
+      "optionB": "Machine Code",
+      "optionC": "Python",
+      "optionD": "Binary",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 110,
+      "question": "What does 'SQL' stand for?",
+      "optionA": "Structured Query Language",
+      "optionB": "Simple Question Logic",
+      "optionC": "System Query Link",
+      "optionD": "Standard Quantitative Language",
+      "correctAnswer": "Structured Query Language"
+    },
+    {
+      "title": "COS101",
+      "id": 111,
+      "question": "Which of these is a volatile storage?",
+      "optionA": "SSD",
+      "optionB": "USB Drive",
+      "optionC": "RAM",
+      "optionD": "Hard Disk",
+      "correctAnswer": "RAM"
+    },
+    {
+      "title": "COS101",
+      "id": 112,
+      "question": "What is the full form of 'HTML'?",
+      "optionA": "HyperText Markup Language",
+      "optionB": "High-Level Machine Language",
+      "optionC": "Hyperlink Text Management Language",
+      "optionD": "Home Tool Markup Language",
+      "correctAnswer": "HyperText Markup Language"
+    },
+    {
+      "title": "COS101",
+      "id": 113,
+      "question": "Which of these is NOT a database management system?",
+      "optionA": "MySQL",
+      "optionB": "Oracle",
+      "optionC": "Photoshop",
+      "optionD": "MongoDB",
+      "correctAnswer": "Photoshop"
+    },
+    {
+      "title": "COS101",
+      "id": 114,
+      "question": "What is the function of an ALU in a CPU?",
+      "optionA": "Store data",
+      "optionB": "Perform arithmetic/logic operations",
+      "optionC": "Display graphics",
+      "optionD": "Manage power supply",
+      "correctAnswer": "Perform arithmetic/logic operations"
+    },
+    {
+      "title": "COS101",
+      "id": 115,
+      "question": "Which of these is a search engine?",
+      "optionA": "Google Chrome",
+      "optionB": "Bing",
+      "optionC": "Mozilla Firefox",
+      "optionD": "Microsoft Edge",
+      "correctAnswer": "Bing"
+    },
+    {
+      "title": "COS101",
+      "id": 116,
+      "question": "What does 'VPN' stand for?",
+      "optionA": "Virtual Private Network",
+      "optionB": "Verified Public Node",
+      "optionC": "Visual Processing Network",
+      "optionD": "Volatile Protocol Number",
+      "correctAnswer": "Virtual Private Network"
+    },
+    {
+      "title": "COS101",
+      "id": 117,
+      "question": "Which file format is used for images with transparency?",
+      "optionA": "JPEG",
+      "optionB": "PNG",
+      "optionC": "BMP",
+      "optionD": "GIF",
+      "correctAnswer": "PNG"
+    },
+    {
+      "title": "COS101",
+      "id": 118,
+      "question": "What is the purpose of an operating system's kernel?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    },
+    {
+      "title": "COS101",
+      "id": 119,
+      "question": "Which of these is a programming paradigm?",
+      "optionA": "Object-Oriented",
+      "optionB": "Spreadsheet",
+      "optionC": "Database",
+      "optionD": "Word Processing",
+      "correctAnswer": "Object-Oriented"
+    },
+    {
+      "title": "COS101",
+      "id": 120,
+      "question": "What does 'CSS' stand for?",
+      "optionA": "Computer Style Sheets",
+      "optionB": "Cascading Style Sheets",
+      "optionC": "Creative Style System",
+      "optionD": "Centralized Styling Service",
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "title": "COS101",
+      "id": 121,
+      "question": "Which device connects multiple networks?",
+      "optionA": "Hub",
+      "optionB": "Switch",
+      "optionC": "Router",
+      "optionD": "Modem",
+      "correctAnswer": "Router"
+    },
+    {
+      "title": "COS101",
+      "id": 122,
+      "question": "What is the main purpose of an SSD?",
+      "optionA": "Process data",
+      "optionB": "Store data persistently",
+      "optionC": "Render graphics",
+      "optionD": "Connect to the internet",
+      "correctAnswer": "Store data persistently"
+    },
+    {
+      "title": "COS101",
+      "id": 123,
+      "question": "Which of these is a low-level programming language?",
+      "optionA": "Python",
+      "optionB": "Assembly",
+      "optionC": "Java",
+      "optionD": "Ruby",
+      "correctAnswer": "Assembly"
+    },
+    {
+      "title": "COS101",
+      "id": 124,
+      "question": "What does 'API' stand for?",
+      "optionA": "Application Programming Interface",
+      "optionB": "Automated Program Interaction",
+      "optionC": "Advanced Programming Instruction",
+      "optionD": "Application Process Integration",
+      "correctAnswer": "Application Programming Interface"
+    },
+    {
+      "title": "COS101",
+      "id": 125,
+      "question": "Which of these is a version control system?",
+      "optionA": "Git",
+      "optionB": "Excel",
+      "optionC": "Photoshop",
+      "optionD": "Word",
+      "correctAnswer": "Git"
+    },
+    {
+      "title": "COS101",
+      "id": 126,
+      "question": "What is the function of a cache memory?",
+      "optionA": "Store long-term data",
+      "optionB": "Speed up CPU operations",
+      "optionC": "Connect peripherals",
+      "optionD": "Display graphics",
+      "correctAnswer": "Speed up CPU operations"
+    },
+    {
+      "title": "COS101",
+      "id": 127,
+      "question": "Which of these is a dynamic programming language?",
+      "optionA": "C",
+      "optionB": "Java",
+      "optionC": "Python",
+      "optionD": "Assembly",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 128,
+      "question": "What does 'IoT' stand for?",
+      "optionA": "Internet of Things",
+      "optionB": "Input/Output Technology",
+      "optionC": "Integrated Online Tools",
+      "optionD": "Internal Operating Thread",
+      "correctAnswer": "Internet of Things"
+    },
+    {
+      "title": "COS101",
+      "id": 129,
+      "question": "Which of these is NOT a cloud service model?",
+      "optionA": "IaaS",
+      "optionB": "PaaS",
+      "optionC": "SaaS",
+      "optionD": "HaaS",
+      "correctAnswer": "HaaS"
+    },
+    {
+      "title": "COS101",
+      "id": 130,
+      "question": "What is the purpose of a QR code?",
+      "optionA": "Encrypt data",
+      "optionB": "Store information in a machine-readable format",
+      "optionC": "Render 3D graphics",
+      "optionD": "Connect to Wi-Fi",
+      "correctAnswer": "Store information in a machine-readable format"
+    },
+    {
+      "title": "COS101",
+      "id": 131,
+      "question": "Which of these is a NoSQL database?",
+      "optionA": "MySQL",
+      "optionB": "PostgreSQL",
+      "optionC": "MongoDB",
+      "optionD": "SQLite",
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "title": "COS101",
+      "id": 132,
+      "question": "What does 'RAM' stand for?",
+      "optionA": "Random Access Memory",
+      "optionB": "Read-Only Memory",
+      "optionC": "Redundant Array of Memory",
+      "optionD": "Rapid Access Module",
+      "correctAnswer": "Random Access Memory"
+    },
+    {
+      "title": "COS101",
+      "id": 133,
+      "question": "Which of these is a file compression format?",
+      "optionA": "JPEG",
+      "optionB": "MP3",
+      "optionC": "ZIP",
+      "optionD": "HTML",
+      "correctAnswer": "ZIP"
+    },
+    {
+      "title": "COS101",
+      "id": 134,
+      "question": "What is the role of an assembler?",
+      "optionA": "Translate assembly code to machine code",
+      "optionB": "Debug high-level programs",
+      "optionC": "Manage databases",
+      "optionD": "Render web pages",
+      "correctAnswer": "Translate assembly code to machine code"
+    },
+    {
+      "title": "COS101",
+      "id": 135,
+      "question": "Which of these is a scripting language?",
+      "optionA": "C",
+      "optionB": "JavaScript",
+      "optionC": "Assembly",
+      "optionD": "Fortran",
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "title": "COS101",
+      "id": 136,
+      "question": "What does 'URL' stand for?",
+      "optionA": "Uniform Resource Locator",
+      "optionB": "Universal Resource Link",
+      "optionC": "Unified Retrieval Language",
+      "optionD": "User Request Layer",
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "title": "COS101",
+      "id": 137,
+      "question": "Which of these is a peripheral device?",
+      "optionA": "CPU",
+      "optionB": "Motherboard",
+      "optionC": "Printer",
+      "optionD": "ALU",
+      "correctAnswer": "Printer"
+    },
+    {
+      "title": "COS101",
+      "id": 138,
+      "question": "What is the purpose of a cookie in web browsing?",
+      "optionA": "Store user preferences",
+      "optionB": "Increase internet speed",
+      "optionC": "Block ads",
+      "optionD": "Encrypt data",
+      "correctAnswer": "Store user preferences"
+    },
+    {
+      "title": "COS101",
+      "id": 139,
+      "question": "Which of these is a network protocol?",
+      "optionA": "JPEG",
+      "optionB": "TCP/IP",
+      "optionC": "MP3",
+      "optionD": "PDF",
+      "correctAnswer": "TCP/IP"
+    },
+    {
+      "title": "COS101",
+      "id": 140,
+      "question": "What does 'AI' stand for?",
+      "optionA": "Automated Input",
+      "optionB": "Artificial Intelligence",
+      "optionC": "Advanced Internet",
+      "optionD": "Application Interface",
+      "correctAnswer": "Artificial Intelligence"
+    },
+    {
+      "title": "COS101",
+      "id": 141,
+      "question": "Which of these is NOT a valid data type in programming?",
+      "optionA": "Integer",
+      "optionB": "Boolean",
+      "optionC": "String",
+      "optionD": "Loop",
+      "correctAnswer": "Loop"
+    },
+    {
+      "title": "COS101",
+      "id": 142,
+      "question": "What is the function of a kernel in an OS?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    },
+    {
+      "title": "COS101",
+      "id": 143,
+      "question": "Which of these is a wireless communication technology?",
+      "optionA": "Bluetooth",
+      "optionB": "USB",
+      "optionC": "HDMI",
+      "optionD": "Ethernet",
+      "correctAnswer": "Bluetooth"
+    },
+    {
+      "title": "COS101",
+      "id": 144,
+      "question": "What does 'IDE' stand for in programming?",
+      "optionA": "Integrated Development Environment",
+      "optionB": "Internet Data Exchange",
+      "optionC": "Input Device Emulator",
+      "optionD": "Interactive Design Engine",
+      "correctAnswer": "Integrated Development Environment"
+    },
+    {
+      "title": "COS101",
+      "id": 145,
+      "question": "Which of these is a valid loop structure in programming?",
+      "optionA": "If-else",
+      "optionB": "Switch-case",
+      "optionC": "For",
+      "optionD": "Try-catch",
+      "correctAnswer": "For"
+    },
+    {
+      "title": "COS101",
+      "id": 146,
+      "question": "What is the purpose of a subnet mask?",
+      "optionA": "Divide an IP network into subnets",
+      "optionB": "Encrypt data",
+      "optionC": "Store website content",
+      "optionD": "Render graphics",
+      "correctAnswer": "Divide an IP network into subnets"
+    },
+    {
+      "title": "COS101",
+      "id": 147,
+      "question": "Which of these is a containerization platform?",
+      "optionA": "Docker",
+      "optionB": "Kubernetes",
+      "optionC": "VMware",
+      "optionD": "Hyper-V",
+      "correctAnswer": "Docker"
+    },
+    {
+      "title": "COS101",
+      "id": 148,
+      "question": "What does 'SEO' stand for?",
+      "optionA": "Secure Email Operation",
+      "optionB": "Search Engine Optimization",
+      "optionC": "System Error Override",
+      "optionD": "Software Engineering Object",
+      "correctAnswer": "Search Engine Optimization"
+    },
+    {
+      "title": "COS101",
+      "id": 149,
+      "question": "Which of these is a type of cyber attack?",
+      "optionA": "Phishing",
+      "optionB": "Firewall",
+      "optionC": "Compiler",
+      "optionD": "Debugger",
+      "correctAnswer": "Phishing"
+    },
+    {
+      "title": "COS101",
+      "id": 150,
+      "question": "What is the role of a debugger?",
+      "optionA": "Execute code",
+      "optionB": "Identify and fix errors in code",
+      "optionC": "Compile programs",
+      "optionD": "Manage databases",
+      "correctAnswer": "Identify and fix errors in code"
+    },
+    {
+      "title": "COS101",
+      "id": 151,
+      "question": "Which of these is a valid sorting algorithm?",
+      "optionA": "Bubble Sort",
+      "optionB": "Linear Search",
+      "optionC": "Binary Tree",
+      "optionD": "Stack",
+      "correctAnswer": "Bubble Sort"
+    },
+    {
+      "title": "COS101",
+      "id": 152,
+      "question": "What does 'CRUD' stand for in databases?",
+      "optionA": "Create, Read, Update, Delete",
+      "optionB": "Compile, Run, Update, Debug",
+      "optionC": "Cache, Retrieve, Upload, Download",
+      "optionD": "Copy, Replace, Undo, Duplicate",
+      "correctAnswer": "Create, Read, Update, Delete"
+    },
+    {
+      "title": "COS101",
+      "id": 153,
+      "question": "Which of these is a version of Linux?",
+      "optionA": "Windows 10",
+      "optionB": "Ubuntu",
+      "optionC": "macOS",
+      "optionD": "iOS",
+      "correctAnswer": "Ubuntu"
+    },
+    {
+      "title": "COS101",
+      "id": 154,
+      "question": "What is the purpose of a CDN?",
+      "optionA": "Store backups",
+      "optionB": "Deliver web content faster",
+      "optionC": "Encrypt data",
+      "optionD": "Manage databases",
+      "correctAnswer": "Deliver web content faster"
+    },
+    {
+      "title": "COS101",
+      "id": 155,
+      "question": "Which of these is a backend programming language?",
+      "optionA": "HTML",
+      "optionB": "CSS",
+      "optionC": "JavaScript",
+      "optionD": "PHP",
+      "correctAnswer": "PHP"
+    },
+    {
+      "title": "COS101",
+      "id": 156,
+      "question": "What does 'XML' stand for?",
+      "optionA": "Extensible Markup Language",
+      "optionB": "Extended Memory Location",
+      "optionC": "Xerox Machine Language",
+      "optionD": "Executive Management Layer",
+      "correctAnswer": "Extensible Markup Language"
+    },
+    {
+      "title": "COS101",
+      "id": 157,
+      "question": "Which of these is a data structure?",
+      "optionA": "Loop",
+      "optionB": "Array",
+      "optionC": "Function",
+      "optionD": "Class",
+      "correctAnswer": "Array"
+    },
+    {
+      "title": "COS101",
+      "id": 158,
+      "question": "What is the purpose of a CAPTCHA?",
+      "optionA": "Prevent spam/bots",
+      "optionB": "Encrypt data",
+      "optionC": "Speed up websites",
+      "optionD": "Store passwords",
+      "correctAnswer": "Prevent spam/bots"
+    },
+    {
+      "title": "COS101",
+      "id": 159,
+      "question": "Which of these is a type of computer network?",
+      "optionA": "LAN",
+      "optionB": "CPU",
+      "optionC": "GPU",
+      "optionD": "ALU",
+      "correctAnswer": "LAN"
+    },
+    {
+      "title": "COS101",
+      "id": 160,
+      "question": "What does 'BIOS' stand for?",
+      "optionA": "Basic Input/Output System",
+      "optionB": "Binary Input/Output Service",
+      "optionC": "Boot Information Operating System",
+      "optionD": "Basic Integrated Operating Software",
+      "correctAnswer": "Basic Input/Output System"
+    },
+    {
+      "title": "COS101",
+      "id": 161,
+      "question": "Which of these is a cloud computing service model?",
+      "optionA": "IaaS",
+      "optionB": "PaaS",
+      "optionC": "SaaS",
+      "optionD": "All of the above",
+      "correctAnswer": "All of the above"
+    },
+    {
+      "title": "COS101",
+      "id": 162,
+      "question": "What is the primary function of an interpreter?",
+      "optionA": "Translate high-level code line-by-line",
+      "optionB": "Compile entire programs at once",
+      "optionC": "Manage hardware resources",
+      "optionD": "Store data permanently",
+      "correctAnswer": "Translate high-level code line-by-line"
+    },
+    {
+      "title": "COS101",
+      "id": 163,
+      "question": "Which of these is a non-relational database?",
+      "optionA": "MySQL",
+      "optionB": "PostgreSQL",
+      "optionC": "MongoDB",
+      "optionD": "SQLite",
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "title": "COS101",
+      "id": 164,
+      "question": "What does 'GPU' stand for?",
+      "optionA": "Graphical Processing Unit",
+      "optionB": "General Processing Unit",
+      "optionC": "Global Power Unit",
+      "optionD": "Graphics Performance Utility",
+      "correctAnswer": "Graphical Processing Unit"
+    },
+    {
+      "title": "COS101",
+      "id": 165,
+      "question": "Which protocol is used for file transfer?",
+      "optionA": "HTTP",
+      "optionB": "FTP",
+      "optionC": "SMTP",
+      "optionD": "TCP",
+      "correctAnswer": "FTP"
+    },
+    {
+      "title": "COS101",
+      "id": 166,
+      "question": "What is the purpose of a firewall?",
+      "optionA": "Block unauthorized access",
+      "optionB": "Increase internet speed",
+      "optionC": "Store backups",
+      "optionD": "Print documents",
+      "correctAnswer": "Block unauthorized access"
+    },
+    {
+      "title": "COS101",
+      "id": 167,
+      "question": "Which of these is a high-level programming language?",
+      "optionA": "Assembly",
+      "optionB": "Machine Code",
+      "optionC": "Python",
+      "optionD": "Binary",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 168,
+      "question": "What does 'SQL' stand for?",
+      "optionA": "Structured Query Language",
+      "optionB": "Simple Question Logic",
+      "optionC": "System Query Link",
+      "optionD": "Standard Quantitative Language",
+      "correctAnswer": "Structured Query Language"
+    },
+    {
+      "title": "COS101",
+      "id": 169,
+      "question": "Which of these is a volatile storage?",
+      "optionA": "SSD",
+      "optionB": "USB Drive",
+      "optionC": "RAM",
+      "optionD": "Hard Disk",
+      "correctAnswer": "RAM"
+    },
+    {
+      "title": "COS101",
+      "id": 170,
+      "question": "What is the full form of 'HTML'?",
+      "optionA": "HyperText Markup Language",
+      "optionB": "High-Level Machine Language",
+      "optionC": "Hyperlink Text Management Language",
+      "optionD": "Home Tool Markup Language",
+      "correctAnswer": "HyperText Markup Language"
+    },
+    {
+      "title": "COS101",
+      "id": 171,
+      "question": "Which of these is NOT a database management system?",
+      "optionA": "MySQL",
+      "optionB": "Oracle",
+      "optionC": "Photoshop",
+      "optionD": "MongoDB",
+      "correctAnswer": "Photoshop"
+    },
+    {
+      "title": "COS101",
+      "id": 172,
+      "question": "What is the function of an ALU in a CPU?",
+      "optionA": "Store data",
+      "optionB": "Perform arithmetic/logic operations",
+      "optionC": "Display graphics",
+      "optionD": "Manage power supply",
+      "correctAnswer": "Perform arithmetic/logic operations"
+    },
+    {
+      "title": "COS101",
+      "id": 173,
+      "question": "Which of these is a search engine?",
+      "optionA": "Google Chrome",
+      "optionB": "Bing",
+      "optionC": "Mozilla Firefox",
+      "optionD": "Microsoft Edge",
+      "correctAnswer": "Bing"
+    },
+    {
+      "title": "COS101",
+      "id": 174,
+      "question": "What does 'VPN' stand for?",
+      "optionA": "Virtual Private Network",
+      "optionB": "Verified Public Node",
+      "optionC": "Visual Processing Network",
+      "optionD": "Volatile Protocol Number",
+      "correctAnswer": "Virtual Private Network"
+    },
+    {
+      "title": "COS101",
+      "id": 175,
+      "question": "Which file format is used for images with transparency?",
+      "optionA": "JPEG",
+      "optionB": "PNG",
+      "optionC": "BMP",
+      "optionD": "GIF",
+      "correctAnswer": "PNG"
+    },
+    {
+      "title": "COS101",
+      "id": 176,
+      "question": "What is the purpose of an operating system's kernel?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    },
+    {
+      "title": "COS101",
+      "id": 177,
+      "question": "Which of these is a programming paradigm?",
+      "optionA": "Object-Oriented",
+      "optionB": "Spreadsheet",
+      "optionC": "Database",
+      "optionD": "Word Processing",
+      "correctAnswer": "Object-Oriented"
+    },
+    {
+      "title": "COS101",
+      "id": 178,
+      "question": "What does 'CSS' stand for?",
+      "optionA": "Computer Style Sheets",
+      "optionB": "Cascading Style Sheets",
+      "optionC": "Creative Style System",
+      "optionD": "Centralized Styling Service",
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "title": "COS101",
+      "id": 179,
+      "question": "Which device connects multiple networks?",
+      "optionA": "Hub",
+      "optionB": "Switch",
+      "optionC": "Router",
+      "optionD": "Modem",
+      "correctAnswer": "Router"
+    },
+    {
+      "title": "COS101",
+      "id": 180,
+      "question": "What is the main purpose of an SSD?",
+      "optionA": "Process data",
+      "optionB": "Store data persistently",
+      "optionC": "Render graphics",
+      "optionD": "Connect to the internet",
+      "correctAnswer": "Store data persistently"
+    },
+    {
+      "title": "COS101",
+      "id": 181,
+      "question": "Which of these is a low-level programming language?",
+      "optionA": "Python",
+      "optionB": "Assembly",
+      "optionC": "Java",
+      "optionD": "Ruby",
+      "correctAnswer": "Assembly"
+    },
+    {
+      "title": "COS101",
+      "id": 182,
+      "question": "What does 'API' stand for?",
+      "optionA": "Application Programming Interface",
+      "optionB": "Automated Program Interaction",
+      "optionC": "Advanced Programming Instruction",
+      "optionD": "Application Process Integration",
+      "correctAnswer": "Application Programming Interface"
+    },
+    {
+      "title": "COS101",
+      "id": 183,
+      "question": "Which of these is a version control system?",
+      "optionA": "Git",
+      "optionB": "Excel",
+      "optionC": "Photoshop",
+      "optionD": "Word",
+      "correctAnswer": "Git"
+    },
+    {
+      "title": "COS101",
+      "id": 184,
+      "question": "What is the function of a cache memory?",
+      "optionA": "Store long-term data",
+      "optionB": "Speed up CPU operations",
+      "optionC": "Connect peripherals",
+      "optionD": "Display graphics",
+      "correctAnswer": "Speed up CPU operations"
+    },
+    {
+      "title": "COS101",
+      "id": 185,
+      "question": "Which of these is a dynamic programming language?",
+      "optionA": "C",
+      "optionB": "Java",
+      "optionC": "Python",
+      "optionD": "Assembly",
+      "correctAnswer": "Python"
+    },
+    {
+      "title": "COS101",
+      "id": 186,
+      "question": "What does 'IoT' stand for?",
+      "optionA": "Internet of Things",
+      "optionB": "Input/Output Technology",
+      "optionC": "Integrated Online Tools",
+      "optionD": "Internal Operating Thread",
+      "correctAnswer": "Internet of Things"
+    },
+    {
+      "title": "COS101",
+      "id": 187,
+      "question": "Which of these is NOT a cloud service model?",
+      "optionA": "IaaS",
+      "optionB": "PaaS",
+      "optionC": "SaaS",
+      "optionD": "HaaS",
+      "correctAnswer": "HaaS"
+    },
+    {
+      "title": "COS101",
+      "id": 188,
+      "question": "What is the purpose of a QR code?",
+      "optionA": "Encrypt data",
+      "optionB": "Store information in a machine-readable format",
+      "optionC": "Render 3D graphics",
+      "optionD": "Connect to Wi-Fi",
+      "correctAnswer": "Store information in a machine-readable format"
+    },
+    {
+      "title": "COS101",
+      "id": 189,
+      "question": "Which of these is a NoSQL database?",
+      "optionA": "MySQL",
+      "optionB": "PostgreSQL",
+      "optionC": "MongoDB",
+      "optionD": "SQLite",
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "title": "COS101",
+      "id": 190,
+      "question": "What does 'RAM' stand for?",
+      "optionA": "Random Access Memory",
+      "optionB": "Read-Only Memory",
+      "optionC": "Redundant Array of Memory",
+      "optionD": "Rapid Access Module",
+      "correctAnswer": "Random Access Memory"
+    },
+    {
+      "title": "COS101",
+      "id": 191,
+      "question": "Which of these is a file compression format?",
+      "optionA": "JPEG",
+      "optionB": "MP3",
+      "optionC": "ZIP",
+      "optionD": "HTML",
+      "correctAnswer": "ZIP"
+    },
+    {
+      "title": "COS101",
+      "id": 192,
+      "question": "What is the role of an assembler?",
+      "optionA": "Translate assembly code to machine code",
+      "optionB": "Debug high-level programs",
+      "optionC": "Manage databases",
+      "optionD": "Render web pages",
+      "correctAnswer": "Translate assembly code to machine code"
+    },
+    {
+      "title": "COS101",
+      "id": 193,
+      "question": "Which of these is a scripting language?",
+      "optionA": "C",
+      "optionB": "JavaScript",
+      "optionC": "Assembly",
+      "optionD": "Fortran",
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "title": "COS101",
+      "id": 194,
+      "question": "What does 'URL' stand for?",
+      "optionA": "Uniform Resource Locator",
+      "optionB": "Universal Resource Link",
+      "optionC": "Unified Retrieval Language",
+      "optionD": "User Request Layer",
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "title": "COS101",
+      "id": 195,
+      "question": "Which of these is a peripheral device?",
+      "optionA": "CPU",
+      "optionB": "Motherboard",
+      "optionC": "Printer",
+      "optionD": "ALU",
+      "correctAnswer": "Printer"
+    },
+    {
+      "title": "COS101",
+      "id": 196,
+      "question": "What is the purpose of a cookie in web browsing?",
+      "optionA": "Store user preferences",
+      "optionB": "Increase internet speed",
+      "optionC": "Block ads",
+      "optionD": "Encrypt data",
+      "correctAnswer": "Store user preferences"
+    },
+    {
+      "title": "COS101",
+      "id": 197,
+      "question": "Which of these is a network protocol?",
+      "optionA": "JPEG",
+      "optionB": "TCP/IP",
+      "optionC": "MP3",
+      "optionD": "PDF",
+      "correctAnswer": "TCP/IP"
+    },
+    {
+      "title": "COS101",
+      "id": 198,
+      "question": "What does 'AI' stand for?",
+      "optionA": "Automated Input",
+      "optionB": "Artificial Intelligence",
+      "optionC": "Advanced Internet",
+      "optionD": "Application Interface",
+      "correctAnswer": "Artificial Intelligence"
+    },
+    {
+      "title": "COS101",
+      "id": 199,
+      "question": "Which of these is NOT a valid data type in programming?",
+      "optionA": "Integer",
+      "optionB": "Boolean",
+      "optionC": "String",
+      "optionD": "Loop",
+      "correctAnswer": "Loop"
+    },
+    {
+      "title": "COS101",
+      "id": 200,
+      "question": "What is the function of a kernel in an OS?",
+      "optionA": "Manage hardware resources",
+      "optionB": "Display user interfaces",
+      "optionC": "Run applications",
+      "optionD": "Store files",
+      "correctAnswer": "Manage hardware resources"
+    }
+]

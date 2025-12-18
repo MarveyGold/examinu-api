@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Faculty of Physical Science",
+        "code": "PSC",
+        "departments": [
+                {
+                "name": "Department of Computer Science",
+                "code": "CSC",
+                "courses": {
+                  "100level": [
+                    {"name": "Introduction to Computing",
+                      "code":"cos101" 
+                    },
+                    {
+                      "name": "Algebra and Trigonometry",
+                      "code": "mth101"
+                    },
+                    {
+                      "name": "Descriptive Statistics",
+                      "code": "sta111"
+                    }
+                    ],
+                  "200level": [
+                    {
+                      "name": "Computer Programming II",
+                      "code": "cos202"
+                    },
+                    {
+                      "name": "Cybercrime, Law and Countermeasures",
+                      "code": "cyb203"
+                    },
+                    {
+                      "name": "Computer Architecture and Organisation",
+                      "code": "ift212"
+                    } , 
+                    {
+                      "name": "Entrepreneurship and Innovation",
+                      "code": "ent211"
+                    }
+                  ]
+            }
+
+            },
+            {
+                "name": "Department of Chemistry",
+                "code": "CHM",
+                "courses": {
+                  "100level": [""],
+                  "200level": [""]
+            }
+            },
+            {
+                "name": "Department of Statistics",
+                "code": "STA",
+                "courses": {
+                  "100level": [""],
+                  "200level": [""]
+            }
+
+            },
+            {
+                "name": "Department of Geology",
+                "code": "GLY",
+                 "courses": {
+                  "100level": [""],
+                  "200level": [""]
+            }
+
+            },
+            {
+                "name": "Department of Mathematics",
+                "code": "MTH",
+                "courses": {
+                  "100level": [""],
+                  "200level": [""]
+            }
+
+
+            },
+            {
+                "name": "Department of Physics",
+                "code": "PHY", 
+                "courses": {
+                  "100level": [""],
+                  "200level": [""]
+            }
+
+            }
+           
+        ]
+    },
+    {
+        "name": "Faculty of Life Sciences",
+        "code": "LSC"
+    },
+    {
+        "name": "Faculty of Basic Medical Sciences",
+        "code": "BMS"
+    },
+    {
+        "name": "Faculty of Engineering",
+        "code": "ENG"
+    },
+    {
+        "name": "Faculty of Agriculture",
+        "code": "AGR"
+    },
+    {
+        "name": "Faculty of Dentistry",
+        "code": "DEN"
+    },
+    {
+        "name": "Faculty of Education",
+        "code": "EDU"
+    },
+    {
+        "name": "Faculty of Environmental Sciences",
+        "code": "ENV"
+    },
+    {
+        "name": "Faculty of Medicine",
+        "code": "MED"
+    },
+    {
+        "name": "Faculty of Management Science",
+        "code": "MGS"
+    },
+    {
+        "name": "Faculty of Pharmacy",
+        "code": "PHA"
+    },
+    {
+        "name": "Faculty of Veterinary Medicine",
+        "code": "VNM"
+    },
+    {
+        "name": "SPESSE",
+        "code": "SPESSE"
+    },
+    {
+        "name": "Faculty of Arts",
+        "code": "ART"
+    },
+    {
+        "name": "Faculty of Social Sciences",
+        "code": "SOSSA"
+    }
+]

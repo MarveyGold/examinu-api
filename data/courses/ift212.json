@@ -1,0 +1,1613 @@
+[
+  {
+    "title": "IFT212",
+    "id": 1,
+    "question": "What is the primary function of the Control Unit (CU) in a CPU?",
+    "optionA": "Perform arithmetic operations",
+    "optionB": "Decode instructions and generate control signals",
+    "optionC": "Store data temporarily",
+    "optionD": "Manage I/O devices",
+    "correctAnswer": "Decode instructions and generate control signals"
+  },
+  {
+    "title": "IFT212",
+    "id": 2,
+    "question": "Which component of the von Neumann architecture holds the currently executing instruction?",
+    "optionA": "ALU",
+    "optionB": "Instruction Register (IR)",
+    "optionC": "Program Counter (PC)",
+    "optionD": "Memory Data Register (MDR)",
+    "correctAnswer": "Instruction Register (IR)"
+  },
+  {
+    "title": "IFT212",
+    "id": 3,
+    "question": "What is the purpose of the Memory Address Register (MAR)?",
+    "optionA": "Stores the data to be written to memory",
+    "optionB": "Holds the address of the next instruction",
+    "optionC": "Specifies the memory location for read/write operations",
+    "optionD": "Manages cache coherence",
+    "correctAnswer": "Specifies the memory location for read/write operations"
+  },
+  {
+    "title": "IFT212",
+    "id": 4,
+    "question": "Which addressing mode uses the operand itself rather than its address?",
+    "optionA": "Direct addressing",
+    "optionB": "Indirect addressing",
+    "optionC": "Immediate addressing",
+    "optionD": "Indexed addressing",
+    "correctAnswer": "Immediate addressing"
+  },
+  {
+    "title": "IFT212",
+    "id": 5,
+    "question": "What is the key difference between RISC and CISC architectures?",
+    "optionA": "RISC has more complex instructions than CISC",
+    "optionB": "CISC uses fixed-length instructions",
+    "optionC": "RISC relies on pipelining and simpler instructions",
+    "optionD": "CISC has fewer registers than RISC",
+    "correctAnswer": "RISC relies on pipelining and simpler instructions"
+  },
+  {
+    "title": "IFT212",
+    "id": 6,
+    "question": "Which memory type is fastest but smallest in a typical memory hierarchy?",
+    "optionA": "Main memory (RAM)",
+    "optionB": "Secondary storage (HDD)",
+    "optionC": "Registers",
+    "optionD": "Cache",
+    "correctAnswer": "Registers"
+  },
+  {
+    "title": "IFT212",
+    "id": 7,
+    "question": "What does DMA stand for in computer systems?",
+    "optionA": "Direct Memory Access",
+    "optionB": "Dynamic Memory Allocation",
+    "optionC": "Data Movement Assistant",
+    "optionD": "Dual Memory Architecture",
+    "correctAnswer": "Direct Memory Access"
+  },
+  {
+    "title": "IFT212",
+    "id": 8,
+    "question": "Which RAID level provides mirroring without striping?",
+    "optionA": "RAID 0",
+    "optionB": "RAID 1",
+    "optionC": "RAID 5",
+    "optionD": "RAID 6",
+    "correctAnswer": "RAID 1"
+  },
+  {
+    "title": "IFT212",
+    "id": 9,
+    "question": "What is the primary purpose of an interrupt in a CPU?",
+    "optionA": "To halt the CPU permanently",
+    "optionB": "To handle urgent I/O or error conditions",
+    "optionC": "To increase clock speed",
+    "optionD": "To disable cache memory",
+    "correctAnswer": "To handle urgent I/O or error conditions"
+  },
+  {
+    "title": "IFT212",
+    "id": 10,
+    "question": "Which of these is NOT a phase of the instruction cycle?",
+    "optionA": "Fetch",
+    "optionB": "Decode",
+    "optionC": "Write-back",
+    "optionD": "Execute",
+    "correctAnswer": "Write-back"
+  },
+  {
+    "title": "IFT212",
+    "id": 11,
+    "question": "What is the function of the Program Counter (PC)?",
+    "optionA": "Stores the result of arithmetic operations",
+    "optionB": "Holds the address of the next instruction to execute",
+    "optionC": "Manages interrupt requests",
+    "optionD": "Controls I/O devices",
+    "correctAnswer": "Holds the address of the next instruction to execute"
+  },
+  {
+    "title": "IFT212",
+    "id": 12,
+    "question": "Which bus carries memory addresses from the CPU to RAM?",
+    "optionA": "Data bus",
+    "optionB": "Control bus",
+    "optionC": "Address bus",
+    "optionD": "System bus",
+    "correctAnswer": "Address bus"
+  },
+  {
+    "title": "IFT212",
+    "id": 13,
+    "question": "What is cache coherence in multiprocessor systems?",
+    "optionA": "Ensuring all caches have consistent data",
+    "optionB": "Increasing cache size dynamically",
+    "optionC": "Disabling caches to avoid conflicts",
+    "optionD": "Using only one cache for all processors",
+    "correctAnswer": "Ensuring all caches have consistent data"
+  },
+  {
+    "title": "IFT212",
+    "id": 14,
+    "question": "Which register holds the result of ALU operations?",
+    "optionA": "Instruction Register (IR)",
+    "optionB": "Accumulator (ACC)",
+    "optionC": "Memory Buffer Register (MBR)",
+    "optionD": "Stack Pointer (SP)",
+    "correctAnswer": "Accumulator (ACC)"
+  },
+  {
+    "title": "IFT212",
+    "id": 15,
+    "question": "What is the primary advantage of pipelining in CPUs?",
+    "optionA": "Reduces power consumption",
+    "optionB": "Increases instruction throughput",
+    "optionC": "Simplifies circuit design",
+    "optionD": "Eliminates the need for cache",
+    "correctAnswer": "Increases instruction throughput"
+  },
+  {
+    "title": "IFT212",
+    "id": 16,
+    "question": "Which of these is a volatile memory type?",
+    "optionA": "ROM",
+    "optionB": "Flash memory",
+    "optionC": "RAM",
+    "optionD": "HDD",
+    "correctAnswer": "RAM"
+  },
+  {
+    "title": "IFT212",
+    "id": 17,
+    "question": "What does the term 'clock cycle' refer to?",
+    "optionA": "Time taken to fetch an instruction",
+    "optionB": "Time between two pulses of the CPU clock",
+    "optionC": "Time to access main memory",
+    "optionD": "Time to execute a full program",
+    "correctAnswer": "Time between two pulses of the CPU clock"
+  },
+  {
+    "title": "IFT212",
+    "id": 18,
+    "question": "Which component performs arithmetic and logic operations?",
+    "optionA": "Control Unit (CU)",
+    "optionB": "Arithmetic Logic Unit (ALU)",
+    "optionC": "Cache",
+    "optionD": "Memory Management Unit (MMU)",
+    "correctAnswer": "Arithmetic Logic Unit (ALU)"
+  },
+  {
+    "title": "IFT212",
+    "id": 19,
+    "question": "What is the purpose of virtual memory?",
+    "optionA": "To replace RAM entirely",
+    "optionB": "To allow programs to use more memory than physically available",
+    "optionC": "To speed up cache access",
+    "optionD": "To eliminate the need for secondary storage",
+    "correctAnswer": "To allow programs to use more memory than physically available"
+  },
+  {
+    "title": "IFT212",
+    "id": 20,
+    "question": "Which of these is a characteristic of CISC architectures?",
+    "optionA": "Fixed-length instructions",
+    "optionB": "Minimal use of microcode",
+    "optionC": "Complex, multi-cycle instructions",
+    "optionD": "Large number of registers",
+    "correctAnswer": "Complex, multi-cycle instructions"
+  },
+  {
+    "title": "IFT212",
+    "id": 21,
+    "question": "What is the primary purpose of the Memory Data Register (MDR)?",
+    "optionA": "Stores the address of the next instruction",
+    "optionB": "Holds data read from or to be written to memory",
+    "optionC": "Manages interrupt requests",
+    "optionD": "Controls the ALU operations",
+    "correctAnswer": "Holds data read from or to be written to memory"
+  },
+  {
+    "title": "IFT212",
+    "id": 22,
+    "question": "Which of these is a disadvantage of dynamic RAM (DRAM) compared to static RAM (SRAM)?",
+    "optionA": "Lower power consumption",
+    "optionB": "Requires periodic refreshing",
+    "optionC": "Faster access times",
+    "optionD": "More expensive per bit",
+    "correctAnswer": "Requires periodic refreshing"
+  },
+  {
+    "title": "IFT212",
+    "id": 23,
+    "question": "In which addressing mode is the operand's address calculated by adding an offset to a base register?",
+    "optionA": "Immediate addressing",
+    "optionB": "Direct addressing",
+    "optionC": "Indexed addressing",
+    "optionD": "Indirect addressing",
+    "correctAnswer": "Indexed addressing"
+  },
+  {
+    "title": "IFT212",
+    "id": 24,
+    "question": "What is the function of the stack pointer (SP) in a CPU?",
+    "optionA": "Points to the top of the stack in memory",
+    "optionB": "Stores the result of arithmetic operations",
+    "optionC": "Holds the address of the next instruction",
+    "optionD": "Manages cache coherence",
+    "correctAnswer": "Points to the top of the stack in memory"
+  },
+  {
+    "title": "IFT212",
+    "id": 25,
+    "question": "Which of these is a key feature of Harvard architecture?",
+    "optionA": "Shared memory for instructions and data",
+    "optionB": "Separate buses for instructions and data",
+    "optionC": "No cache memory",
+    "optionD": "Variable-length instructions",
+    "correctAnswer": "Separate buses for instructions and data"
+  },
+  {
+    "title": "IFT212",
+    "id": 26,
+    "question": "What is the purpose of the 'fetch' phase in the instruction cycle?",
+    "optionA": "Decode the instruction",
+    "optionB": "Retrieve the instruction from memory",
+    "optionC": "Execute the arithmetic operation",
+    "optionD": "Write results to memory",
+    "correctAnswer": "Retrieve the instruction from memory"
+  },
+  {
+    "title": "IFT212",
+    "id": 27,
+    "question": "Which of these is NOT a type of cache miss?",
+    "optionA": "Compulsory miss",
+    "optionB": "Conflict miss",
+    "optionC": "Capacity miss",
+    "optionD": "Pipeline miss",
+    "correctAnswer": "Pipeline miss"
+  },
+  {
+    "title": "IFT212",
+    "id": 28,
+    "question": "What is the primary advantage of using a write-back cache policy over write-through?",
+    "optionA": "Simpler implementation",
+    "optionB": "Reduced memory bandwidth usage",
+    "optionC": "Faster read operations",
+    "optionD": "No need for cache coherence",
+    "correctAnswer": "Reduced memory bandwidth usage"
+  },
+  {
+    "title": "IFT212",
+    "id": 29,
+    "question": "Which component is responsible for translating virtual addresses to physical addresses?",
+    "optionA": "ALU",
+    "optionB": "Memory Management Unit (MMU)",
+    "optionC": "Control Unit (CU)",
+    "optionD": "Cache controller",
+    "correctAnswer": "Memory Management Unit (MMU)"
+  },
+  {
+    "title": "IFT212",
+    "id": 30,
+    "question": "What is the purpose of the 'decode' phase in the instruction cycle?",
+    "optionA": "Fetch the instruction from memory",
+    "optionB": "Determine the operation to perform",
+    "optionC": "Execute the arithmetic operation",
+    "optionD": "Store the result in memory",
+    "correctAnswer": "Determine the operation to perform"
+  },
+  {
+    "title": "IFT212",
+    "id": 31,
+    "question": "Which of these is a characteristic of a superscalar processor?",
+    "optionA": "Executes one instruction per clock cycle",
+    "optionB": "Uses a single pipeline",
+    "optionC": "Executes multiple instructions per clock cycle",
+    "optionD": "No out-of-order execution",
+    "correctAnswer": "Executes multiple instructions per clock cycle"
+  },
+  {
+    "title": "IFT212",
+    "id": 32,
+    "question": "What is the primary function of an assembler?",
+    "optionA": "Execute high-level code directly",
+    "optionB": "Translate assembly code to machine code",
+    "optionC": "Optimize cache performance",
+    "optionD": "Manage virtual memory",
+    "correctAnswer": "Translate assembly code to machine code"
+  },
+  {
+    "title": "IFT212",
+    "id": 33,
+    "question": "Which of these is a disadvantage of microprogrammed control units?",
+    "optionA": "Faster than hardwired control",
+    "optionB": "More flexible for complex instructions",
+    "optionC": "Slower due to memory access delays",
+    "optionD": "Difficult to modify",
+    "correctAnswer": "Slower due to memory access delays"
+  },
+  {
+    "title": "IFT212",
+    "id": 34,
+    "question": "What is the purpose of the Translation Lookaside Buffer (TLB)?",
+    "optionA": "Store frequently used virtual-to-physical address mappings",
+    "optionB": "Manage cache coherence",
+    "optionC": "Hold intermediate ALU results",
+    "optionD": "Control I/O operations",
+    "correctAnswer": "Store frequently used virtual-to-physical address mappings"
+  },
+  {
+    "title": "IFT212",
+    "id": 35,
+    "question": "Which of these is a key difference between SRAM and DRAM?",
+    "optionA": "SRAM is slower than DRAM",
+    "optionB": "DRAM uses flip-flops, SRAM uses capacitors",
+    "optionC": "SRAM does not need refreshing",
+    "optionD": "DRAM is more expensive per bit",
+    "correctAnswer": "SRAM does not need refreshing"
+  },
+  {
+    "title": "IFT212",
+    "id": 36,
+    "question": "What is the purpose of the 'execute' phase in the instruction cycle?",
+    "optionA": "Fetch the instruction from memory",
+    "optionB": "Decode the operation",
+    "optionC": "Perform the operation (e.g., ALU computation)",
+    "optionD": "Write results to cache",
+    "correctAnswer": "Perform the operation (e.g., ALU computation)"
+  },
+  {
+    "title": "IFT212",
+    "id": 37,
+    "question": "Which of these is a technique to reduce pipeline stalls?",
+    "optionA": "Increasing clock speed",
+    "optionB": "Branch prediction",
+    "optionC": "Disabling interrupts",
+    "optionD": "Using larger caches",
+    "correctAnswer": "Branch prediction"
+  },
+  {
+    "title": "IFT212",
+    "id": 38,
+    "question": "What is the primary role of the system bus in a computer?",
+    "optionA": "Connect CPU, memory, and I/O devices",
+    "optionB": "Store temporary data",
+    "optionC": "Execute arithmetic operations",
+    "optionD": "Manage power supply",
+    "correctAnswer": "Connect CPU, memory, and I/O devices"
+  },
+  {
+    "title": "IFT212",
+    "id": 39,
+    "question": "Which of these is a characteristic of EPROM?",
+    "optionA": "Volatile memory",
+    "optionB": "Erasable with ultraviolet light",
+    "optionC": "Faster than SRAM",
+    "optionD": "Used for cache memory",
+    "correctAnswer": "Erasable with ultraviolet light"
+  },
+  {
+    "title": "IFT212",
+    "id": 40,
+    "question": "What is the purpose of the 'interrupt' phase in the instruction cycle?",
+    "optionA": "Handle high-priority events (e.g., I/O requests)",
+    "optionB": "Fetch the next instruction",
+    "optionC": "Decode the operation",
+    "optionD": "Write data to registers",
+    "correctAnswer": "Handle high-priority events (e.g., I/O requests)"
+  },
+  {
+    "title": "IFT212",
+    "id": 41,
+    "question": "Which of these is a benefit of using a multi-level cache hierarchy?",
+    "optionA": "Reduces the need for RAM",
+    "optionB": "Balances speed and size (L1 fast/small, L2 slower/larger)",
+    "optionC": "Eliminates the need for virtual memory",
+    "optionD": "Simplifies pipeline design",
+    "correctAnswer": "Balances speed and size (L1 fast/small, L2 slower/larger)"
+  },
+  {
+    "title": "IFT212",
+    "id": 42,
+    "question": "What is the primary function of the Arithmetic Logic Unit (ALU)?",
+    "optionA": "Manage memory addresses",
+    "optionB": "Perform arithmetic and logic operations",
+    "optionC": "Control I/O devices",
+    "optionD": "Decode instructions",
+    "correctAnswer": "Perform arithmetic and logic operations"
+  },
+  {
+    "title": "IFT212",
+    "id": 43,
+    "question": "Which of these is a disadvantage of interrupt-driven I/O compared to polling?",
+    "optionA": "Higher CPU usage",
+    "optionB": "Slower response time",
+    "optionC": "Complexity in handling multiple devices",
+    "optionD": "Increased power consumption",
+    "correctAnswer": "Complexity in handling multiple devices"
+  },
+  {
+    "title": "IFT212",
+    "id": 44,
+    "question": "What is the purpose of the 'write-back' stage in a pipeline?",
+    "optionA": "Fetch the next instruction",
+    "optionB": "Store results to registers/memory",
+    "optionC": "Decode the operation",
+    "optionD": "Handle branch predictions",
+    "correctAnswer": "Store results to registers/memory"
+  },
+  {
+    "title": "IFT212",
+    "id": 45,
+    "question": "Which of these is a feature of SIMD (Single Instruction, Multiple Data) architectures?",
+    "optionA": "Executes one instruction on multiple data elements simultaneously",
+    "optionB": "Uses multiple instruction streams",
+    "optionC": "No parallelism",
+    "optionD": "Only used in supercomputers",
+    "correctAnswer": "Executes one instruction on multiple data elements simultaneously"
+  },
+  {
+    "title": "IFT212",
+    "id": 46,
+    "question": "Which of these best describes the purpose of a memory interleaving technique?",
+    "optionA": "To reduce the physical size of memory chips",
+    "optionB": "To allow parallel access to multiple memory modules",
+    "optionC": "To eliminate the need for cache memory",
+    "optionD": "To decrease memory bandwidth",
+    "correctAnswer": "To allow parallel access to multiple memory modules"
+  },
+  {
+    "title": "IFT212",
+    "id": 47,
+    "question": "What is the primary advantage of using a write-allocate cache policy?",
+    "optionA": "Reduces memory writes",
+    "optionB": "Improves performance for write-intensive operations",
+    "optionC": "Eliminates cache misses",
+    "optionD": "Simplifies cache coherence protocols",
+    "correctAnswer": "Improves performance for write-intensive operations"
+  },
+  {
+    "title": "IFT212",
+    "id": 48,
+    "question": "Which component is primarily responsible for resolving hazards in a pipelined processor?",
+    "optionA": "Branch predictor",
+    "optionB": "Hazard detection unit",
+    "optionC": "Memory Management Unit (MMU)",
+    "optionD": "Cache controller",
+    "correctAnswer": "Hazard detection unit"
+  },
+  {
+    "title": "IFT212",
+    "id": 49,
+    "question": "What is the key difference between a multiprocessor and a multicomputer system?",
+    "optionA": "Multiprocessors share memory, while multicomputers do not",
+    "optionB": "Multicomputers are faster than multiprocessors",
+    "optionC": "Multiprocessors use only RISC architectures",
+    "optionD": "Multicomputers cannot run parallel programs",
+    "correctAnswer": "Multiprocessors share memory, while multicomputers do not"
+  },
+  {
+    "title": "IFT212",
+    "id": 50,
+    "question": "Which of these is a characteristic of a zero-address instruction format?",
+    "optionA": "Uses stack-based operations",
+    "optionB": "Requires explicit memory addresses",
+    "optionC": "Has three operand fields",
+    "optionD": "Only used in CISC architectures",
+    "correctAnswer": "Uses stack-based operations"
+  },
+  {
+    "title": "IFT212",
+    "id": 51,
+    "question": "What is the purpose of the 'tag' field in a cache memory block?",
+    "optionA": "To store the data value",
+    "optionB": "To identify which main memory block is cached",
+    "optionC": "To indicate the cache size",
+    "optionD": "To manage power consumption",
+    "correctAnswer": "To identify which main memory block is cached"
+  },
+  {
+    "title": "IFT212",
+    "id": 52,
+    "question": "Which of these is a disadvantage of a fully associative cache mapping?",
+    "optionA": "Simple hardware implementation",
+    "optionB": "High cost due to complex search logic",
+    "optionC": "Fixed block placement",
+    "optionD": "Poor spatial locality",
+    "correctAnswer": "High cost due to complex search logic"
+  },
+  {
+    "title": "IFT212",
+    "id": 53,
+    "question": "In the context of RAID, what does striping provide?",
+    "optionA": "Data redundancy",
+    "optionB": "Improved read/write performance by spreading data across disks",
+    "optionC": "Error correction",
+    "optionD": "Automatic backup",
+    "correctAnswer": "Improved read/write performance by spreading data across disks"
+  },
+  {
+    "title": "IFT212",
+    "id": 54,
+    "question": "Which of these is a key feature of a vector processor?",
+    "optionA": "Executes scalar operations only",
+    "optionB": "Optimized for single-threaded performance",
+    "optionC": "Performs operations on arrays of data (vectors)",
+    "optionD": "Uses microprogrammed control exclusively",
+    "correctAnswer": "Performs operations on arrays of data (vectors)"
+  },
+  {
+    "title": "IFT212",
+    "id": 55,
+    "question": "What is the primary purpose of a memory buffer register (MBR)?",
+    "optionA": "Hold the address of the next instruction",
+    "optionB": "Temporarily store data during transfers between CPU and memory",
+    "optionC": "Manage cache coherence",
+    "optionD": "Control pipeline stages",
+    "correctAnswer": "Temporarily store data during transfers between CPU and memory"
+  },
+  {
+    "title": "IFT212",
+    "id": 56,
+    "question": "Which of these is a characteristic of a superscalar processor?",
+    "optionA": "Executes instructions strictly in order",
+    "optionB": "Uses a single execution unit",
+    "optionC": "Can issue multiple instructions per cycle",
+    "optionD": "Only found in embedded systems",
+    "correctAnswer": "Can issue multiple instructions per cycle"
+  },
+  {
+    "title": "IFT212",
+    "id": 57,
+    "question": "What is the purpose of the 'valid bit' in a cache block?",
+    "optionA": "To indicate whether the block contains valid data",
+    "optionB": "To store the memory address",
+    "optionC": "To control cache replacement policies",
+    "optionD": "To manage power states",
+    "correctAnswer": "To indicate whether the block contains valid data"
+  },
+  {
+    "title": "IFT212",
+    "id": 58,
+    "question": "Which of these is a technique to handle control hazards in pipelining?",
+    "optionA": "Data forwarding",
+    "optionB": "Branch prediction",
+    "optionC": "Increasing cache size",
+    "optionD": "Disabling interrupts",
+    "correctAnswer": "Branch prediction"
+  },
+  {
+    "title": "IFT212",
+    "id": 59,
+    "question": "What is the primary advantage of a non-restoring division algorithm?",
+    "optionA": "Simpler hardware implementation",
+    "optionB": "Eliminates the need for addition operations",
+    "optionC": "Faster convergence by skipping intermediate restoration steps",
+    "optionD": "Only works for floating-point numbers",
+    "correctAnswer": "Faster convergence by skipping intermediate restoration steps"
+  },
+  {
+    "title": "IFT212",
+    "id": 60,
+    "question": "Which of these is a key difference between synchronous and asynchronous buses?",
+    "optionA": "Synchronous buses use a clock signal for coordination",
+    "optionB": "Asynchronous buses are slower",
+    "optionC": "Synchronous buses require more wires",
+    "optionD": "Asynchronous buses cannot support DMA",
+    "correctAnswer": "Synchronous buses use a clock signal for coordination"
+  },
+{
+  "title": "IFT212",
+  "id": 61,
+  "question": "What is the primary purpose of a TLB (Translation Lookaside Buffer)?",
+  "optionA": "Store frequently used virtual-to-physical address mappings",
+  "optionB": "Manage cache coherence",
+  "optionC": "Hold intermediate ALU results",
+  "optionD": "Control I/O operations",
+  "correctAnswer": "Store frequently used virtual-to-physical address mappings"
+},
+{
+  "title": "IFT212",
+  "id": 62,
+  "question": "Which of these is a characteristic of a VLIW (Very Long Instruction Word) architecture?",
+  "optionA": "Relies heavily on dynamic scheduling",
+  "optionB": "Packages multiple operations into one instruction",
+  "optionC": "Uses a small instruction set",
+  "optionD": "Only supports single-threaded execution",
+  "correctAnswer": "Packages multiple operations into one instruction"
+},
+{
+  "title": "IFT212",
+  "id": 63,
+  "question": "What is the purpose of the 'dirty bit' in a cache block?",
+  "optionA": "Indicates whether the block has been modified",
+  "optionB": "Tracks the age of the data",
+  "optionC": "Marks the block as invalid",
+  "optionD": "Stores the memory address",
+  "correctAnswer": "Indicates whether the block has been modified"
+},
+{
+  "title": "IFT212",
+  "id": 64,
+  "question": "Which of these is a key advantage of out-of-order execution?",
+  "optionA": "Simplifies pipeline design",
+  "optionB": "Improves CPU utilization by executing independent instructions non-sequentially",
+  "optionC": "Reduces clock speed requirements",
+  "optionD": "Eliminates the need for branch prediction",
+  "correctAnswer": "Improves CPU utilization by executing independent instructions non-sequentially"
+},
+{
+  "title": "IFT212",
+  "id": 65,
+  "question": "What is the role of the 'memory controller' in a computer system?",
+  "optionA": "Manages data flow between CPU and memory",
+  "optionB": "Decodes instructions",
+  "optionC": "Executes arithmetic operations",
+  "optionD": "Handles interrupt requests",
+  "correctAnswer": "Manages data flow between CPU and memory"
+},
+{
+  "title": "IFT212",
+  "id": 66,
+  "question": "Which of these is a disadvantage of a fully associative cache?",
+  "optionA": "High power consumption due to parallel searches",
+  "optionB": "Fixed block placement",
+  "optionC": "Poor spatial locality",
+  "optionD": "Slow hit time",
+  "correctAnswer": "High power consumption due to parallel searches"
+},
+{
+  "title": "IFT212",
+  "id": 67,
+  "question": "What is the purpose of the 'branch target buffer' (BTB)?",
+  "optionA": "Stores addresses of frequently executed branches",
+  "optionB": "Manages cache coherence",
+  "optionC": "Holds intermediate ALU results",
+  "optionD": "Controls I/O operations",
+  "correctAnswer": "Stores addresses of frequently executed branches"
+},
+{
+  "title": "IFT212",
+  "id": 68,
+  "question": "Which of these is a characteristic of EPROM memory?",
+  "optionA": "Volatile",
+  "optionB": "Erasable via ultraviolet light",
+  "optionC": "Faster than SRAM",
+  "optionD": "Used for cache memory",
+  "correctAnswer": "Erasable via ultraviolet light"
+},
+{
+  "title": "IFT212",
+  "id": 69,
+  "question": "What is the primary function of the 'prefetch buffer' in a CPU?",
+  "optionA": "Store decoded instructions",
+  "optionB": "Fetch instructions ahead of the pipeline to reduce stalls",
+  "optionC": "Hold data for ALU operations",
+  "optionD": "Manage virtual memory",
+  "correctAnswer": "Fetch instructions ahead of the pipeline to reduce stalls"
+},
+{
+  "title": "IFT212",
+  "id": 70,
+  "question": "Which of these is a technique to reduce cache conflict misses?",
+  "optionA": "Increasing cache size",
+  "optionB": "Using a fully associative cache",
+  "optionC": "Disabling prefetching",
+  "optionD": "Reducing block size",
+  "correctAnswer": "Using a fully associative cache"
+},
+{
+  "title": "IFT212",
+  "id": 71,
+  "question": "What is the purpose of the 'store buffer' in a CPU?",
+  "optionA": "Hold data waiting to be written to memory",
+  "optionB": "Store branch targets",
+  "optionC": "Cache instructions",
+  "optionD": "Manage TLB entries",
+  "correctAnswer": "Hold data waiting to be written to memory"
+},
+{
+  "title": "IFT212",
+  "id": 72,
+  "question": "Which of these is a characteristic of a multithreaded processor?",
+  "optionA": "Executes only one thread at a time",
+  "optionB": "Shares execution units between threads",
+  "optionC": "Requires no cache coherence",
+  "optionD": "Uses only static scheduling",
+  "correctAnswer": "Shares execution units between threads"
+},
+{
+  "title": "IFT212",
+  "id": 73,
+  "question": "What is the primary advantage of a non-blocking cache?",
+  "optionA": "Continues servicing hits during a miss",
+  "optionB": "Reduces cache size",
+  "optionC": "Simplifies coherence protocols",
+  "optionD": "Eliminates the need for prefetching",
+  "correctAnswer": "Continues servicing hits during a miss"
+},
+{
+  "title": "IFT212",
+  "id": 74,
+  "question": "Which of these is a key feature of a SIMD (Single Instruction, Multiple Data) architecture?",
+  "optionA": "Executes one instruction on multiple data elements simultaneously",
+  "optionB": "Uses complex instruction sets",
+  "optionC": "Only supports scalar operations",
+  "optionD": "Requires no parallelism",
+  "correctAnswer": "Executes one instruction on multiple data elements simultaneously"
+},
+{
+  "title": "IFT212",
+  "id": 75,
+  "question": "What is the purpose of the 'reorder buffer' in out-of-order execution?",
+  "optionA": "Ensure instructions complete in program order",
+  "optionB": "Store branch predictions",
+  "optionC": "Manage cache lines",
+  "optionD": "Hold I/O requests",
+  "correctAnswer": "Ensure instructions complete in program order"
+},
+{
+  "title": "IFT212",
+  "id": 76,
+  "question": "Which of these is a disadvantage of write-back caches compared to write-through?",
+  "optionA": "Higher memory bandwidth usage",
+  "optionB": "Complexity in maintaining coherence",
+  "optionC": "Slower read operations",
+  "optionD": "Smaller cache size",
+  "correctAnswer": "Complexity in maintaining coherence"
+},
+{
+  "title": "IFT212",
+  "id": 77,
+  "question": "What is the role of the 'scheduler' in a superscalar processor?",
+  "optionA": "Decode instructions",
+  "optionB": "Dispatch instructions to execution units",
+  "optionC": "Manage virtual memory",
+  "optionD": "Handle interrupts",
+  "correctAnswer": "Dispatch instructions to execution units"
+},
+{
+  "title": "IFT212",
+  "id": 78,
+  "question": "Which of these is a characteristic of a CISC instruction set?",
+  "optionA": "Fixed-length instructions",
+  "optionB": "Minimal microcode",
+  "optionC": "Complex, multi-cycle instructions",
+  "optionD": "Large register file",
+  "correctAnswer": "Complex, multi-cycle instructions"
+},
+{
+  "title": "IFT212",
+  "id": 79,
+  "question": "What is the purpose of the 'memory fence' instruction?",
+  "optionA": "Enforce ordering of memory operations",
+  "optionB": "Clear the cache",
+  "optionC": "Flush the pipeline",
+  "optionD": "Reset the TLB",
+  "correctAnswer": "Enforce ordering of memory operations"
+},
+{
+  "title": "IFT212",
+  "id": 80,
+  "question": "Which of these is a technique to reduce pipeline bubbles?",
+  "optionA": "Increasing clock speed",
+  "optionB": "Instruction prefetching",
+  "optionC": "Disabling interrupts",
+  "optionD": "Reducing cache size",
+  "correctAnswer": "Instruction prefetching"
+},
+{
+  "title": "IFT212",
+  "id": 81,
+  "question": "What is the primary function of the 'floating-point unit' (FPU)?",
+  "optionA": "Handle integer arithmetic",
+  "optionB": "Perform floating-point calculations",
+  "optionC": "Manage cache coherence",
+  "optionD": "Control I/O devices",
+  "correctAnswer": "Perform floating-point calculations"
+},
+{
+  "title": "IFT212",
+  "id": 82,
+  "question": "Which of these is a characteristic of a MIMD (Multiple Instruction, Multiple Data) architecture?",
+  "optionA": "Uses a single control unit",
+  "optionB": "Executes different instructions on different data streams",
+  "optionC": "Only supports vector operations",
+  "optionD": "No need for cache coherence",
+  "correctAnswer": "Executes different instructions on different data streams"
+},
+{
+  "title": "IFT212",
+  "id": 83,
+  "question": "What is the purpose of the 'cache line' in a memory hierarchy?",
+  "optionA": "Store a single bit of data",
+  "optionB": "Hold a block of contiguous memory words",
+  "optionC": "Manage virtual addresses",
+  "optionD": "Control pipeline stages",
+  "correctAnswer": "Hold a block of contiguous memory words"
+},
+{
+  "title": "IFT212",
+  "id": 84,
+  "question": "Which of these is a key advantage of a Harvard architecture over von Neumann?",
+  "optionA": "Shared memory for instructions and data",
+  "optionB": "Separate buses for instructions and data",
+  "optionC": "Simpler control unit",
+  "optionD": "Lower power consumption",
+  "correctAnswer": "Separate buses for instructions and data"
+},
+{
+  "title": "IFT212",
+  "id": 85,
+  "question": "What is the role of the 'interrupt vector table'?",
+  "optionA": "Store addresses of interrupt service routines",
+  "optionB": "Manage cache lines",
+  "optionC": "Hold floating-point operands",
+  "optionD": "Control pipeline stalls",
+  "correctAnswer": "Store addresses of interrupt service routines"
+},
+{
+  "title": "IFT212",
+  "id": 86,
+  "question": "Which of these is a characteristic of a synchronous bus protocol?",
+  "optionA": "Uses handshaking signals",
+  "optionB": "Operates without a clock",
+  "optionC": "Relies on a shared clock signal for timing",
+  "optionD": "Slower than asynchronous buses",
+  "correctAnswer": "Relies on a shared clock signal for timing"
+},
+{
+  "title": "IFT212",
+  "id": 87,
+  "question": "What is the purpose of the 'memory-mapped I/O' technique?",
+  "optionA": "Treat I/O devices as memory locations",
+  "optionB": "Increase cache size",
+  "optionC": "Simplify branch prediction",
+  "optionD": "Eliminate virtual memory",
+  "correctAnswer": "Treat I/O devices as memory locations"
+},
+{
+  "title": "IFT212",
+  "id": 88,
+  "question": "Which of these is a disadvantage of a shared memory multiprocessor system?",
+  "optionA": "High cost of inter-processor communication",
+  "optionB": "No need for cache coherence",
+  "optionC": "Limited scalability due to memory contention",
+  "optionD": "Inability to run parallel programs",
+  "correctAnswer": "Limited scalability due to memory contention"
+},
+{
+  "title": "IFT212",
+  "id": 89,
+  "question": "What is the primary function of the 'page table' in virtual memory systems?",
+  "optionA": "Map virtual addresses to physical addresses",
+  "optionB": "Store frequently used instructions",
+  "optionC": "Manage cache lines",
+  "optionD": "Control pipeline hazards",
+  "correctAnswer": "Map virtual addresses to physical addresses"
+},
+{
+  "title": "IFT212",
+  "id": 90,
+  "question": "Which of these is a technique to handle data hazards in pipelining?",
+  "optionA": "Branch prediction",
+  "optionB": "Data forwarding (bypassing)",
+  "optionC": "Increasing cache size",
+  "optionD": "Disabling interrupts",
+  "correctAnswer": "Data forwarding (bypassing)"
+},
+{
+  "title": "IFT212",
+  "id": 91,
+  "question": "What is the primary purpose of cache coherence protocols in multiprocessor systems?",
+  "optionA": "To synchronize clocks between processors",
+  "optionB": "To maintain consistency of shared data across caches",
+  "optionC": "To allocate memory to different processes",
+  "optionD": "To manage virtual memory translation",
+  "correctAnswer": "To maintain consistency of shared data across caches"
+},
+{
+  "title": "IFT212",
+  "id": 92,
+  "question": "Which of these is a characteristic of the MESI cache coherence protocol?",
+  "optionA": "Uses only two states (Modified and Shared)",
+  "optionB": "Includes four states (Modified, Exclusive, Shared, Invalid)",
+  "optionC": "Does not require bus snooping",
+  "optionD": "Only works for write-through caches",
+  "correctAnswer": "Includes four states (Modified, Exclusive, Shared, Invalid)"
+},
+{
+  "title": "IFT212",
+  "id": 93,
+  "question": "What is the purpose of 'bus snooping' in cache coherence?",
+  "optionA": "To monitor bus transactions for memory updates",
+  "optionB": "To increase bus bandwidth",
+  "optionC": "To reduce cache size",
+  "optionD": "To eliminate the need for virtual memory",
+  "correctAnswer": "To monitor bus transactions for memory updates"
+},
+{
+  "title": "IFT212",
+  "id": 94,
+  "question": "Which of these is a disadvantage of directory-based cache coherence compared to snooping?",
+  "optionA": "Higher scalability overhead",
+  "optionB": "Lower latency for small systems",
+  "optionC": "Simpler hardware implementation",
+  "optionD": "No need for centralized directory",
+  "correctAnswer": "Higher scalability overhead"
+},
+{
+  "title": "IFT212",
+  "id": 95,
+  "question": "What is the primary advantage of a NUMA (Non-Uniform Memory Access) architecture?",
+  "optionA": "All memory accesses take equal time",
+  "optionB": "Scalability for large processor counts",
+  "optionC": "No need for cache coherence",
+  "optionD": "Simpler programming model",
+  "correctAnswer": "Scalability for large processor counts"
+},
+{
+  "title": "IFT212",
+  "id": 96,
+  "question": "Which of these is a characteristic of message-passing multiprocessors?",
+  "optionA": "Shared memory space",
+  "optionB": "Communication via explicit messages",
+  "optionC": "Automatic cache coherence",
+  "optionD": "Uniform memory access times",
+  "correctAnswer": "Communication via explicit messages"
+},
+{
+  "title": "IFT212",
+  "id": 97,
+  "question": "What is the purpose of a 'memory barrier' instruction?",
+  "optionA": "To enforce ordering of memory operations",
+  "optionB": "To clear the cache contents",
+  "optionC": "To flush the TLB",
+  "optionD": "To reset the pipeline",
+  "correctAnswer": "To enforce ordering of memory operations"
+},
+{
+  "title": "IFT212",
+  "id": 98,
+  "question": "Which of these is a key challenge in designing multicore processors?",
+  "optionA": "Reducing single-thread performance",
+  "optionB": "Managing power and thermal constraints",
+  "optionC": "Eliminating the need for caches",
+  "optionD": "Using only scalar execution units",
+  "correctAnswer": "Managing power and thermal constraints"
+},
+{
+  "title": "IFT212",
+  "id": 99,
+  "question": "What is the primary function of a 'load-store unit' in a processor?",
+  "optionA": "To execute floating-point operations",
+  "optionB": "To manage memory access instructions",
+  "optionC": "To handle branch prediction",
+  "optionD": "To control I/O devices",
+  "correctAnswer": "To manage memory access instructions"
+},
+{
+  "title": "IFT212",
+  "id": 100,
+  "question": "Which of these is a characteristic of speculative execution?",
+  "optionA": "Instructions are executed before knowing if they are needed",
+  "optionB": "Only scalar operations are performed",
+  "optionC": "No branch prediction is used",
+  "optionD": "Cache coherence is ignored",
+  "correctAnswer": "Instructions are executed before knowing if they are needed"
+},
+{
+  "title": "IFT212",
+  "id": 101,
+  "question": "What is the purpose of 'register renaming' in out-of-order execution?",
+  "optionA": "To eliminate false dependencies between instructions",
+  "optionB": "To reduce the number of physical registers",
+  "optionC": "To simplify the instruction set",
+  "optionD": "To manage virtual memory",
+  "correctAnswer": "To eliminate false dependencies between instructions"
+},
+{
+  "title": "IFT212",
+  "id": 102,
+  "question": "Which of these is a key feature of SIMT (Single Instruction, Multiple Threads) execution?",
+  "optionA": "All threads execute different instructions",
+  "optionB": "Threads are grouped into warps/wavefronts executing the same instruction",
+  "optionC": "No need for cache coherence",
+  "optionD": "Only used in scalar processors",
+  "correctAnswer": "Threads are grouped into warps/wavefronts executing the same instruction"
+},
+{
+  "title": "IFT212",
+  "id": 103,
+  "question": "What is the primary advantage of a 'victim cache'?",
+  "optionA": "Reduces conflict misses by storing recently evicted blocks",
+  "optionB": "Increases main memory size",
+  "optionC": "Eliminates the need for L1 cache",
+  "optionD": "Simplifies pipeline design",
+  "correctAnswer": "Reduces conflict misses by storing recently evicted blocks"
+},
+{
+  "title": "IFT212",
+  "id": 104,
+  "question": "Which of these is a characteristic of a 'write-combining buffer'?",
+  "optionA": "Merges multiple writes to the same cache line",
+  "optionB": "Slows down write operations",
+  "optionC": "Only used in virtual memory systems",
+  "optionD": "Eliminates the need for cache coherence",
+  "correctAnswer": "Merges multiple writes to the same cache line"
+},
+{
+  "title": "IFT212",
+  "id": 105,
+  "question": "What is the purpose of 'way prediction' in set-associative caches?",
+  "optionA": "To guess which cache way will hit to reduce access time",
+  "optionB": "To increase cache size",
+  "optionC": "To eliminate the need for TLB",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To guess which cache way will hit to reduce access time"
+},
+{
+  "title": "IFT212",
+  "id": 106,
+  "question": "Which of these is a disadvantage of hardware multithreading?",
+  "optionA": "Increased hardware complexity",
+  "optionB": "Reduced throughput",
+  "optionC": "No support for parallel execution",
+  "optionD": "Eliminates the need for caches",
+  "correctAnswer": "Increased hardware complexity"
+},
+{
+  "title": "IFT212",
+  "id": 107,
+  "question": "What is the primary function of a 'trace cache'?",
+  "optionA": "Store sequences of decoded instructions",
+  "optionB": "Manage virtual memory",
+  "optionC": "Handle floating-point operations",
+  "optionD": "Control I/O devices",
+  "correctAnswer": "Store sequences of decoded instructions"
+},
+{
+  "title": "IFT212",
+  "id": 108,
+  "question": "Which of these is a characteristic of 'transactional memory'?",
+  "optionA": "Groups memory operations into atomic transactions",
+  "optionB": "Only works for single-threaded programs",
+  "optionC": "Eliminates the need for caches",
+  "optionD": "Slows down parallel execution",
+  "correctAnswer": "Groups memory operations into atomic transactions"
+},
+{
+  "title": "IFT212",
+  "id": 109,
+  "question": "What is the purpose of 'cache partitioning'?",
+  "optionA": "To allocate specific cache portions to different processes/threads",
+  "optionB": "To reduce cache size",
+  "optionC": "To eliminate cache coherence",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To allocate specific cache portions to different processes/threads"
+},
+{
+  "title": "IFT212",
+  "id": 110,
+  "question": "Which of these is a key challenge in heterogeneous computing systems?",
+  "optionA": "Uniform performance across all processors",
+  "optionB": "Programming complexity due to different processor architectures",
+  "optionC": "No need for cache coherence",
+  "optionD": "Identical instruction sets for all processors",
+  "correctAnswer": "Programming complexity due to different processor architectures"
+},
+{
+  "title": "IFT212",
+  "id": 111,
+  "question": "What is the primary advantage of 'near-memory computing'?",
+  "optionA": "Reduces data movement by processing closer to memory",
+  "optionB": "Increases cache size",
+  "optionC": "Eliminates the need for pipelines",
+  "optionD": "Simplifies branch prediction",
+  "correctAnswer": "Reduces data movement by processing closer to memory"
+},
+{
+  "title": "IFT212",
+  "id": 112,
+  "question": "Which of these is a characteristic of 'approximate computing'?",
+  "optionA": "Always produces exact results",
+  "optionB": "Trades off accuracy for improved performance/energy efficiency",
+  "optionC": "Only used in floating-point units",
+  "optionD": "Requires more hardware resources",
+  "correctAnswer": "Trades off accuracy for improved performance/energy efficiency"
+},
+{
+  "title": "IFT212",
+  "id": 113,
+  "question": "What is the purpose of 'cache coloring'?",
+  "optionA": "To reduce conflict misses by partitioning cache index space",
+  "optionB": "To increase cache associativity",
+  "optionC": "To eliminate TLB misses",
+  "optionD": "To simplify pipeline design",
+  "correctAnswer": "To reduce conflict misses by partitioning cache index space"
+},
+{
+  "title": "IFT212",
+  "id": 114,
+  "question": "Which of these is a key feature of 'in-memory computing'?",
+  "optionA": "Processes data where it is stored (in memory)",
+  "optionB": "Increases data movement between CPU and memory",
+  "optionC": "Only works for scalar operations",
+  "optionD": "Eliminates the need for caches",
+  "correctAnswer": "Processes data where it is stored (in memory)"
+},
+{
+  "title": "IFT212",
+  "id": 115,
+  "question": "What is the primary advantage of '3D-stacked memory'?",
+  "optionA": "Higher bandwidth and lower latency by stacking memory on processor",
+  "optionB": "Reduces memory capacity",
+  "optionC": "Simplifies cache coherence",
+  "optionD": "Eliminates the need for virtual memory",
+  "correctAnswer": "Higher bandwidth and lower latency by stacking memory on processor"
+},
+{
+  "title": "IFT212",
+  "id": 116,
+  "question": "Which of these is a characteristic of 'persistent memory'?",
+  "optionA": "Volatile storage",
+  "optionB": "Combines attributes of memory and storage (non-volatile)",
+  "optionC": "Slower than traditional DRAM",
+  "optionD": "Only used for cache memory",
+  "correctAnswer": "Combines attributes of memory and storage (non-volatile)"
+},
+{
+  "title": "IFT212",
+  "id": 117,
+  "question": "What is the purpose of 'cache oblivious algorithms'?",
+  "optionA": "To achieve good cache performance without tuning for specific cache parameters",
+  "optionB": "To eliminate the need for caches",
+  "optionC": "To increase memory bandwidth",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To achieve good cache performance without tuning for specific cache parameters"
+},
+{
+  "title": "IFT212",
+  "id": 118,
+  "question": "Which of these is a key challenge in quantum computing architectures?",
+  "optionA": "Maintaining qubit coherence",
+  "optionB": "High power consumption",
+  "optionC": "Simple error correction",
+  "optionD": "No need for cooling systems",
+  "correctAnswer": "Maintaining qubit coherence"
+},
+{
+  "title": "IFT212",
+  "id": 119,
+  "question": "What is the primary advantage of 'optical interconnects' in computer systems?",
+  "optionA": "Higher bandwidth and lower latency compared to electrical interconnects",
+  "optionB": "Lower cost",
+  "optionC": "Simpler manufacturing",
+  "optionD": "No need for cooling",
+  "correctAnswer": "Higher bandwidth and lower latency compared to electrical interconnects"
+},
+{
+  "title": "IFT212",
+  "id": 120,
+  "question": "Which of these is a characteristic of 'neuromorphic computing' architectures?",
+  "optionA": "Mimics the structure of biological neural networks",
+  "optionB": "Uses traditional von Neumann architecture",
+  "optionC": "Only supports scalar operations",
+  "optionD": "No need for memory hierarchy",
+  "correctAnswer": "Mimics the structure of biological neural networks"
+},
+{
+  "title": "IFT212",
+  "id": 120,
+  "question": "Which of these is a key characteristic of a superscalar processor architecture?",
+  "optionA": "Executes only one instruction per clock cycle",
+  "optionB": "Dynamically schedules multiple instructions per cycle",
+  "optionC": "Uses only simple RISC instructions",
+  "optionD": "No out-of-order execution capability",
+  "correctAnswer": "Dynamically schedules multiple instructions per cycle"
+},
+{
+  "title": "IFT212",
+  "id": 121,
+  "question": "What is the primary purpose of the 'rename stage' in modern processor pipelines?",
+  "optionA": "To eliminate name dependencies between instructions",
+  "optionB": "To reduce cache size requirements",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To manage virtual memory translation",
+  "correctAnswer": "To eliminate name dependencies between instructions"
+},
+{
+  "title": "IFT212",
+  "id": 122,
+  "question": "Which of these is a key advantage of a decoupled access/execute architecture?",
+  "optionA": "Separates memory access from computation to hide latency",
+  "optionB": "Simplifies instruction decoding",
+  "optionC": "Reduces the need for caches",
+  "optionD": "Eliminates pipeline hazards",
+  "correctAnswer": "Separates memory access from computation to hide latency"
+},
+{
+  "title": "IFT212",
+  "id": 123,
+  "question": "What is the primary function of a 'branch target buffer' (BTB) in modern processors?",
+  "optionA": "To predict branch targets and store target addresses",
+  "optionB": "To manage cache coherence",
+  "optionC": "To store floating-point operands",
+  "optionD": "To control I/O operations",
+  "correctAnswer": "To predict branch targets and store target addresses"
+},
+{
+  "title": "IFT212",
+  "id": 124,
+  "question": "Which of these is a characteristic of a VLIW (Very Long Instruction Word) processor?",
+  "optionA": "Relies on hardware for dynamic scheduling",
+  "optionB": "Depends on compiler for instruction scheduling",
+  "optionC": "Uses simple scalar operations only",
+  "optionD": "No support for parallelism",
+  "correctAnswer": "Depends on compiler for instruction scheduling"
+},
+{
+  "title": "IFT212",
+  "id": 125,
+  "question": "What is the purpose of 'memory disambiguation' in out-of-order execution?",
+  "optionA": "To resolve dependencies between load and store operations",
+  "optionB": "To increase cache size",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To eliminate the need for virtual memory",
+  "correctAnswer": "To resolve dependencies between load and store operations"
+},
+{
+  "title": "IFT212",
+  "id": 126,
+  "question": "Which of these is a key feature of simultaneous multithreading (SMT)?",
+  "optionA": "Executes instructions from multiple threads in the same cycle",
+  "optionB": "Uses separate cores for each thread",
+  "optionC": "No need for cache coherence",
+  "optionD": "Only supports single-issue pipelines",
+  "correctAnswer": "Executes instructions from multiple threads in the same cycle"
+},
+{
+  "title": "IFT212",
+  "id": 127,
+  "question": "What is the primary advantage of a 'unified cache' over split instruction/data caches?",
+  "optionA": "Better utilization of cache space",
+  "optionB": "Higher bandwidth for instruction fetch",
+  "optionC": "Simpler coherence protocols",
+  "optionD": "No need for TLB",
+  "correctAnswer": "Better utilization of cache space"
+},
+{
+  "title": "IFT212",
+  "id": 128,
+  "question": "Which of these is a characteristic of a 'non-blocking' cache?",
+  "optionA": "Continues processing hits while handling misses",
+  "optionB": "Blocks all accesses during a miss",
+  "optionC": "Only supports write-through policy",
+  "optionD": "No support for prefetching",
+  "correctAnswer": "Continues processing hits while handling misses"
+},
+{
+  "title": "IFT212",
+  "id": 129,
+  "question": "What is the purpose of 'way prediction' in set-associative caches?",
+  "optionA": "To guess which cache way will hit to reduce access time",
+  "optionB": "To increase cache size",
+  "optionC": "To eliminate the need for TLB",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To guess which cache way will hit to reduce access time"
+},
+{
+  "title": "IFT212",
+  "id": 130,
+  "question": "Which of these is a key advantage of a 'write-combining buffer'?",
+  "optionA": "Reduces memory traffic by combining multiple writes",
+  "optionB": "Increases cache size",
+  "optionC": "Simplifies pipeline design",
+  "optionD": "Eliminates the need for prefetching",
+  "correctAnswer": "Reduces memory traffic by combining multiple writes"
+},
+{
+  "title": "IFT212",
+  "id": 131,
+  "question": "What is the primary function of a 'store buffer' in modern processors?",
+  "optionA": "To hold stores while waiting for cache availability",
+  "optionB": "To manage branch prediction",
+  "optionC": "To store instruction opcodes",
+  "optionD": "To control I/O operations",
+  "correctAnswer": "To hold stores while waiting for cache availability"
+},
+{
+  "title": "IFT212",
+  "id": 132,
+  "question": "Which of these is a characteristic of a 'victim cache'?",
+  "optionA": "Stores recently evicted cache lines",
+  "optionB": "Increases main memory size",
+  "optionC": "Replaces L1 cache entirely",
+  "optionD": "Only used for instruction caching",
+  "correctAnswer": "Stores recently evicted cache lines"
+},
+{
+  "title": "IFT212",
+  "id": 133,
+  "question": "What is the purpose of 'cache partitioning' in real-time systems?",
+  "optionA": "To guarantee cache resources for critical tasks",
+  "optionB": "To increase cache associativity",
+  "optionC": "To eliminate TLB misses",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To guarantee cache resources for critical tasks"
+},
+{
+  "title": "IFT212",
+  "id": 134,
+  "question": "Which of these is a key feature of '3D-stacked memory' architectures?",
+  "optionA": "Vertical integration of memory and logic layers",
+  "optionB": "Lower memory density",
+  "optionC": "Higher latency compared to traditional memory",
+  "optionD": "No need for memory controllers",
+  "correctAnswer": "Vertical integration of memory and logic layers"
+},
+{
+  "title": "IFT212",
+  "id": 135,
+  "question": "What is the primary advantage of 'near-memory processing'?",
+  "optionA": "Reduces data movement energy by processing closer to memory",
+  "optionB": "Increases CPU clock frequency",
+  "optionC": "Eliminates the need for caches",
+  "optionD": "Simplifies instruction decoding",
+  "correctAnswer": "Reduces data movement energy by processing closer to memory"
+},
+{
+  "title": "IFT212",
+  "id": 136,
+  "question": "Which of these is a characteristic of 'persistent memory' technologies?",
+  "optionA": "Volatile storage",
+  "optionB": "Combines attributes of memory and storage",
+  "optionC": "Slower than traditional DRAM",
+  "optionD": "Only used for cache memory",
+  "correctAnswer": "Combines attributes of memory and storage"
+},
+{
+  "title": "IFT212",
+  "id": 137,
+  "question": "What is the purpose of 'cache coherence directories' in large multicore systems?",
+  "optionA": "To track which cores have copies of cache lines",
+  "optionB": "To increase cache size",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To eliminate the need for TLBs",
+  "correctAnswer": "To track which cores have copies of cache lines"
+},
+{
+  "title": "IFT212",
+  "id": 138,
+  "question": "Which of these is a key challenge in designing processors for dark silicon?",
+  "optionA": "Managing power constraints that limit simultaneous active cores",
+  "optionB": "Increasing single-thread performance indefinitely",
+  "optionC": "Eliminating the need for caches",
+  "optionD": "Using only simple RISC instructions",
+  "correctAnswer": "Managing power constraints that limit simultaneous active cores"
+},
+{
+  "title": "IFT212",
+  "id": 139,
+  "question": "What is the primary advantage of 'approximate computing' techniques?",
+  "optionA": "Improved energy efficiency by trading off exact computation",
+  "optionB": "Higher precision in all calculations",
+  "optionC": "Elimination of pipeline hazards",
+  "optionD": "No need for branch prediction",
+  "correctAnswer": "Improved energy efficiency by trading off exact computation"
+},
+{
+  "title": "IFT212",
+  "id": 140,
+  "question": "Which of these is a characteristic of 'in-memory computing' architectures?",
+  "optionA": "Processes data where it is stored in memory",
+  "optionB": "Increases data movement between CPU and memory",
+  "optionC": "Only works for scalar operations",
+  "optionD": "Eliminates the need for caches",
+  "correctAnswer": "Processes data where it is stored in memory"
+},
+{
+  "title": "IFT212",
+  "id": 141,
+  "question": "What is the purpose of 'cache oblivious algorithms'?",
+  "optionA": "To achieve good cache performance without architecture-specific tuning",
+  "optionB": "To eliminate the need for caches",
+  "optionC": "To increase memory bandwidth",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To achieve good cache performance without architecture-specific tuning"
+},
+{
+  "title": "IFT212",
+  "id": 142,
+  "question": "Which of these is a key feature of 'optical interconnects' in computer systems?",
+  "optionA": "Higher bandwidth and lower energy per bit compared to electrical",
+  "optionB": "Lower cost than copper wires",
+  "optionC": "Simpler manufacturing process",
+  "optionD": "No need for error correction",
+  "correctAnswer": "Higher bandwidth and lower energy per bit compared to electrical"
+},
+{
+  "title": "IFT212",
+  "id": 143,
+  "question": "What is the primary advantage of 'transactional memory' systems?",
+  "optionA": "Simplifies parallel programming by grouping memory operations",
+  "optionB": "Increases single-thread performance",
+  "optionC": "Eliminates the need for caches",
+  "optionD": "Reduces instruction set complexity",
+  "correctAnswer": "Simplifies parallel programming by grouping memory operations"
+},
+{
+  "title": "IFT212",
+  "id": 144,
+  "question": "Which of these is a characteristic of 'neuromorphic computing' architectures?",
+  "optionA": "Mimics the structure and function of biological neural networks",
+  "optionB": "Uses traditional von Neumann architecture",
+  "optionC": "Only supports scalar operations",
+  "optionD": "No need for memory hierarchy",
+  "correctAnswer": "Mimics the structure and function of biological neural networks"
+},
+{
+  "title": "IFT212",
+  "id": 145,
+  "question": "What is the purpose of 'cache coloring' techniques?",
+  "optionA": "To reduce cache conflicts by partitioning index space",
+  "optionB": "To increase cache associativity",
+  "optionC": "To eliminate TLB misses",
+  "optionD": "To simplify branch prediction",
+  "correctAnswer": "To reduce cache conflicts by partitioning index space"
+},
+{
+  "title": "IFT212",
+  "id": 146,
+  "question": "Which of these is a key challenge in quantum computing architectures?",
+  "optionA": "Maintaining qubit coherence for sufficient durations",
+  "optionB": "High power consumption of qubits",
+  "optionC": "Simple error correction mechanisms",
+  "optionD": "No need for cooling systems",
+  "correctAnswer": "Maintaining qubit coherence for sufficient durations"
+},
+{
+  "title": "IFT212",
+  "id": 147,
+  "question": "What is the primary advantage of 'heterogeneous computing' systems?",
+  "optionA": "Matching different workloads to specialized processors",
+  "optionB": "Uniform performance across all tasks",
+  "optionC": "Simpler programming model",
+  "optionD": "No need for cache coherence",
+  "correctAnswer": "Matching different workloads to specialized processors"
+},
+{
+  "title": "IFT212",
+  "id": 148,
+  "question": "Which of these is a characteristic of 'processing-in-memory' architectures?",
+  "optionA": "Integrates computation capability within memory arrays",
+  "optionB": "Increases data movement between CPU and memory",
+  "optionC": "Only supports scalar operations",
+  "optionD": "Eliminates the need for caches",
+  "correctAnswer": "Integrates computation capability within memory arrays"
+},
+{
+  "title": "IFT212",
+  "id": 149,
+  "question": "What is the purpose of 'memory bandwidth compression' techniques?",
+  "optionA": "To reduce the amount of data transferred over memory channels",
+  "optionB": "To increase cache size",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To eliminate the need for virtual memory",
+  "correctAnswer": "To reduce the amount of data transferred over memory channels"
+},
+{
+  "title": "IFT212",
+  "id": 150,
+  "question": "Which of these is a key feature of 'chiplet-based' processor designs?",
+  "optionA": "Modular integration of specialized dies in one package",
+  "optionB": "Lower transistor density than monolithic designs",
+  "optionC": "No need for high-speed interconnects",
+  "optionD": "Simpler manufacturing than traditional chips",
+  "correctAnswer": "Modular integration of specialized dies in one package"
+},
+{
+  "title": "IFT212",
+  "id": 151,
+  "question": "What is the primary advantage of 'stochastic computing'?",
+  "optionA": "Tolerates errors through probabilistic representations",
+  "optionB": "Higher precision than traditional computing",
+  "optionC": "Simpler pipeline design",
+  "optionD": "No need for branch prediction",
+  "correctAnswer": "Tolerates errors through probabilistic representations"
+},
+{
+  "title": "IFT212",
+  "id": 152,
+  "question": "Which of these is a characteristic of 'reconfigurable computing' architectures?",
+  "optionA": "Hardware that can be adapted to specific applications",
+  "optionB": "Fixed-function units only",
+  "optionC": "No support for parallelism",
+  "optionD": "Slower than traditional processors",
+  "correctAnswer": "Hardware that can be adapted to specific applications"
+},
+{
+  "title": "IFT212",
+  "id": 153,
+  "question": "What is the purpose of 'value prediction' in processor design?",
+  "optionA": "To speculate on operand values to break data dependencies",
+  "optionB": "To increase cache size",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To eliminate the need for virtual memory",
+  "correctAnswer": "To speculate on operand values to break data dependencies"
+},
+{
+  "title": "IFT212",
+  "id": 154,
+  "question": "Which of these is a key challenge in designing processors for extreme scaling?",
+  "optionA": "Managing power density and heat dissipation",
+  "optionB": "Increasing single-thread performance indefinitely",
+  "optionC": "Eliminating the need for caches",
+  "optionD": "Using only simple RISC instructions",
+  "correctAnswer": "Managing power density and heat dissipation"
+},
+{
+  "title": "IFT212",
+  "id": 155,
+  "question": "What is the primary advantage of 'asynchronous processors'?",
+  "optionA": "Eliminates global clock distribution challenges",
+  "optionB": "Higher clock frequencies than synchronous designs",
+  "optionC": "Simpler verification process",
+  "optionD": "No need for pipeline stalls",
+  "correctAnswer": "Eliminates global clock distribution challenges"
+},
+{
+  "title": "IFT212",
+  "id": 156,
+  "question": "Which of these is a characteristic of 'dataflow architectures'?",
+  "optionA": "Execution triggered by data availability",
+  "optionB": "Strict von Neumann execution model",
+  "optionC": "No support for parallelism",
+  "optionD": "Fixed instruction scheduling",
+  "correctAnswer": "Execution triggered by data availability"
+},
+{
+  "title": "IFT212",
+  "id": 157,
+  "question": "What is the purpose of 'memory dependence prediction'?",
+  "optionA": "To speculate on dependencies between memory operations",
+  "optionB": "To increase cache size",
+  "optionC": "To simplify branch prediction",
+  "optionD": "To eliminate the need for virtual memory",
+  "correctAnswer": "To speculate on dependencies between memory operations"
+},
+{
+  "title": "IFT212",
+  "id": 158,
+  "question": "Which of these is a key feature of 'energy-proportional computing' designs?",
+  "optionA": "Power consumption scales with utilization",
+  "optionB": "Constant power regardless of workload",
+  "optionC": "No dynamic voltage/frequency scaling",
+  "optionD": "Only applicable to high-performance systems",
+  "correctAnswer": "Power consumption scales with utilization"
+},
+{
+  "title": "IFT212",
+  "id": 159,
+  "question": "What is the primary advantage of 'resistive computing' architectures?",
+  "optionA": "Potential for in-memory computation using memristors",
+  "optionB": "Higher clock frequencies than CMOS",
+  "optionC": "Simpler manufacturing process",
+  "optionD": "No need for memory hierarchy",
+  "correctAnswer": "Potential for in-memory computation using memristors"
+},
+{
+  "title": "IFT212",
+  "id": 160,
+  "question": "Which of these is a characteristic of 'federated learning' architectures?",
+  "optionA": "Distributed machine learning with local data processing",
+  "optionB": "Centralized data processing only",
+  "optionC": "No need for network connectivity",
+  "optionD": "Only applicable to high-performance computing",
+  "correctAnswer": "Distributed machine learning with local data processing"
+}
+
+]

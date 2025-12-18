@@ -1,0 +1,1032 @@
+[
+  {
+    "title": "Physics",
+    "id": 1,
+    "question": "A projectile is launched at an angle θ to the horizontal. Which of the following remains constant throughout its flight?",
+    "optionA": "Vertical velocity",
+    "optionB": "Horizontal velocity",
+    "optionC": "Acceleration",
+    "optionD": "Momentum",
+    "correctAnswer": "Horizontal velocity"
+  },
+  {
+    "title": "Physics",
+    "id": 2,
+    "question": "The principle of conservation of momentum is a direct consequence of Newton's",
+    "optionA": "First law of motion",
+    "optionB": "Second law of motion",
+    "optionC": "Third law of motion",
+    "optionD": "Law of universal gravitation",
+    "correctAnswer": "Third law of motion"
+  },
+  {
+    "title": "Physics",
+    "id": 3,
+    "question": "For a body undergoing simple harmonic motion, the acceleration is",
+    "optionA": "constant and directed towards the mean position",
+    "optionB": "proportional to the displacement and directed away from the mean position",
+    "optionC": "proportional to the displacement and directed towards the mean position",
+    "optionD": "zero at the mean position",
+    "correctAnswer": "proportional to the displacement and directed towards the mean position"
+  },
+  {
+    "title": "Physics",
+    "id": 4,
+    "question": "The work done by a conservative force on a particle moving between two points is",
+    "optionA": "dependent on the path taken",
+    "optionB": "always zero",
+    "optionC": "independent of the path taken",
+    "optionD": "dependent on the time taken",
+    "correctAnswer": "independent of the path taken"
+  },
+  {
+    "title": "Physics",
+    "id": 5,
+    "question": "A satellite is in a circular orbit around the Earth. If its kinetic energy is K and potential energy is U, the relationship between them is",
+    "optionA": "K = U",
+    "optionB": "K = -U",
+    "optionC": "K = -2U",
+    "optionD": "K = 2U",
+    "correctAnswer": "K = -U/2"
+  },
+  {
+    "title": "Physics",
+    "id": 6,
+    "question": "The moment of inertia of a rigid body depends on",
+    "optionA": "the angular velocity of the body",
+    "optionB": "the torque acting on the body",
+    "optionC": "the mass distribution about the axis of rotation",
+    "optionD": "the linear acceleration of the body",
+    "correctAnswer": "the mass distribution about the axis of rotation"
+  },
+  {
+    "title": "Physics",
+    "id": 7,
+    "question": "In an inelastic collision between two bodies, which of the following is always conserved?",
+    "optionA": "Kinetic energy",
+    "optionB": "Linear momentum",
+    "optionC": "Both kinetic energy and linear momentum",
+    "optionD": "Neither kinetic energy nor linear momentum",
+    "correctAnswer": "Linear momentum"
+  },
+  {
+    "title": "Physics",
+    "id": 8,
+    "question": "The coefficient of performance of a refrigerator is defined as the ratio of",
+    "optionA": "heat extracted from the cold reservoir to work done on the refrigerant",
+    "optionB": "work done on the refrigerant to heat extracted from the cold reservoir",
+    "optionC": "heat delivered to the hot reservoir to work done on the refrigerant",
+    "optionD": "work done on the refrigerant to heat delivered to the hot reservoir",
+    "correctAnswer": "heat extracted from the cold reservoir to work done on the refrigerant"
+  },
+  {
+    "title": "Physics",
+    "id": 9,
+    "question": "According to the kinetic theory of gases, the pressure exerted by an ideal gas is due to",
+    "optionA": "collisions of molecules with each other",
+    "optionB": "collisions of molecules with the walls of the container",
+    "optionC": "the intermolecular forces between molecules",
+    "optionD": "the gravitational attraction between molecules",
+    "correctAnswer": "collisions of molecules with the walls of the container"
+  },
+  {
+    "title": "Physics",
+    "id": 10,
+    "question": "The first law of thermodynamics is essentially a statement of the conservation of",
+    "optionA": "energy",
+    "optionB": "momentum",
+    "optionC": "mass",
+    "optionD": "charge",
+    "correctAnswer": "energy"
+  },
+  {
+    "title": "Physics",
+    "id": 11,
+    "question": "For an adiabatic process in an ideal gas, the relationship between pressure P and volume V is given by (where γ = Cp/Cv)",
+    "optionA": "PV = constant",
+    "optionB": "PV^γ = constant",
+    "optionC": "PV^(1/γ) = constant",
+    "optionD": "P/V = constant",
+    "correctAnswer": "PV^γ = constant"
+  },
+  {
+    "title": "Physics",
+    "id": 12,
+    "question": "The electric field intensity at a point due to an infinite plane sheet of charge with uniform surface charge density σ is",
+    "optionA": "zero",
+    "optionB": "σ/ε₀",
+    "optionC": "σ/(2ε₀)",
+    "optionD": "dependent on the distance from the sheet",
+    "correctAnswer": "σ/(2ε₀)"
+  },
+  {
+    "title": "Physics",
+    "id": 13,
+    "question": "The equivalent capacitance for two capacitors of capacitance C connected in series is",
+    "optionA": "2C",
+    "optionB": "C/2",
+    "optionC": "C²",
+    "optionD": "0",
+    "correctAnswer": "C/2"
+  },
+  {
+    "title": "Physics",
+    "id": 14,
+    "question": "The resistance of a conductor increases with temperature because",
+    "optionA": "the number of free electrons decreases",
+    "optionB": "the relaxation time of electrons decreases",
+    "optionC": "the length of the conductor increases",
+    "optionD": "the cross-sectional area decreases",
+    "correctAnswer": "the relaxation time of electrons decreases"
+  },
+  {
+    "title": "Physics",
+    "id": 15,
+    "question": "In a purely inductive AC circuit, the voltage",
+    "optionA": "lags behind the current by π/2",
+    "optionB": "leads the current by π/2",
+    "optionC": "is in phase with the current",
+    "optionD": "lags behind the current by π",
+    "correctAnswer": "leads the current by π/2"
+  },
+  {
+    "title": "Physics",
+    "id": 16,
+    "question": "The magnetic field inside a long solenoid carrying current is",
+    "optionA": "zero",
+    "optionB": "uniform and parallel to the axis",
+    "optionC": "uniform and perpendicular to the axis",
+    "optionD": "non-uniform",
+    "correctAnswer": "uniform and parallel to the axis"
+  },
+  {
+    "title": "Physics",
+    "id": 17,
+    "question": "The force between two parallel current-carrying conductors is proportional to",
+    "optionA": "the product of the currents and inversely proportional to the distance between them",
+    "optionB": "the sum of the currents and inversely proportional to the distance between them",
+    "optionC": "the product of the currents and proportional to the distance between them",
+    "optionD": "the sum of the currents and proportional to the distance between them",
+    "correctAnswer": "the product of the currents and inversely proportional to the distance between them"
+  },
+  {
+    "title": "Physics",
+    "id": 18,
+    "question": "The phenomenon of electromagnetic induction is defined as",
+    "optionA": "charging of a body by induction",
+    "optionB": "production of induced e.m.f. in a coil due to change in magnetic flux",
+    "optionC": "motion of a conductor in a magnetic field",
+    "optionD": "force between two current-carrying conductors",
+    "correctAnswer": "production of induced e.m.f. in a coil due to change in magnetic flux"
+  },
+  {
+    "title": "Physics",
+    "id": 19,
+    "question": "The core of a transformer is laminated to reduce",
+    "optionA": "hysteresis loss",
+    "optionB": "eddy current loss",
+    "optionC": "copper loss",
+    "optionD": "flux leakage",
+    "correctAnswer": "eddy current loss"
+  },
+  {
+    "title": "Physics",
+    "id": 20,
+    "question": "The impedance of a series LCR circuit at resonance is",
+    "optionA": "zero",
+    "optionB": "maximum",
+    "optionC": "minimum and purely resistive",
+    "optionD": "infinity",
+    "correctAnswer": "minimum and purely resistive"
+  },
+  {
+    "title": "Physics",
+    "id": 21,
+    "question": "In a Young's double-slit experiment, if the distance between the slits is doubled, the fringe width becomes",
+    "optionA": "halved",
+    "optionB": "doubled",
+    "optionC": "quadrupled",
+    "optionD": "unchanged",
+    "correctAnswer": "halved"
+  },
+  {
+    "title": "Physics",
+    "id": 22,
+    "question": "Polarization of light demonstrates that light waves are",
+    "optionA": "longitudinal",
+    "optionB": "transverse",
+    "optionC": "electromagnetic",
+    "optionD": "mechanical",
+    "correctAnswer": "transverse"
+  },
+  {
+    "title": "Physics",
+    "id": 23,
+    "question": "The critical angle for a medium is defined as the angle of incidence in the denser medium for which the angle of refraction is",
+    "optionA": "0°",
+    "optionB": "45°",
+    "optionC": "90°",
+    "optionD": "180°",
+    "correctAnswer": "90°"
+  },
+  {
+    "title": "Physics",
+    "id": 24,
+    "question": "In a diffraction pattern due to a single slit, the width of the central maximum is",
+    "optionA": "inversely proportional to the slit width",
+    "optionB": "directly proportional to the slit width",
+    "optionC": "independent of the slit width",
+    "optionD": "proportional to the square of the slit width",
+    "correctAnswer": "inversely proportional to the slit width"
+  },
+  {
+    "title": "Physics",
+    "id": 25,
+    "question": "The de Broglie wavelength of a particle is inversely proportional to its",
+    "optionA": "mass",
+    "optionB": "velocity",
+    "optionC": "momentum",
+    "optionD": "energy",
+    "correctAnswer": "momentum"
+  },
+  {
+    "title": "Physics",
+    "id": 26,
+    "question": "In a photoelectric effect experiment, the stopping potential depends on",
+    "optionA": "the intensity of the incident light",
+    "optionB": "the frequency of the incident light",
+    "optionC": "the area of the cathode",
+    "optionD": "the duration of illumination",
+    "correctAnswer": "the frequency of the incident light"
+  },
+  {
+    "title": "Physics",
+    "id": 27,
+    "question": "The half-life of a radioactive element is 10 days. The fraction of the material that remains undecayed after 30 days is",
+    "optionA": "1/2",
+    "optionB": "1/4",
+    "optionC": "1/8",
+    "optionD": "1/16",
+    "correctAnswer": "1/8"
+  },
+  {
+    "title": "Physics",
+    "id": 28,
+    "question": "In a nuclear fission reaction, the total mass of the products is less than the total mass of the reactants. This mass defect is converted into",
+    "optionA": "chemical energy",
+    "optionB": "electrical energy",
+    "optionC": "binding energy",
+    "optionD": "kinetic energy of the products",
+    "correctAnswer": "kinetic energy of the products"
+  },
+  {
+    "title": "Physics",
+    "id": 29,
+    "question": "A body is rotating about a fixed axis with a constant angular acceleration. Which of the following quantities is constant?",
+    "optionA": "Angular velocity",
+    "optionB": "Centripetal acceleration",
+    "optionC": "Angular acceleration",
+    "optionD": "Tangential acceleration",
+    "correctAnswer": "Angular acceleration"
+  },
+  {
+    "title": "Physics",
+    "id": 30,
+    "question": "The escape velocity from the surface of a planet is independent of",
+    "optionA": "the mass of the planet",
+    "optionB": "the radius of the planet",
+    "optionC": "the mass of the body escaping",
+    "optionD": "the gravitational constant",
+    "correctAnswer": "the mass of the body escaping"
+  },
+  {
+    "title": "Physics",
+    "id": 31,
+    "question": "A block of mass m is placed on a smooth inclined plane of inclination θ. The acceleration of the block down the plane is",
+    "optionA": "g",
+    "optionB": "g sinθ",
+    "optionC": "g cosθ",
+    "optionD": "g tanθ",
+    "correctAnswer": "g sinθ"
+  },
+  {
+    "title": "Physics",
+    "id": 32,
+    "question": "The efficiency of a Carnot engine operating between temperatures T1 and T2 (T1 > T2) is given by",
+    "optionA": "1 - (T2/T1)",
+    "optionB": "1 - (T1/T2)",
+    "optionC": "(T1 - T2)/T1",
+    "optionD": "(T1 - T2)/T2",
+    "correctAnswer": "1 - (T2/T1)"
+  },
+  {
+    "title": "Physics",
+    "id": 33,
+    "question": "Gauss's law in electrostatics is particularly useful for calculating the electric field due to charge distributions that have",
+    "optionA": "high symmetry",
+    "optionB": "low symmetry",
+    "optionC": "no symmetry",
+    "optionD": "random distribution",
+    "correctAnswer": "high symmetry"
+  },
+  {
+    "title": "Physics",
+    "id": 34,
+    "question": "The resistivity of a semiconductor __________ with increase in temperature.",
+    "optionA": "increases",
+    "optionB": "decreases",
+    "optionC": "remains constant",
+    "optionD": "first increases then decreases",
+    "correctAnswer": "decreases"
+  },
+  {
+    "title": "Physics",
+    "id": 35,
+    "question": "The self-inductance of a solenoid depends on all of the following EXCEPT",
+    "optionA": "number of turns per unit length",
+    "optionB": "area of cross-section",
+    "optionC": "length of the solenoid",
+    "optionD": "current flowing through it",
+    "correctAnswer": "current flowing through it"
+  },
+  {
+    "title": "Physics",
+    "id": 36,
+    "question": "The resolving power of a telescope increases with",
+    "optionA": "decrease in wavelength of light used",
+    "optionB": "increase in wavelength of light used",
+    "optionC": "decrease in diameter of the objective lens",
+    "optionD": "increase in focal length of the eyepiece",
+    "correctAnswer": "decrease in wavelength of light used"
+  },
+  {
+    "title": "Physics",
+    "id": 37,
+    "question": "According to Bohr's model of the hydrogen atom, the radius of the nth orbit is proportional to",
+    "optionA": "n",
+    "optionB": "n²",
+    "optionC": "1/n",
+    "optionD": "1/n²",
+    "correctAnswer": "n²"
+  },
+  {
+    "title": "Physics",
+    "id": 38,
+    "question": "A particle is moving with a constant speed along a circular path. Which of the following statements is true?",
+    "optionA": "Its velocity is constant.",
+    "optionB": "Its acceleration is zero.",
+    "optionC": "Its acceleration is constant.",
+    "optionD": "Its acceleration is directed towards the center.",
+    "correctAnswer": "Its acceleration is directed towards the center."
+  },
+  {
+    "title": "Physics",
+    "id": 39,
+    "question": "The strain energy stored in a wire of Young's modulus Y, stretched by a length x, is proportional to",
+    "optionA": "x",
+    "optionB": "x²",
+    "optionC": "√x",
+    "optionD": "1/x",
+    "correctAnswer": "x²"
+  },
+  {
+    "title": "Physics",
+    "id": 40,
+    "question": "The surface tension of a liquid arises due to",
+    "optionA": "adhesive forces between molecules",
+    "optionB": "cohesive forces between molecules",
+    "optionC": "gravitational forces",
+    "optionD": "electromagnetic forces from outside",
+    "correctAnswer": "cohesive forces between molecules"
+  },
+  {
+    "title": "Physics",
+    "id": 41,
+    "question": "The root mean square speed of molecules of an ideal gas is proportional to",
+    "optionA": "T",
+    "optionB": "√T",
+    "optionC": "T²",
+    "optionD": "1/√T",
+    "correctAnswer": "√T"
+  },
+  {
+    "title": "Physics",
+    "id": 42,
+    "question": "The potential difference across the terminals of a cell is equal to its emf when",
+    "optionA": "the cell is being charged",
+    "optionB": "the internal resistance is zero",
+    "optionC": "a large current is drawn from the cell",
+    "optionD": "the cell is on open circuit",
+    "correctAnswer": "the cell is on open circuit"
+  },
+  {
+    "title": "Physics",
+    "id": 43,
+    "question": "The magnetic flux Φ through a loop is given by Φ = 6t² + 7t + 1, where Φ is in webers and t is in seconds. The magnitude of the induced emf at t = 2s is",
+    "optionA": "12 V",
+    "optionB": "24 V",
+    "optionC": "31 V",
+    "optionD": "38 V",
+    "correctAnswer": "31 V"
+  },
+  {
+    "title": "Physics",
+    "id": 44,
+    "question": "In an AC circuit, the power factor is equal to one if the circuit contains",
+    "optionA": "only resistance",
+    "optionB": "only inductance",
+    "optionC": "only capacitance",
+    "optionD": "resistance and inductance in series",
+    "correctAnswer": "only resistance"
+  },
+  {
+    "title": "Physics",
+    "id": 45,
+    "question": "Huygens' principle is used primarily to explain",
+    "optionA": "particle nature of light",
+    "optionB": "wave nature of light",
+    "optionC": "photoelectric effect",
+    "optionD": "blackbody radiation",
+    "correctAnswer": "wave nature of light"
+  },
+  {
+    "title": "Physics",
+    "id": 46,
+    "question": "The energy of a photon of wavelength λ is given by",
+    "optionA": "hc/λ",
+    "optionB": "hλ/c",
+    "optionC": "c/(hλ)",
+    "optionD": "hλc",
+    "correctAnswer": "hc/λ"
+  },
+  {
+    "title": "Physics",
+    "id": 47,
+    "question": "In a common base amplifier configuration, the current gain (α) is",
+    "optionA": "less than 1",
+    "optionB": "greater than 1",
+    "optionC": "equal to 1",
+    "optionD": "very high",
+    "correctAnswer": "less than 1"
+  },
+  {
+    "title": "Physics",
+    "id": 48,
+    "question": "A p-type semiconductor is formed by doping an intrinsic semiconductor with",
+    "optionA": "pentavalent atoms",
+    "optionB": "trivalent atoms",
+    "optionC": "divalent atoms",
+    "optionD": "monovalent atoms",
+    "correctAnswer": "trivalent atoms"
+  },
+  {
+    "title": "Physics",
+    "id": 49,
+    "question": "The principle of a moving coil galvanometer is based on",
+    "optionA": "the heating effect of current",
+    "optionB": "the chemical effect of current",
+    "optionC": "the magnetic effect of current",
+    "optionD": "the electrostatic effect",
+    "correctAnswer": "the magnetic effect of current"
+  },
+  {
+    "title": "Physics",
+    "id": 50,
+    "question": "The dimensional formula for Planck's constant is",
+    "optionA": "[ML²T⁻¹]",
+    "optionB": "[ML²T⁻²]",
+    "optionC": "[MLT⁻¹]",
+    "optionD": "[ML²T²]",
+    "correctAnswer": "[ML²T⁻¹]"
+  },
+  {
+    "title": "Physics",
+    "id": 51,
+    "question": "A body of mass 2 kg is thrown vertically upwards with an initial velocity of 20 m/s. What will be its potential energy at the highest point? (g = 10 m/s²)",
+    "optionA": "200 J",
+    "optionB": "400 J",
+    "optionC": "100 J",
+    "optionD": "800 J",
+    "correctAnswer": "400 J"
+  },
+  {
+    "title": "Physics",
+    "id": 52,
+    "question": "The ratio of the specific heat capacity at constant pressure to that at constant volume for a diatomic gas is approximately",
+    "optionA": "1.66",
+    "optionB": "1.40",
+    "optionC": "1.33",
+    "optionD": "1.00",
+    "correctAnswer": "1.40"
+  },
+  {
+    "title": "Physics",
+    "id": 53,
+    "question": "Two charges +4q and -q are placed at a distance d apart. The location of the point on the line joining the two charges where the electric potential is zero is",
+    "optionA": "d/3 from +4q",
+    "optionB": "d/3 from -q",
+    "optionC": "d/2 from +4q",
+    "optionD": "d/5 from +4q",
+    "correctAnswer": "d/3 from +4q"
+  },
+  {
+    "title": "Physics",
+    "id": 54,
+    "question": "A wire of resistance R is stretched to double its length. Its new resistance becomes",
+    "optionA": "R/2",
+    "optionB": "R",
+    "optionC": "2R",
+    "optionD": "4R",
+    "correctAnswer": "4R"
+  },
+  {
+    "title": "Physics",
+    "id": 55,
+    "question": "The magnetic field at the center of a circular coil of n turns, radius r, and carrying current I is proportional to",
+    "optionA": "nI/r",
+    "optionB": "nI/r²",
+    "optionC": "nI r",
+    "optionD": "nI r²",
+    "correctAnswer": "nI/r"
+  },
+  {
+    "title": "Physics",
+    "id": 56,
+    "question": "In a step-up transformer, the secondary voltage is greater than the primary voltage because",
+    "optionA": "the secondary current is higher",
+    "optionB": "the secondary has more turns",
+    "optionC": "the primary current is higher",
+    "optionD": "the core is laminated",
+    "correctAnswer": "the secondary has more turns"
+  },
+  {
+    "title": "Physics",
+    "id": 57,
+    "question": "A ray of light passes from glass (refractive index 1.5) to water (refractive index 1.33). The critical angle for this interface is",
+    "optionA": "sin⁻¹(1.33/1.5)",
+    "optionB": "sin⁻¹(1.5/1.33)",
+    "optionC": "sin⁻¹(1.0)",
+    "optionD": "90°",
+    "correctAnswer": "sin⁻¹(1.33/1.5)"
+  },
+  {
+    "title": "Physics",
+    "id": 58,
+    "question": "The energy equivalent of 1 atomic mass unit (u) is approximately",
+    "optionA": "931 MeV",
+    "optionB": "511 keV",
+    "optionC": "13.6 eV",
+    "optionD": "1.02 MeV",
+    "correctAnswer": "931 MeV"
+  },
+  {
+    "title": "Physics",
+    "id": 59,
+    "question": "The uncertainty principle is associated with",
+    "optionA": "Heisenberg",
+    "optionB": "Bohr",
+    "optionC": "de Broglie",
+    "optionD": "Planck",
+    "correctAnswer": "Heisenberg"
+  },
+  {
+    "title": "Physics",
+    "id": 60,
+    "question": "A body is rotating with angular velocity ω. If its moment of inertia is increased by a factor of 4 without applying any external torque, its new angular velocity becomes",
+    "optionA": "ω/4",
+    "optionB": "4ω",
+    "optionC": "ω/2",
+    "optionD": "2ω",
+    "correctAnswer": "ω/4"
+  },
+  {
+    "title": "Physics",
+    "id": 61,
+    "question": "The velocity of sound in a gas is maximum in",
+    "optionA": "hydrogen",
+    "optionB": "oxygen",
+    "optionC": "nitrogen",
+    "optionD": "carbon dioxide",
+    "correctAnswer": "hydrogen"
+  },
+  {
+    "title": "Physics",
+    "id": 62,
+    "question": "A convex lens forms a real image of an object. If the lower half of the lens is covered with black paper,",
+    "optionA": "the image disappears",
+    "optionB": "the intensity of the image decreases",
+    "optionC": "the image becomes virtual",
+    "optionD": "only half of the image is formed",
+    "correctAnswer": "the intensity of the image decreases"
+  },
+  {
+    "title": "Physics",
+    "id": 63,
+    "question": "The logic gate that gives a high output only when all its inputs are high is the",
+    "optionA": "OR gate",
+    "optionB": "AND gate",
+    "optionC": "NOT gate",
+    "optionD": "NAND gate",
+    "correctAnswer": "AND gate"
+  },
+  {
+    "title": "Physics",
+    "id": 64,
+    "question": "The SI unit of magnetic flux is the",
+    "optionA": "Tesla",
+    "optionB": "Weber",
+    "optionC": "Henry",
+    "optionD": "Gauss",
+    "correctAnswer": "Weber"
+  },
+  {
+    "title": "Physics",
+    "id": 65,
+    "question": "A body is falling freely under gravity. The work done by gravity on the body is",
+    "optionA": "zero",
+    "optionB": "positive",
+    "optionC": "negative",
+    "optionD": "first positive then negative",
+    "correctAnswer": "positive"
+  },
+  {
+    "title": "Physics",
+    "id": 66,
+    "question": "The phenomenon of mirage is due to",
+    "optionA": "reflection of light",
+    "optionB": "refraction of light",
+    "optionC": "total internal reflection of light",
+    "optionD": "dispersion of light",
+    "correctAnswer": "total internal reflection of light"
+  },
+  {
+    "title": "Physics",
+    "id": 67,
+    "question": "The binding energy per nucleon is maximum for nuclei with mass numbers around",
+    "optionA": "4",
+    "optionB": "56",
+    "optionC": "100",
+    "optionD": "200",
+    "correctAnswer": "56"
+  },
+  {
+    "title": "Physics",
+    "id": 68,
+    "question": "A capacitor blocks direct current because",
+    "optionA": "its resistance is infinite for DC",
+    "optionB": "it offers infinite impedance to DC",
+    "optionC": "it offers zero impedance to DC",
+    "optionD": "it has a very low capacitance",
+    "correctAnswer": "it offers infinite impedance to DC"
+  },
+  {
+    "title": "Physics",
+    "id": 69,
+    "question": "The temperature at which the RMS velocity of oxygen molecules is equal to that of hydrogen molecules at 27°C is",
+    "optionA": "27°C",
+    "optionB": "54°C",
+    "optionC": "327°C",
+    "optionD": "600°C",
+    "correctAnswer": "327°C"
+  },
+  {
+    "title": "Physics",
+    "id": 70,
+    "question": "The force experienced by a current-carrying conductor placed in a magnetic field is maximum when the angle between the conductor and the magnetic field is",
+    "optionA": "0°",
+    "optionB": "45°",
+    "optionC": "90°",
+    "optionD": "180°",
+    "correctAnswer": "90°"
+  },
+  {
+    "title": "Physics",
+    "id": 71,
+    "question": "A person standing between two parallel cliffs fires a gun. He hears the first echo after 1.5 s and the second echo after 2.5 s. The distance between the cliffs is (speed of sound = 340 m/s)",
+    "optionA": "170 m",
+    "optionB": "340 m",
+    "optionC": "510 m",
+    "optionD": "680 m",
+    "correctAnswer": "680 m"
+  },
+  {
+    "title": "Physics",
+    "id": 72,
+    "question": "The color of the sky appears blue due to",
+    "optionA": "reflection of light",
+    "optionB": "refraction of light",
+    "optionC": "scattering of light",
+    "optionD": "dispersion of light",
+    "correctAnswer": "scattering of light"
+  },
+  {
+    "title": "Physics",
+    "id": 73,
+    "question": "In a full-wave rectifier, the number of diodes used is",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "4",
+    "optionD": "6",
+    "correctAnswer": "4"
+  },
+  {
+    "title": "Physics",
+    "id": 74,
+    "question": "The modulus of rigidity is relevant for",
+    "optionA": "longitudinal strain",
+    "optionB": "shearing strain",
+    "optionC": "volume strain",
+    "optionD": "tensile strain",
+    "correctAnswer": "shearing strain"
+  },
+  {
+    "title": "Physics",
+    "id": 75,
+    "question": "A body is executing simple harmonic motion. At the mean position, its",
+    "optionA": "velocity is zero",
+    "optionB": "acceleration is zero",
+    "optionC": "potential energy is maximum",
+    "optionD": "kinetic energy is minimum",
+    "correctAnswer": "acceleration is zero"
+  },
+  {
+    "title": "Physics",
+    "id": 76,
+    "question": "The gain of a non-inverting operational amplifier is given by",
+    "optionA": "1 + (Rf/R1)",
+    "optionB": "- (Rf/R1)",
+    "optionC": "Rf/R1",
+    "optionD": "1 - (Rf/R1)",
+    "correctAnswer": "1 + (Rf/R1)"
+  },
+  {
+    "title": "Physics",
+    "id": 77,
+    "question": "The temperature of a gas is a measure of the",
+    "optionA": "average kinetic energy of its molecules",
+    "optionB": "average potential energy of its molecules",
+    "optionC": "total kinetic energy of its molecules",
+    "optionD": "total energy of its molecules",
+    "correctAnswer": "average kinetic energy of its molecules"
+  },
+  {
+    "title": "Physics",
+    "id": 78,
+    "question": "The force of attraction between two masses is F. If the distance between them is halved, the new force becomes",
+    "optionA": "F/4",
+    "optionB": "F/2",
+    "optionC": "2F",
+    "optionD": "4F",
+    "correctAnswer": "4F"
+  },
+  {
+    "title": "Physics",
+    "id": 79,
+    "question": "A cyclist moving on a circular track of radius 40 m completes half a revolution in 40 s. His average velocity is",
+    "optionA": "zero",
+    "optionB": "2 m/s",
+    "optionC": "π m/s",
+    "optionD": "4 m/s",
+    "correctAnswer": "2 m/s"
+  },
+  {
+    "title": "Physics",
+    "id": 80,
+    "question": "The energy stored in a capacitor is given by",
+    "optionA": "½ CV",
+    "optionB": "½ C²V",
+    "optionC": "½ CV²",
+    "optionD": "C²V²",
+    "correctAnswer": "½ CV²"
+  },
+  {
+    "title": "Physics",
+    "id": 81,
+    "question": "The direction of the induced current in a coil is given by",
+    "optionA": "Ampere's law",
+    "optionB": "Lenz's law",
+    "optionC": "Faraday's law",
+    "optionD": "Coulomb's law",
+    "correctAnswer": "Lenz's law"
+  },
+  {
+    "title": "Physics",
+    "id": 82,
+    "question": "A beam of electrons is deflected by an electric field. This demonstrates the",
+    "optionA": "wave nature of electrons",
+    "optionB": "particle nature of electrons",
+    "optionC": "dual nature of electrons",
+    "optionD": "none of the above",
+    "correctAnswer": "particle nature of electrons"
+  },
+  {
+    "title": "Physics",
+    "id": 83,
+    "question": "The refractive index of a medium is defined as the ratio of",
+    "optionA": "speed of light in vacuum to speed of light in the medium",
+    "optionB": "speed of light in the medium to speed of light in vacuum",
+    "optionC": "wavelength in vacuum to wavelength in the medium",
+    "optionD": "frequency in vacuum to frequency in the medium",
+    "correctAnswer": "speed of light in vacuum to speed of light in the medium"
+  },
+  {
+    "title": "Physics",
+    "id": 84,
+    "question": "The unit of inductance, the Henry, can be written as",
+    "optionA": "V s A⁻¹",
+    "optionB": "V A s⁻¹",
+    "optionC": "V s⁻¹ A",
+    "optionD": "J s A⁻¹",
+    "correctAnswer": "V s A⁻¹"
+  },
+  {
+    "title": "Physics",
+    "id": 85,
+    "question": "A body of mass m is moving in a circular path of radius r with constant speed v. The centripetal force is given by",
+    "optionA": "mv/r",
+    "optionB": "mv²/r",
+    "optionC": "mv/r²",
+    "optionD": "mv²/r²",
+    "correctAnswer": "mv²/r"
+  },
+  {
+    "title": "Physics",
+    "id": 86,
+    "question": "The intensity of sound waves is proportional to the square of the",
+    "optionA": "amplitude",
+    "optionB": "frequency",
+    "optionC": "wavelength",
+    "optionD": "speed",
+    "correctAnswer": "amplitude"
+  },
+  {
+    "title": "Physics",
+    "id": 87,
+    "question": "In a discharge tube, the color of the glow depends on the",
+    "optionA": "pressure of the gas",
+    "optionB": "nature of the gas",
+    "optionC": "voltage applied",
+    "optionD": "material of the electrodes",
+    "correctAnswer": "nature of the gas"
+  },
+  {
+    "title": "Physics",
+    "id": 88,
+    "question": "The magnetic moment of a current loop is defined as the product of",
+    "optionA": "current and area",
+    "optionB": "current and number of turns",
+    "optionC": "number of turns and area",
+    "optionD": "current, number of turns, and area",
+    "correctAnswer": "current, number of turns, and area"
+  },
+  {
+    "title": "Physics",
+    "id": 89,
+    "question": "The resistance of an ideal ammeter is",
+    "optionA": "zero",
+    "optionB": "infinite",
+    "optionC": "very high",
+    "optionD": "equal to the load resistance",
+    "correctAnswer": "zero"
+  },
+  {
+    "title": "Physics",
+    "id": 90,
+    "question": "A ray of light is incident normally on a plane mirror. The angle of reflection is",
+    "optionA": "0°",
+    "optionB": "45°",
+    "optionC": "90°",
+    "optionD": "180°",
+    "correctAnswer": "0°"
+  },
+  {
+    "title": "Physics",
+    "id": 91,
+    "question": "The kinetic energy of a body of mass m moving with velocity v is given by",
+    "optionA": "mv",
+    "optionB": "½ mv",
+    "optionC": "mv²",
+    "optionD": "½ mv²",
+    "correctAnswer": "½ mv²"
+  },
+  {
+    "title": "Physics",
+    "id": 92,
+    "question": "The time period of a simple pendulum is independent of its",
+    "optionA": "length",
+    "optionB": "mass",
+    "optionC": "amplitude (for small angles)",
+    "optionD": "acceleration due to gravity",
+    "correctAnswer": "mass"
+  },
+  {
+    "title": "Physics",
+    "id": 93,
+    "question": "The SI unit of pressure is the",
+    "optionA": "Newton",
+    "optionB": "Joule",
+    "optionC": "Pascal",
+    "optionD": "Watt",
+    "correctAnswer": "Pascal"
+  },
+  {
+    "title": "Physics",
+    "id": 94,
+    "question": "The focal length of a convex lens is",
+    "optionA": "positive",
+    "optionB": "negative",
+    "optionC": "zero",
+    "optionD": "infinite",
+    "correctAnswer": "positive"
+  },
+  {
+    "title": "Physics",
+    "id": 95,
+    "question": "The mass defect in a nucleus is the difference between the mass of the",
+    "optionA": "nucleus and the sum of masses of its nucleons",
+    "optionB": "protons and neutrons",
+    "optionC": "nucleus and the mass number",
+    "optionD": "nucleons and the atomic number",
+    "correctAnswer": "nucleus and the sum of masses of its nucleons"
+  },
+  {
+    "title": "Physics",
+    "id": 96,
+    "question": "The efficiency of a machine is defined as the ratio of",
+    "optionA": "output work to input work",
+    "optionB": "input work to output work",
+    "optionC": "mechanical advantage to velocity ratio",
+    "optionD": "load to effort",
+    "correctAnswer": "output work to input work"
+  },
+  {
+    "title": "Physics",
+    "id": 97,
+    "question": "The phenomenon of interference is most commonly demonstrated with",
+    "optionA": "sound waves",
+    "optionB": "water waves",
+    "optionC": "light waves",
+    "optionD": "all of the above",
+    "correctAnswer": "all of the above"
+  },
+  {
+    "title": "Physics",
+    "id": 98,
+    "question": "The resistance of a superconductor below its critical temperature is",
+    "optionA": "very high",
+    "optionB": "very low but finite",
+    "optionC": "zero",
+    "optionD": "infinite",
+    "correctAnswer": "zero"
+  },
+  {
+    "title": "Physics",
+    "id": 99,
+    "question": "The law of floatation states that a body floats when the weight of the fluid displaced is",
+    "optionA": "less than the weight of the body",
+    "optionB": "equal to the weight of the body",
+    "optionC": "greater than the weight of the body",
+    "optionD": "zero",
+    "correctAnswer": "equal to the weight of the body"
+  },
+  {
+    "title": "Physics",
+    "id": 100,
+    "question": "The splitting of white light into its constituent colors is called",
+    "optionA": "reflection",
+    "optionB": "refraction",
+    "optionC": "dispersion",
+    "optionD": "scattering",
+    "correctAnswer": "dispersion"
+  },
+    {
+    "title": "Physics",
+    "id": 101,
+    "question": "The dielectric material used in a capacitor include the following except",
+    "optionA": "glass",
+    "optionB": "ebonite rode",
+    "optionC": "paraffin wax",
+    "optionD": "brass",
+    "correctAnswer": "brass"
+  },
+  {
+    "title": "Physics",
+    "id": 102,
+    "question": "A spring of length 20cm stretches 25cm with a force of 50N. What will be its length when stretched by 100N assuming that the elastic limit is not reached",
+    "optionA": "30 cm",
+    "optionB": "25cm",
+    "optionC": "30cm",
+    "optionD": "15cm",
+    "correctAnswer": "30 cm"
+  },
+  {
+    "title": "Physics",
+    "id": 103,
+    "question": "A radioactive substance undergoes radiation and its proton number increases by 1, what particle was emitted?",
+    "optionA": "beta particle",
+    "optionB": "alpha particle",
+    "optionC": "gamma rays",
+    "optionD": "",
+    "correctAnswer": "beta particle"
+  }
+]

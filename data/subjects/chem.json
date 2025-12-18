@@ -1,0 +1,1092 @@
+[
+  {
+    "title": "Chemistry",
+    "id": 1,
+    "question": "The mass number of an atom is determined by the",
+    "optionA": "number of protons and neutrons",
+    "optionB": "number of protons and electrons",
+    "optionC": "number of neutrons and electrons",
+    "optionD": "number of protons only",
+    "correctAnswer": "number of protons and neutrons"
+  },
+  {
+    "title": "Chemistry",
+    "id": 2,
+    "question": "The shape of a molecule of water is",
+    "optionA": "linear",
+    "optionB": "tetrahedral",
+    "optionC": "angular",
+    "optionD": "pyramidal",
+    "correctAnswer": "angular"
+  },
+  {
+    "title": "Chemistry",
+    "id": 3,
+    "question": "Which of the following is a property of covalent compounds?",
+    "optionA": "They have high melting and boiling points",
+    "optionB": "They conduct electricity in molten state",
+    "optionC": "They are soluble in organic solvents",
+    "optionD": "They are formed by transfer of electrons",
+    "correctAnswer": "They are soluble in organic solvents"
+  },
+  {
+    "title": "Chemistry",
+    "id": 4,
+    "question": "The process of changing a solid directly to vapour without passing through the liquid state is called",
+    "optionA": "evaporation",
+    "optionB": "sublimation",
+    "optionC": "distillation",
+    "optionD": "crystallization",
+    "correctAnswer": "sublimation"
+  },
+  {
+    "title": "Chemistry",
+    "id": 5,
+    "question": "An element X forms an oxide XO₂. What is the valency of X?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "correctAnswer": "4"
+  },
+  {
+    "title": "Chemistry",
+    "id": 6,
+    "question": "The principle of chromatography is based on the",
+    "optionA": "difference in boiling points",
+    "optionB": "difference in solubility",
+    "optionC": "movement of a solvent through a medium",
+    "optionD": "difference in the rates of migration of components",
+    "correctAnswer": "difference in the rates of migration of components"
+  },
+  {
+    "title": "Chemistry",
+    "id": 7,
+    "question": "Which of the following gases is the most soluble in water?",
+    "optionA": "Nitrogen",
+    "optionB": "Oxygen",
+    "optionC": "Hydrogen chloride",
+    "optionD": "Carbon dioxide",
+    "correctAnswer": "Hydrogen chloride"
+  },
+  {
+    "title": "Chemistry",
+    "id": 8,
+    "question": "The oxidation number of chlorine in KClO₃ is",
+    "optionA": "+1",
+    "optionB": "+3",
+    "optionC": "+5",
+    "optionD": "+7",
+    "correctAnswer": "+5"
+  },
+  {
+    "title": "Chemistry",
+    "id": 9,
+    "question": "Which of the following reactions is endothermic?",
+    "optionA": "Neutralization",
+    "optionB": "Combustion",
+    "optionC": "Respiration",
+    "optionD": "Dissolution of ammonium chloride in water",
+    "correctAnswer": "Dissolution of ammonium chloride in water"
+  },
+  {
+    "title": "Chemistry",
+    "id": 10,
+    "question": "A catalyst increases the rate of a chemical reaction by",
+    "optionA": "increasing the activation energy",
+    "optionB": "decreasing the activation energy",
+    "optionC": "increasing the temperature",
+    "optionD": "shifting the equilibrium position",
+    "correctAnswer": "decreasing the activation energy"
+  },
+  {
+    "title": "Chemistry",
+    "id": 11,
+    "question": "The pH of an acidic solution is",
+    "optionA": "greater than 7",
+    "optionB": "equal to 7",
+    "optionC": "less than 7",
+    "optionD": "equal to 14",
+    "correctAnswer": "less than 7"
+  },
+  {
+    "title": "Chemistry",
+    "id": 12,
+    "question": "Which of the following is a weak acid?",
+    "optionA": "Hydrochloric acid",
+    "optionB": "Sulphuric acid",
+    "optionC": "Nitric acid",
+    "optionD": "Ethanoic acid",
+    "correctAnswer": "Ethanoic acid"
+  },
+  {
+    "title": "Chemistry",
+    "id": 13,
+    "question": "The salt formed from a weak acid and a strong base will hydrolyze to give a solution that is",
+    "optionA": "acidic",
+    "optionB": "neutral",
+    "optionC": "basic",
+    "optionD": "amphoteric",
+    "correctAnswer": "basic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 14,
+    "question": "In the Haber process for the manufacture of ammonia, the catalyst used is",
+    "optionA": "vanadium(V) oxide",
+    "optionB": "finely divided nickel",
+    "optionC": "iron with promoters",
+    "optionD": "platinum",
+    "correctAnswer": "iron with promoters"
+  },
+  {
+    "title": "Chemistry",
+    "id": 15,
+    "question": "The method used to extract a metal from its ore depends on",
+    "optionA": "the abundance of the ore",
+    "optionB": "the position of the metal in the reactivity series",
+    "optionC": "the cost of the ore",
+    "optionD": "the melting point of the metal",
+    "correctAnswer": "the position of the metal in the reactivity series"
+  },
+  {
+    "title": "Chemistry",
+    "id": 16,
+    "question": "Which of the following metals can be extracted by the electrolysis of its molten chloride?",
+    "optionA": "Iron",
+    "optionB": "Copper",
+    "optionC": "Sodium",
+    "optionD": "Mercury",
+    "correctAnswer": "Sodium"
+  },
+  {
+    "title": "Chemistry",
+    "id": 17,
+    "question": "Rusting of iron is an example of",
+    "optionA": "displacement",
+    "optionB": "reduction",
+    "optionC": "oxidation",
+    "optionD": "distillation",
+    "correctAnswer": "oxidation"
+  },
+  {
+    "title": "Chemistry",
+    "id": 18,
+    "question": "Which gas is produced when dilute hydrochloric acid reacts with sodium bicarbonate?",
+    "optionA": "Chlorine",
+    "optionB": "Oxygen",
+    "optionC": "Carbon dioxide",
+    "optionD": "Hydrogen",
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "title": "Chemistry",
+    "id": 19,
+    "question": "The general formula for alkanes is",
+    "optionA": "CₙH₂ₙ",
+    "optionB": "CₙH₂ₙ₊₂",
+    "optionC": "CₙH₂ₙ₋₂",
+    "optionD": "CₙH₂ₙ₋₆",
+    "correctAnswer": "CₙH₂ₙ₊₂"
+  },
+  {
+    "title": "Chemistry",
+    "id": 20,
+    "question": "The process of breaking down large hydrocarbon molecules into smaller ones is known as",
+    "optionA": "cracking",
+    "optionB": "reforming",
+    "optionC": "polymerization",
+    "optionD": "isomerization",
+    "correctAnswer": "cracking"
+  },
+  {
+    "title": "Chemistry",
+    "id": 21,
+    "question": "Which of the following compounds will undergo addition reaction?",
+    "optionA": "Butane",
+    "optionB": "Propene",
+    "optionC": "Benzene",
+    "optionD": "Ethanol",
+    "correctAnswer": "Propene"
+  },
+  {
+    "title": "Chemistry",
+    "id": 22,
+    "question": "The functional group of alcohols is",
+    "optionA": "-CHO",
+    "optionB": "-COOH",
+    "optionC": "-OH",
+    "optionD": "-CO-",
+    "correctAnswer": "-OH"
+  },
+  {
+    "title": "Chemistry",
+    "id": 23,
+    "question": "Soap cleans by acting as",
+    "optionA": "a catalyst",
+    "optionB": "an emulsifying agent",
+    "optionC": "a bleaching agent",
+    "optionD": "a disinfectant",
+    "correctAnswer": "an emulsifying agent"
+  },
+  {
+    "title": "Chemistry",
+    "id": 24,
+    "question": "Which of the following is a natural polymer?",
+    "optionA": "Nylon",
+    "optionB": "Polyethene",
+    "optionC": "Starch",
+    "optionD": "PVC",
+    "correctAnswer": "Starch"
+  },
+  {
+    "title": "Chemistry",
+    "id": 25,
+    "question": "The number of atoms present in 0.5 moles of nitrogen gas (N₂) is",
+    "optionA": "3.01 × 10²³",
+    "optionB": "6.02 × 10²³",
+    "optionC": "1.20 × 10²⁴",
+    "optionD": "1.81 × 10²⁴",
+    "correctAnswer": "6.02 × 10²³"
+  },
+  {
+    "title": "Chemistry",
+    "id": 26,
+    "question": "Isotopes of an element have the same number of",
+    "optionA": "protons but different neutrons",
+    "optionB": "neutrons but different protons",
+    "optionC": "electrons but different protons",
+    "optionD": "neutrons and protons",
+    "correctAnswer": "protons but different neutrons"
+  },
+  {
+    "title": "Chemistry",
+    "id": 27,
+    "question": "The type of bonding in ammonium ion (NH₄⁺) is",
+    "optionA": "ionic only",
+    "optionB": "covalent only",
+    "optionC": "coordinate covalent only",
+    "optionD": "ionic and covalent",
+    "correctAnswer": "ionic and covalent"
+  },
+  {
+    "title": "Chemistry",
+    "id": 28,
+    "question": "Which of the following elements has the highest electron affinity?",
+    "optionA": "Fluorine",
+    "optionB": "Chlorine",
+    "optionC": "Bromine",
+    "optionD": "Iodine",
+    "correctAnswer": "Chlorine"
+  },
+  {
+    "title": "Chemistry",
+    "id": 29,
+    "question": "The law of conservation of mass states that",
+    "optionA": "energy can neither be created nor destroyed",
+    "optionB": "mass is neither created nor destroyed in a chemical reaction",
+    "optionC": "elements combine in simple whole number ratios",
+    "optionD": "all matter is made up of atoms",
+    "correctAnswer": "mass is neither created nor destroyed in a chemical reaction"
+  },
+  {
+    "title": "Chemistry",
+    "id": 30,
+    "question": "An example of a chemical change is",
+    "optionA": "melting of ice",
+    "optionB": "dissolving sugar in water",
+    "optionC": "rusting of iron",
+    "optionD": "grinding wheat into flour",
+    "correctAnswer": "rusting of iron"
+  },
+  {
+    "title": "Chemistry",
+    "id": 31,
+    "question": "The rate of a chemical reaction can be increased by all the following except",
+    "optionA": "increasing the temperature",
+    "optionB": "increasing the concentration of reactants",
+    "optionC": "adding a catalyst",
+    "optionD": "decreasing the surface area of solid reactants",
+    "correctAnswer": "decreasing the surface area of solid reactants"
+  },
+  {
+    "title": "Chemistry",
+    "id": 32,
+    "question": "In a redox reaction, the oxidizing agent is the species that is",
+    "optionA": "oxidized",
+    "optionB": "reduced",
+    "optionC": "decomposed",
+    "optionD": "hydrolyzed",
+    "correctAnswer": "reduced"
+  },
+  {
+    "title": "Chemistry",
+    "id": 33,
+    "question": "The pH of a solution with a hydrogen ion concentration of 1 × 10⁻⁵ mol/dm³ is",
+    "optionA": "5",
+    "optionB": "9",
+    "optionC": "10",
+    "optionD": "14",
+    "correctAnswer": "5"
+  },
+  {
+    "title": "Chemistry",
+    "id": 34,
+    "question": "Which of the following salts will hydrolyze in water?",
+    "optionA": "Sodium chloride",
+    "optionB": "Potassium nitrate",
+    "optionC": "Ammonium chloride",
+    "optionD": "Sodium sulphate",
+    "correctAnswer": "Ammonium chloride"
+  },
+  {
+    "title": "Chemistry",
+    "id": 35,
+    "question": "The most abundant gas in the atmosphere is",
+    "optionA": "oxygen",
+    "optionB": "carbon dioxide",
+    "optionC": "nitrogen",
+    "optionD": "argon",
+    "correctAnswer": "nitrogen"
+  },
+  {
+    "title": "Chemistry",
+    "id": 36,
+    "question": "The main ore of aluminium is",
+    "optionA": "bauxite",
+    "optionB": "haematite",
+    "optionC": "galena",
+    "optionD": "cassiterite",
+    "correctAnswer": "bauxite"
+  },
+  {
+    "title": "Chemistry",
+    "id": 37,
+    "question": "Which of the following is not a method of preventing corrosion?",
+    "optionA": "Galvanizing",
+    "optionB": "Painting",
+    "optionC": "Alloying",
+    "optionD": "Heating",
+    "correctAnswer": "Heating"
+  },
+  {
+    "title": "Chemistry",
+    "id": 38,
+    "question": "The gas evolved when metals react with dilute acids is",
+    "optionA": "oxygen",
+    "optionB": "nitrogen",
+    "optionC": "hydrogen",
+    "optionD": "carbon dioxide",
+    "correctAnswer": "hydrogen"
+  },
+  {
+    "title": "Chemistry",
+    "id": 39,
+    "question": "Which hydrocarbon is the main constituent of natural gas?",
+    "optionA": "Ethene",
+    "optionB": "Ethane",
+    "optionC": "Methane",
+    "optionD": "Propane",
+    "correctAnswer": "Methane"
+  },
+  {
+    "title": "Chemistry",
+    "id": 40,
+    "question": "The process by which alkanols are converted to alkanoic acids is",
+    "optionA": "esterification",
+    "optionB": "fermentation",
+    "optionC": "oxidation",
+    "optionD": "dehydration",
+    "correctAnswer": "oxidation"
+  },
+  {
+    "title": "Chemistry",
+    "id": 41,
+    "question": "Detergents are preferred to soap for washing in hard water because",
+    "optionA": "they are cheaper",
+    "optionB": "they do not form scum",
+    "optionC": "they are biodegradable",
+    "optionD": "they are made from petroleum",
+    "correctAnswer": "they do not form scum"
+  },
+  {
+    "title": "Chemistry",
+    "id": 42,
+    "question": "The monomer of polythene is",
+    "optionA": "ethene",
+    "optionB": "ethyne",
+    "optionC": "propene",
+    "optionD": "styrene",
+    "correctAnswer": "ethene"
+  },
+  {
+    "title": "Chemistry",
+    "id": 43,
+    "question": "The volume occupied by 1.4g of nitrogen gas at S.T.P is",
+    "optionA": "1.12 dm³",
+    "optionB": "2.24 dm³",
+    "optionC": "22.4 dm³",
+    "optionD": "11.2 dm³",
+    "correctAnswer": "1.12 dm³"
+  },
+  {
+    "title": "Chemistry",
+    "id": 44,
+    "question": "Which subatomic particle has no charge?",
+    "optionA": "Proton",
+    "optionB": "Neutron",
+    "optionC": "Electron",
+    "optionD": "Positron",
+    "correctAnswer": "Neutron"
+  },
+  {
+    "title": "Chemistry",
+    "id": 45,
+    "question": "The bond angle in a tetrahedral molecule is approximately",
+    "optionA": "104.5°",
+    "optionB": "107°",
+    "optionC": "109.5°",
+    "optionD": "120°",
+    "correctAnswer": "109.5°"
+  },
+  {
+    "title": "Chemistry",
+    "id": 46,
+    "question": "The most electronegative element is",
+    "optionA": "oxygen",
+    "optionB": "nitrogen",
+    "optionC": "fluorine",
+    "optionD": "chlorine",
+    "correctAnswer": "fluorine"
+  },
+  {
+    "title": "Chemistry",
+    "id": 47,
+    "question": "Avogadro's number represents the number of",
+    "optionA": "atoms in one mole of an element",
+    "optionB": "molecules in one mole of a compound",
+    "optionC": "particles in one mole of a substance",
+    "optionD": "electrons in one mole of an element",
+    "correctAnswer": "particles in one mole of a substance"
+  },
+  {
+    "title": "Chemistry",
+    "id": 48,
+    "question": "Which of the following is a physical change?",
+    "optionA": "Burning of wood",
+    "optionB": "Digestion of food",
+    "optionC": "Evaporation of water",
+    "optionD": "Rusting of iron",
+    "correctAnswer": "Evaporation of water"
+  },
+  {
+    "title": "Chemistry",
+    "id": 49,
+    "question": "For a reversible reaction at equilibrium, increasing the pressure will favor the reaction that produces",
+    "optionA": "more heat",
+    "optionB": "fewer moles of gas",
+    "optionC": "more moles of gas",
+    "optionD": "a catalyst",
+    "correctAnswer": "fewer moles of gas"
+  },
+  {
+    "title": "Chemistry",
+    "id": 50,
+    "question": "In the reaction: Zn + 2HCl → ZnCl₂ + H₂, zinc is",
+    "optionA": "oxidized",
+    "optionB": "reduced",
+    "optionC": "a catalyst",
+    "optionD": "a precipitant",
+    "correctAnswer": "oxidized"
+  },
+  {
+    "title": "Chemistry",
+    "id": 51,
+    "question": "A solution with a pH of 2 is",
+    "optionA": "weakly acidic",
+    "optionB": "strongly acidic",
+    "optionC": "weakly basic",
+    "optionD": "strongly basic",
+    "correctAnswer": "strongly acidic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 52,
+    "question": "Which of the following is a strong base?",
+    "optionA": "Ammonia solution",
+    "optionB": "Sodium hydroxide",
+    "optionC": "Calcium hydroxide",
+    "optionD": "Water",
+    "correctAnswer": "Sodium hydroxide"
+  },
+  {
+    "title": "Chemistry",
+    "id": 53,
+    "question": "The gas used in the fountain experiment to demonstrate high solubility is",
+    "optionA": "oxygen",
+    "optionB": "hydrogen chloride",
+    "optionC": "ammonia",
+    "optionD": "carbon dioxide",
+    "correctAnswer": "ammonia"
+  },
+  {
+    "title": "Chemistry",
+    "id": 54,
+    "question": "The method used to extract copper from its sulphide ore is",
+    "optionA": "electrolysis",
+    "optionB": "reduction with carbon",
+    "optionC": "roasting and reduction",
+    "optionD": "displacement with iron",
+    "correctAnswer": "roasting and reduction"
+  },
+  {
+    "title": "Chemistry",
+    "id": 55,
+    "question": "Stainless steel is an alloy of iron and",
+    "optionA": "carbon and manganese",
+    "optionB": "chromium and nickel",
+    "optionC": "copper and zinc",
+    "optionD": "lead and tin",
+    "correctAnswer": "chromium and nickel"
+  },
+  {
+    "title": "Chemistry",
+    "id": 56,
+    "question": "Which metal is stored under oil to prevent it from reacting with air?",
+    "optionA": "Iron",
+    "optionB": "Copper",
+    "optionC": "Sodium",
+    "optionD": "Aluminium",
+    "correctAnswer": "Sodium"
+  },
+  {
+    "title": "Chemistry",
+    "id": 57,
+    "question": "The general formula for alkenes is",
+    "optionA": "CₙH₂ₙ",
+    "optionB": "CₙH₂ₙ₊₂",
+    "optionC": "CₙH₂ₙ₋₂",
+    "optionD": "CₙH₂ₙ₋₆",
+    "correctAnswer": "CₙH₂ₙ"
+  },
+  {
+    "title": "Chemistry",
+    "id": 58,
+    "question": "The test for unsaturation in hydrocarbons is using",
+    "optionA": "limewater",
+    "optionB": "bromine water",
+    "optionC": "litmus paper",
+    "optionD": "universal indicator",
+    "correctAnswer": "bromine water"
+  },
+  {
+    "title": "Chemistry",
+    "id": 59,
+    "question": "The product of the reaction between an alkanol and an alkanoic acid is",
+    "optionA": "a ketone",
+    "optionB": "an ester",
+    "optionC": "an aldehyde",
+    "optionD": "a soap",
+    "correctAnswer": "an ester"
+  },
+  {
+    "title": "Chemistry",
+    "id": 60,
+    "question": "Nylon is an example of a",
+    "optionA": "natural polymer",
+    "optionB": "polyamide",
+    "optionC": "polyester",
+    "optionD": "monomer",
+    "correctAnswer": "polyamide"
+  },
+  {
+    "title": "Chemistry",
+    "id": 61,
+    "question": "The empirical formula of a compound with molecular formula C₆H₁₂O₆ is",
+    "optionA": "C₆H₁₂O₆",
+    "optionB": "C₃H₆O₃",
+    "optionC": "CH₂O",
+    "optionD": "C₂H₄O₂",
+    "correctAnswer": "CH₂O"
+  },
+  {
+    "title": "Chemistry",
+    "id": 62,
+    "question": "The number of electrons in the valence shell of a group VII element is",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "7",
+    "optionD": "8",
+    "correctAnswer": "7"
+  },
+  {
+    "title": "Chemistry",
+    "id": 63,
+    "question": "Which of the following compounds has a coordinate covalent bond?",
+    "optionA": "NaCl",
+    "optionB": "H₂O",
+    "optionC": "NH₄⁺",
+    "optionD": "CH₄",
+    "correctAnswer": "NH₄⁺"
+  },
+  {
+    "title": "Chemistry",
+    "id": 64,
+    "question": "Elements in the same period of the periodic table have the same",
+    "optionA": "number of electron shells",
+    "optionB": "number of valence electrons",
+    "optionC": "atomic number",
+    "optionD": "atomic mass",
+    "correctAnswer": "number of electron shells"
+  },
+  {
+    "title": "Chemistry",
+    "id": 65,
+    "question": "The mass of one mole of a substance is its",
+    "optionA": "atomic number",
+    "optionB": "molar mass",
+    "optionC": "Avogadro's number",
+    "optionD": "empirical mass",
+    "correctAnswer": "molar mass"
+  },
+  {
+    "title": "Chemistry",
+    "id": 66,
+    "question": "Which factor does NOT affect the rate of a chemical reaction?",
+    "optionA": "Pressure of gases",
+    "optionB": "Particle size of solids",
+    "optionC": "Presence of a catalyst",
+    "optionD": "The color of the reactants",
+    "correctAnswer": "The color of the reactants"
+  },
+  {
+    "title": "Chemistry",
+    "id": 67,
+    "question": "In the reaction: CuO + H₂ → Cu + H₂O, the substance oxidized is",
+    "optionA": "CuO",
+    "optionB": "H₂",
+    "optionC": "Cu",
+    "optionD": "H₂O",
+    "correctAnswer": "H₂"
+  },
+  {
+    "title": "Chemistry",
+    "id": 68,
+    "question": "A solution that resists changes in pH when small amounts of acid or base are added is called a",
+    "optionA": "saturated solution",
+    "optionB": "supersaturated solution",
+    "optionC": "buffer solution",
+    "optionD": "neutral solution",
+    "correctAnswer": "buffer solution"
+  },
+  {
+    "title": "Chemistry",
+    "id": 69,
+    "question": "The acid found in vinegar is",
+    "optionA": "citric acid",
+    "optionB": "tartaric acid",
+    "optionC": "ethanoic acid",
+    "optionD": "lactic acid",
+    "correctAnswer": "ethanoic acid"
+  },
+  {
+    "title": "Chemistry",
+    "id": 70,
+    "question": "The process of removing temporary hardness of water by boiling involves the formation of",
+    "optionA": "CaCO₃",
+    "optionB": "Ca(HCO₃)₂",
+    "optionC": "CaSO₄",
+    "optionD": "MgCl₂",
+    "correctAnswer": "CaCO₃"
+  },
+  {
+    "title": "Chemistry",
+    "id": 71,
+    "question": "Which of the following is not a greenhouse gas?",
+    "optionA": "Carbon dioxide",
+    "optionB": "Methane",
+    "optionC": "Nitrogen",
+    "optionD": "Water vapour",
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "title": "Chemistry",
+    "id": 72,
+    "question": "The main reducing agent in the blast furnace for iron extraction is",
+    "optionA": "carbon monoxide",
+    "optionB": "carbon dioxide",
+    "optionC": "carbon",
+    "optionD": "limestone",
+    "correctAnswer": "carbon monoxide"
+  },
+  {
+    "title": "Chemistry",
+    "id": 73,
+    "question": "Galvanizing is a process of coating iron with",
+    "optionA": "tin",
+    "optionB": "zinc",
+    "optionC": "copper",
+    "optionD": "chromium",
+    "correctAnswer": "zinc"
+  },
+  {
+    "title": "Chemistry",
+    "id": 74,
+    "question": "The gas produced when a metal reacts with steam is",
+    "optionA": "oxygen",
+    "optionB": "nitrogen",
+    "optionC": "hydrogen",
+    "optionD": "carbon dioxide",
+    "correctAnswer": "hydrogen"
+  },
+  {
+    "title": "Chemistry",
+    "id": 75,
+    "question": "The first member of the alkyne series is",
+    "optionA": "ethene",
+    "optionB": "ethyne",
+    "optionC": "propene",
+    "optionD": "propyne",
+    "correctAnswer": "ethyne"
+  },
+  {
+    "title": "Chemistry",
+    "id": 76,
+    "question": "The process of converting glucose to ethanol is known as",
+    "optionA": "esterification",
+    "optionB": "fermentation",
+    "optionC": "polymerization",
+    "optionD": "cracking",
+    "correctAnswer": "fermentation"
+  },
+  {
+    "title": "Chemistry",
+    "id": 77,
+    "question": "Fats and oils are esters of glycerol and",
+    "optionA": "long chain alkanoic acids",
+    "optionB": "long chain alkanols",
+    "optionC": "sulphonic acids",
+    "optionD": "mineral acids",
+    "correctAnswer": "long chain alkanoic acids"
+  },
+  {
+    "title": "Chemistry",
+    "id": 78,
+    "question": "The property of a material to be drawn into wires is called",
+    "optionA": "malleability",
+    "optionB": "ductility",
+    "optionC": "sonorosity",
+    "optionD": "conductivity",
+    "correctAnswer": "ductility"
+  },
+  {
+    "title": "Chemistry",
+    "id": 79,
+    "question": "The number of protons in an atom is called the",
+    "optionA": "mass number",
+    "optionB": "atomic number",
+    "optionC": "nucleon number",
+    "optionD": "neutron number",
+    "correctAnswer": "atomic number"
+  },
+  {
+    "title": "Chemistry",
+    "id": 80,
+    "question": "Which of the following molecules is linear?",
+    "optionA": "H₂O",
+    "optionB": "NH₃",
+    "optionC": "CO₂",
+    "optionD": "CH₄",
+    "correctAnswer": "CO₂"
+  },
+  {
+    "title": "Chemistry",
+    "id": 81,
+    "question": "The tendency of an atom to attract bonding electrons to itself is called",
+    "optionA": "ionization energy",
+    "optionB": "electron affinity",
+    "optionC": "electronegativity",
+    "optionD": "atomic radius",
+    "correctAnswer": "electronegativity"
+  },
+  {
+    "title": "Chemistry",
+    "id": 82,
+    "question": "The volume of one mole of any gas at S.T.P is",
+    "optionA": "6.02 dm³",
+    "optionB": "12.0 dm³",
+    "optionC": "22.4 dm³",
+    "optionD": "24.0 dm³",
+    "correctAnswer": "22.4 dm³"
+  },
+  {
+    "title": "Chemistry",
+    "id": 83,
+    "question": "A reaction that releases heat to the surroundings is called",
+    "optionA": "endothermic",
+    "optionB": "exothermic",
+    "optionC": "reversible",
+    "optionD": "catalytic",
+    "correctAnswer": "exothermic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 84,
+    "question": "According to Le Chatelier's principle, increasing the temperature of an exothermic reaction will shift the equilibrium",
+    "optionA": "to the right",
+    "optionB": "to the left",
+    "optionC": "it will have no effect",
+    "optionD": "it will speed up the reaction only",
+    "correctAnswer": "to the left"
+  },
+  {
+    "title": "Chemistry",
+    "id": 85,
+    "question": "The oxidation number of sulphur in H₂SO₄ is",
+    "optionA": "+2",
+    "optionB": "+4",
+    "optionC": "+6",
+    "optionD": "-2",
+    "correctAnswer": "+6"
+  },
+  {
+    "title": "Chemistry",
+    "id": 86,
+    "question": "A substance that turns moist blue litmus paper red is",
+    "optionA": "acidic",
+    "optionB": "basic",
+    "optionC": "neutral",
+    "optionD": "amphoteric",
+    "correctAnswer": "acidic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 87,
+    "question": "The common name for sodium carbonate decahydrate is",
+    "optionA": "washing soda",
+    "optionB": "baking soda",
+    "optionC": "caustic soda",
+    "optionD": "plaster of Paris",
+    "correctAnswer": "washing soda"
+  },
+  {
+    "title": "Chemistry",
+    "id": 88,
+    "question": "The gas used in the manufacture of ammonia is",
+    "optionA": "nitrogen and oxygen",
+    "optionB": "nitrogen and hydrogen",
+    "optionC": "hydrogen and oxygen",
+    "optionD": "nitrogen and chlorine",
+    "correctAnswer": "nitrogen and hydrogen"
+  },
+  {
+    "title": "Chemistry",
+    "id": 89,
+    "question": "Bronze is an alloy of",
+    "optionA": "copper and tin",
+    "optionB": "copper and zinc",
+    "optionC": "iron and carbon",
+    "optionD": "aluminium and copper",
+    "correctAnswer": "copper and tin"
+  },
+  {
+    "title": "Chemistry",
+    "id": 90,
+    "question": "Which metal is extracted by the electrolysis of its molten oxide?",
+    "optionA": "Iron",
+    "optionB": "Copper",
+    "optionC": "Aluminium",
+    "optionD": "Zinc",
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "title": "Chemistry",
+    "id": 91,
+    "question": "The compound responsible for the characteristic smell of rotten eggs is",
+    "optionA": "hydrogen sulphide",
+    "optionB": "sulphur dioxide",
+    "optionC": "ammonia",
+    "optionD": "methane",
+    "correctAnswer": "hydrogen sulphide"
+  },
+  {
+    "title": "Chemistry",
+    "id": 92,
+    "question": "The functional group of carboxylic acids is",
+    "optionA": "-OH",
+    "optionB": "-CHO",
+    "optionC": "-COOH",
+    "optionD": "-CO-",
+    "correctAnswer": "-COOH"
+  },
+  {
+    "title": "Chemistry",
+    "id": 93,
+    "question": "The process of making soap from fats and oils is called",
+    "optionA": "esterification",
+    "optionB": "saponification",
+    "optionC": "fermentation",
+    "optionD": "hydrogenation",
+    "correctAnswer": "saponification"
+  },
+  {
+    "title": "Chemistry",
+    "id": 94,
+    "question": "PVC (Polyvinyl chloride) is a",
+    "optionA": "thermosetting plastic",
+    "optionB": "thermoplastic",
+    "optionC": "natural polymer",
+    "optionD": "monomer",
+    "correctAnswer": "thermoplastic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 95,
+    "question": "The percentage of oxygen in NaOH is approximately",
+    "optionA": "40%",
+    "optionB": "57.5%",
+    "optionC": "16%",
+    "optionD": "10%",
+    "correctAnswer": "40%"
+  },
+  {
+    "title": "Chemistry",
+    "id": 96,
+    "question": "An element with atomic number 17 will most likely",
+    "optionA": "lose one electron to form a cation",
+    "optionB": "gain one electron to form an anion",
+    "optionC": "lose two electrons to form a cation",
+    "optionD": "gain two electrons to form an anion",
+    "correctAnswer": "gain one electron to form an anion"
+  },
+  {
+    "title": "Chemistry",
+    "id": 97,
+    "question": "The compound formed between magnesium and oxygen is",
+    "optionA": "covalent",
+    "optionB": "ionic",
+    "optionC": "metallic",
+    "optionD": "molecular",
+    "correctAnswer": "ionic"
+  },
+  {
+    "title": "Chemistry",
+    "id": 98,
+    "question": "The formula mass of ammonium sulphate, (NH₄)₂SO₄, is",
+    "optionA": "114",
+    "optionB": "118",
+    "optionC": "132",
+    "optionD": "146",
+    "correctAnswer": "132"
+  },
+  {
+    "title": "Chemistry",
+    "id": 99,
+    "question": "Which of the following will increase the rate of dissolution of a solid in a liquid?",
+    "optionA": "Decreasing the temperature",
+    "optionB": "Decreasing the surface area",
+    "optionC": "Stirring the solution",
+    "optionD": "Using a saturated solution",
+    "correctAnswer": "Stirring the solution"
+  },
+  {
+    "title": "Chemistry",
+    "id": 100,
+    "question": "The IUPAC name for CH₃CH₂COOH is",
+    "optionA": "ethanoic acid",
+    "optionB": "propanoic acid",
+    "optionC": "methanoic acid",
+    "optionD": "butanoic acid",
+    "correctAnswer": "propanoic acid"
+  },
+    {
+    "title": "Chemistry",
+    "id": 101,
+    "question": "Electrolysis is used in the following except",
+    "optionA": "extraction of Aluminium",
+    "optionB": "extraction of iron",
+    "optionC": "purification of copper",
+    "optionD": "electroplating",
+    "correctAnswer": "extraction of iron"
+  },
+  {
+    "title": "Chemistry",
+    "id": 102,
+    "question": "A certain hydrocarbon has 0.12moles of carbon and 0.56moles of hydrogen. What is the empirical formula of the hydrocarbon?",
+    "optionA": "CH₃",
+    "optionB": "CH₂",
+    "optionC": "CH₃",
+    "optionD": "CH₄",
+    "correctAnswer": "CH₄"
+  },
+  {
+    "title": "Chemistry",
+    "id": 103,
+    "question": "In the reaction of alkanoic acid with ethanol to produce esters, ___ is used as a catalyst.",
+    "optionA": "sunlight",
+    "optionB": "mineral acid",
+    "optionC": "base",
+    "optionD": "finely divided nickel",
+    "correctAnswer": "mineral acid"
+  },
+  {
+    "title": "Chemistry",
+    "id": 104,
+    "question": "In the reaction between H₂SO₄ and NaCl, the gas evolved can be noticed by ___",
+    "optionA": "foaming white precipitate with BaSO₄",
+    "optionB": "bleaches blue litmus to red",
+    "optionC": "foaming white precipitate with AgNO₃",
+    "optionD": "It forms with fume when exposed to atmospheric water vapor",
+    "correctAnswer": "foaming white precipitate with AgNO₃"
+  },
+  {
+    "title": "Chemistry",
+    "id": 105,
+    "question": "Iron is found in which of the following alloys?",
+    "optionA": "lead and in",
+    "optionB": "soft solder",
+    "optionC": "duralumin and steel",
+    "optionD": "duralumin",
+    "correctAnswer": "duralumin and steel"
+  },
+  {
+    "title": "Chemistry",
+    "id": 106,
+    "question": "Oxygen has isotopes ¹⁶O with abundance of 99.75%/98. ¹⁷O with abundance of 0.038% and ¹⁸O with abundance of 0.205%. The relative atomic masses is",
+    "optionA": "125",
+    "optionB": "20",
+    "optionC": "16",
+    "optionD": "165",
+    "correctAnswer": "16"
+  },
+  {
+    "title": "Chemistry",
+    "id": 107,
+    "question": "An element M has atomic number of 19. It can said that M is",
+    "optionA": "alkali metal",
+    "optionB": "alkali earth metal",
+    "optionC": "noble gas",
+    "optionD": "a metal",
+    "correctAnswer": "alkali metal"
+  },
+  {
+    "title": "Chemistry",
+    "id": 108,
+    "question": "What is the similarity between Br₂ and NO₂ at S.T.P?",
+    "optionA": "they are liquid at S.T.P",
+    "optionB": "they have the same temperature and pressure as S.T.P",
+    "optionC": "they are both gas at S.T.P",
+    "optionD": "",
+    "correctAnswer": "they are both gas at S.T.P"
+  },
+  {
+    "title": "Chemistry",
+    "id": 109,
+    "question": "Ideal patterns are associated with ___",
+    "optionA": "high pressure, high temperature",
+    "optionB": "low pressure, high temperature",
+    "optionC": "low temperature, high pressure",
+    "optionD": "low temperature and low pressure",
+    "correctAnswer": "low pressure, high temperature"
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "title": "Biology",
+    "id": 1,
+    "question": "The basic unit of life is the",
+    "optionA": "tissue",
+    "optionB": "cell",
+    "optionC": "organ",
+    "optionD": "organism",
+    "correctAnswer": "cell"
+  },
+  {
+    "title": "Biology",
+    "id": 2,
+    "question": "Which of the following is NOT a characteristic of living things?",
+    "optionA": "Respiration",
+    "optionB": "Reproduction",
+    "optionC": "Inorganic composition",
+    "optionD": "Growth",
+    "correctAnswer": "Inorganic composition"
+  },
+  {
+    "title": "Biology",
+    "id": 3,
+    "question": "The organelle responsible for photosynthesis is the",
+    "optionA": "mitochondrion",
+    "optionB": "ribosome",
+    "optionC": "chloroplast",
+    "optionD": "nucleus",
+    "correctAnswer": "chloroplast"
+  },
+  {
+    "title": "Biology",
+    "id": 4,
+    "question": "The process by which plants lose water vapor to the atmosphere is called",
+    "optionA": "transpiration",
+    "optionB": "respiration",
+    "optionC": "photosynthesis",
+    "optionD": "guttation",
+    "correctAnswer": "transpiration"
+  },
+  {
+    "title": "Biology",
+    "id": 5,
+    "question": "Which of the following is a micronutrient for plants?",
+    "optionA": "Nitrogen",
+    "optionB": "Phosphorus",
+    "optionC": "Potassium",
+    "optionD": "Zinc",
+    "correctAnswer": "Zinc"
+  },
+  {
+    "title": "Biology",
+    "id": 6,
+    "question": "The movement of molecules from a region of higher concentration to a region of lower concentration is called",
+    "optionA": "osmosis",
+    "optionB": "diffusion",
+    "optionC": "active transport",
+    "optionD": "plasmolysis",
+    "correctAnswer": "diffusion"
+  },
+  {
+    "title": "Biology",
+    "id": 7,
+    "question": "The vertebral column protects the",
+    "optionA": "heart",
+    "optionB": "spinal cord",
+    "optionC": "lungs",
+    "optionD": "brain",
+    "correctAnswer": "spinal cord"
+  },
+  {
+    "title": "Biology",
+    "id": 8,
+    "question": "The blood vessels that carry blood away from the heart are called",
+    "optionA": "veins",
+    "optionB": "arteries",
+    "optionC": "capillaries",
+    "optionD": "venules",
+    "correctAnswer": "arteries"
+  },
+  {
+    "title": "Biology",
+    "id": 9,
+    "question": "The process of breaking down large food molecules into smaller, absorbable units is called",
+    "optionA": "ingestion",
+    "optionB": "digestion",
+    "optionC": "egestion",
+    "optionD": "absorption",
+    "correctAnswer": "digestion"
+  },
+  {
+    "title": "Biology",
+    "id": 10,
+    "question": "Bile is produced by the",
+    "optionA": "gall bladder",
+    "optionB": "liver",
+    "optionC": "pancreas",
+    "optionD": "stomach",
+    "correctAnswer": "liver"
+  },
+  {
+    "title": "Biology",
+    "id": 11,
+    "question": "The functional unit of the kidney is the",
+    "optionA": "nephron",
+    "optionB": "ureter",
+    "optionC": "urethra",
+    "optionD": "glomerulus",
+    "correctAnswer": "nephron"
+  },
+  {
+    "title": "Biology",
+    "id": 12,
+    "question": "Which part of the human brain is responsible for balance and coordination?",
+    "optionA": "Cerebrum",
+    "optionB": "Cerebellum",
+    "optionC": "Medulla oblongata",
+    "optionD": "Spinal cord",
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "title": "Biology",
+    "id": 13,
+    "question": "The hormone insulin is produced by the",
+    "optionA": "adrenal gland",
+    "optionB": "pituitary gland",
+    "optionC": "thyroid gland",
+    "optionD": "pancreas",
+    "correctAnswer": "pancreas"
+  },
+  {
+    "title": "Biology",
+    "id": 14,
+    "question": "A neuron is a cell found in the",
+    "optionA": "circulatory system",
+    "optionB": "nervous system",
+    "optionC": "digestive system",
+    "optionD": "respiratory system",
+    "correctAnswer": "nervous system"
+  },
+  {
+    "title": "Biology",
+    "id": 15,
+    "question": "The male reproductive organ in a flower is the",
+    "optionA": "stigma",
+    "optionB": "style",
+    "optionC": "ovary",
+    "optionD": "stamen",
+    "correctAnswer": "stamen"
+  },
+  {
+    "title": "Biology",
+    "id": 16,
+    "question": "Pollination by wind is called",
+    "optionA": "entomophily",
+    "optionB": "anemophily",
+    "optionC": "ornithophily",
+    "optionD": "hydrophily",
+    "correctAnswer": "anemophily"
+  },
+  {
+    "title": "Biology",
+    "id": 17,
+    "question": "The number of chromosomes in a human gamete is",
+    "optionA": "46",
+    "optionB": "23",
+    "optionC": "92",
+    "optionD": "48",
+    "correctAnswer": "23"
+  },
+  {
+    "title": "Biology",
+    "id": 18,
+    "question": "The genetic makeup of an organism is called its",
+    "optionA": "phenotype",
+    "optionB": "genotype",
+    "optionC": "allele",
+    "optionD": "chromosome",
+    "correctAnswer": "genotype"
+  },
+  {
+    "title": "Biology",
+    "id": 19,
+    "question": "A cross between two individuals with contrasting traits is called a",
+    "optionA": "test cross",
+    "optionB": "back cross",
+    "optionC": "monohybrid cross",
+    "optionD": "dihybrid cross",
+    "correctAnswer": "monohybrid cross"
+  },
+  {
+    "title": "Biology",
+    "id": 20,
+    "question": "The father of genetics is",
+    "optionA": "Charles Darwin",
+    "optionB": "Gregor Mendel",
+    "optionC": "Louis Pasteur",
+    "optionD": "Robert Hooke",
+    "correctAnswer": "Gregor Mendel"
+  },
+  {
+    "title": "Biology",
+    "id": 21,
+    "question": "A sudden heritable change in the structure of a gene is called",
+    "optionA": "variation",
+    "optionB": "mutation",
+    "optionC": "adaptation",
+    "optionD": "evolution",
+    "correctAnswer": "mutation"
+  },
+  {
+    "title": "Biology",
+    "id": 22,
+    "question": "The theory of natural selection was proposed by",
+    "optionA": "Gregor Mendel",
+    "optionB": "Jean Lamarck",
+    "optionC": "Charles Darwin",
+    "optionD": "Alfred Wallace",
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "title": "Biology",
+    "id": 23,
+    "question": "Which of the following is an example of a biotic factor in an ecosystem?",
+    "optionA": "Sunlight",
+    "optionB": "Water",
+    "optionC": "Predator",
+    "optionD": "Temperature",
+    "correctAnswer": "Predator"
+  },
+  {
+    "title": "Biology",
+    "id": 24,
+    "question": "The first organism in a food chain is always a",
+    "optionA": "herbivore",
+    "optionB": "carnivore",
+    "optionC": "producer",
+    "optionD": "decomposer",
+    "correctAnswer": "producer"
+  },
+  {
+    "title": "Biology",
+    "id": 25,
+    "question": "The gradual change in communities over time is known as",
+    "optionA": "succession",
+    "optionB": "evolution",
+    "optionC": "adaptation",
+    "optionD": "mutation",
+    "correctAnswer": "succession"
+  },
+  {
+    "title": "Biology",
+    "id": 26,
+    "question": "Which of the following is a greenhouse gas?",
+    "optionA": "Oxygen",
+    "optionB": "Nitrogen",
+    "optionC": "Carbon dioxide",
+    "optionD": "Hydrogen",
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "title": "Biology",
+    "id": 27,
+    "question": "The scientific study of insects is called",
+    "optionA": "Ornithology",
+    "optionB": "Entomology",
+    "optionC": "Ichthyology",
+    "optionD": "Herpetology",
+    "correctAnswer": "Entomology"
+  },
+  {
+    "title": "Biology",
+    "id": 28,
+    "question": "Which of the following diseases is caused by a virus?",
+    "optionA": "Tuberculosis",
+    "optionB": "Malaria",
+    "optionC": "Cholera",
+    "optionD": "Influenza",
+    "correctAnswer": "Influenza"
+  },
+  {
+    "title": "Biology",
+    "id": 29,
+    "question": "Vaccination helps to develop",
+    "optionA": "active immunity",
+    "optionB": "passive immunity",
+    "optionC": "natural immunity",
+    "optionD": "innate immunity",
+    "correctAnswer": "active immunity"
+  },
+  {
+    "title": "Biology",
+    "id": 30,
+    "question": "A person with blood group AB can receive blood from",
+    "optionA": "A only",
+    "optionB": "B only",
+    "optionC": "AB only",
+    "optionD": "A, B, AB, and O",
+    "correctAnswer": "A, B, AB, and O"
+  },
+  {
+    "title": "Biology",
+    "id": 31,
+    "question": "The part of the eye that controls the amount of light entering is the",
+    "optionA": "retina",
+    "optionB": "iris",
+    "optionC": "lens",
+    "optionD": "cornea",
+    "correctAnswer": "iris"
+  },
+  {
+    "title": "Biology",
+    "id": 32,
+    "question": "Which vitamin is produced by the human skin when exposed to sunlight?",
+    "optionA": "Vitamin A",
+    "optionB": "Vitamin B",
+    "optionC": "Vitamin C",
+    "optionD": "Vitamin D",
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "title": "Biology",
+    "id": 33,
+    "question": "The process of cell division that results in two identical daughter cells is",
+    "optionA": "meiosis",
+    "optionB": "mitosis",
+    "optionC": "binary fission",
+    "optionD": "budding",
+    "correctAnswer": "mitosis"
+  },
+  {
+    "title": "Biology",
+    "id": 34,
+    "question": "The largest gland in the human body is the",
+    "optionA": "pancreas",
+    "optionB": "liver",
+    "optionC": "thyroid",
+    "optionD": "pituitary",
+    "correctAnswer": "liver"
+  },
+  {
+    "title": "Biology",
+    "id": 35,
+    "question": "Plants that live in arid environments are called",
+    "optionA": "hydrophytes",
+    "optionB": "mesophytes",
+    "optionC": "xerophytes",
+    "optionD": "halophytes",
+    "correctAnswer": "xerophytes"
+  },
+  {
+    "title": "Biology",
+    "id": 36,
+    "question": "The process by which fruits develop without fertilization is called",
+    "optionA": "parthenocarpy",
+    "optionB": "polyembryony",
+    "optionC": "apomixis",
+    "optionD": "vegetative propagation",
+    "correctAnswer": "parthenocarpy"
+  },
+  {
+    "title": "Biology",
+    "id": 37,
+    "question": "The universal donor blood group is",
+    "optionA": "A",
+    "optionB": "B",
+    "optionC": "AB",
+    "optionD": "O",
+    "correctAnswer": "O"
+  },
+  {
+    "title": "Biology",
+    "id": 38,
+    "question": "Which of these is NOT a part of the human axial skeleton?",
+    "optionA": "Skull",
+    "optionB": "Sternum",
+    "optionC": "Femur",
+    "optionD": "Ribs",
+    "correctAnswer": "Femur"
+  },
+  {
+    "title": "Biology",
+    "id": 39,
+    "question": "The process by which white blood cells engulf pathogens is called",
+    "optionA": "phagocytosis",
+    "optionB": "pinocytosis",
+    "optionC": "osmosis",
+    "optionD": "diffusion",
+    "correctAnswer": "phagocytosis"
+  },
+  {
+    "title": "Biology",
+    "id": 40,
+    "question": "The end product of anaerobic respiration in yeast is",
+    "optionA": "lactic acid",
+    "optionB": "ethanol and carbon dioxide",
+    "optionC": "pyruvic acid",
+    "optionD": "water and energy",
+    "correctAnswer": "ethanol and carbon dioxide"
+  },
+  {
+    "title": "Biology",
+    "id": 41,
+    "question": "The part of the cell that contains genetic material is the",
+    "optionA": "cytoplasm",
+    "optionB": "nucleus",
+    "optionC": "mitochondrion",
+    "optionD": "ribosome",
+    "correctAnswer": "nucleus"
+  },
+  {
+    "title": "Biology",
+    "id": 42,
+    "question": "Which of the following is a vestigial organ in humans?",
+    "optionA": "Appendix",
+    "optionB": "Heart",
+    "optionC": "Liver",
+    "optionD": "Lungs",
+    "correctAnswer": "Appendix"
+  },
+  {
+    "title": "Biology",
+    "id": 43,
+    "question": "The process by which plants make their own food is called",
+    "optionA": "respiration",
+    "optionB": "photosynthesis",
+    "optionC": "transpiration",
+    "optionD": "digestion",
+    "correctAnswer": "photosynthesis"
+  },
+  {
+    "title": "Biology",
+    "id": 44,
+    "question": "The main function of root hairs is to",
+    "optionA": "store food",
+    "optionB": "absorb water and minerals",
+    "optionC": "protect the root",
+    "optionD": "anchor the plant",
+    "correctAnswer": "absorb water and minerals"
+  },
+  {
+    "title": "Biology",
+    "id": 45,
+    "question": "The pigment responsible for photosynthesis is",
+    "optionA": "hemoglobin",
+    "optionB": "melanin",
+    "optionC": "chlorophyll",
+    "optionD": "xanthophyll",
+    "correctAnswer": "chlorophyll"
+  },
+  {
+    "title": "Biology",
+    "id": 46,
+    "question": "The smallest bone in the human body is found in the",
+    "optionA": "finger",
+    "optionB": "ear",
+    "optionC": "toe",
+    "optionD": "nose",
+    "correctAnswer": "ear"
+  },
+  {
+    "title": "Biology",
+    "id": 47,
+    "question": "Which of the following is a plant hormone?",
+    "optionA": "Insulin",
+    "optionB": "Adrenaline",
+    "optionC": "Auxin",
+    "optionD": "Testosterone",
+    "correctAnswer": "Auxin"
+  },
+  {
+    "title": "Biology",
+    "id": 48,
+    "question": "The process of converting nitrogen gas into nitrates is called",
+    "optionA": "nitrogen fixation",
+    "optionB": "denitrification",
+    "optionC": "ammonification",
+    "optionD": "nitrification",
+    "correctAnswer": "nitrogen fixation"
+  },
+  {
+    "title": "Biology",
+    "id": 49,
+    "question": "The symbiotic association between fungi and algae is called",
+    "optionA": "mycorrhiza",
+    "optionB": "lichen",
+    "optionC": "rhizobium",
+    "optionD": "parasitism",
+    "correctAnswer": "lichen"
+  },
+  {
+    "title": "Biology",
+    "id": 50,
+    "question": "Which of the following is NOT a type of symbiotic relationship?",
+    "optionA": "Mutualism",
+    "optionB": "Commensalism",
+    "optionC": "Parasitism",
+    "optionD": "Predation",
+    "correctAnswer": "Predation"
+  },
+  {
+    "title": "Biology",
+    "id": 51,
+    "question": "The part of the flower that attracts pollinators is the",
+    "optionA": "sepal",
+    "optionB": "petal",
+    "optionC": "stamen",
+    "optionD": "pistil",
+    "correctAnswer": "petal"
+  },
+  {
+    "title": "Biology",
+    "id": 52,
+    "question": "The process of shedding the exoskeleton in arthropods is called",
+    "optionA": "metamorphosis",
+    "optionB": "ecdysis",
+    "optionC": "moulting",
+    "optionD": "hatching",
+    "correctAnswer": "ecdysis"
+  },
+  {
+    "title": "Biology",
+    "id": 53,
+    "question": "Which of the following is a characteristic of mammals?",
+    "optionA": "Lay eggs",
+    "optionB": "Have feathers",
+    "optionC": "Have mammary glands",
+    "optionD": "Have gills",
+    "correctAnswer": "Have mammary glands"
+  },
+  {
+    "title": "Biology",
+    "id": 54,
+    "question": "The process by which organisms maintain a stable internal environment is called",
+    "optionA": "homeostasis",
+    "optionB": "metabolism",
+    "optionC": "respiration",
+    "optionD": "reproduction",
+    "correctAnswer": "homeostasis"
+  },
+  {
+    "title": "Biology",
+    "id": 55,
+    "question": "The scientist who discovered the circulation of blood was",
+    "optionA": "William Harvey",
+    "optionB": "Louis Pasteur",
+    "optionC": "Robert Koch",
+    "optionD": "Alexander Fleming",
+    "correctAnswer": "William Harvey"
+  },
+  {
+    "title": "Biology",
+    "id": 56,
+    "question": "The main function of the large intestine is to",
+    "optionA": "digest proteins",
+    "optionB": "absorb water",
+    "optionC": "produce bile",
+    "optionD": "absorb glucose",
+    "correctAnswer": "absorb water"
+  },
+  {
+    "title": "Biology",
+    "id": 57,
+    "question": "Which of the following is a decomposer?",
+    "optionA": "Grass",
+    "optionB": "Rabbit",
+    "optionC": "Fox",
+    "optionD": "Fungus",
+    "correctAnswer": "Fungus"
+  },
+  {
+    "title": "Biology",
+    "id": 58,
+    "question": "The process by which water moves from roots to leaves is due to",
+    "optionA": "root pressure and transpiration pull",
+    "optionB": "osmosis only",
+    "optionC": "capillary action only",
+    "optionD": "active transport only",
+    "correctAnswer": "root pressure and transpiration pull"
+  },
+  {
+    "title": "Biology",
+    "id": 59,
+    "question": "The part of the brain that controls breathing and heart rate is the",
+    "optionA": "cerebrum",
+    "optionB": "cerebellum",
+    "optionC": "medulla oblongata",
+    "optionD": "hypothalamus",
+    "correctAnswer": "medulla oblongata"
+  },
+  {
+    "title": "Biology",
+    "id": 60,
+    "question": "A group of similar cells that perform a specific function is called a",
+    "optionA": "organ",
+    "optionB": "tissue",
+    "optionC": "system",
+    "optionD": "organism",
+    "correctAnswer": "tissue"
+  },
+  {
+    "title": "Biology",
+    "id": 61,
+    "question": "The process by which plants bend towards light is called",
+    "optionA": "geotropism",
+    "optionB": "phototropism",
+    "optionC": "hydrotropism",
+    "optionD": "thigmotropism",
+    "correctAnswer": "phototropism"
+  },
+  {
+    "title": "Biology",
+    "id": 62,
+    "question": "Which of the following is a renewable natural resource?",
+    "optionA": "Coal",
+    "optionB": "Petroleum",
+    "optionC": "Forest",
+    "optionD": "Natural gas",
+    "correctAnswer": "Forest"
+  },
+  {
+    "title": "Biology",
+    "id": 63,
+    "question": "The process of converting ammonia to nitrites is carried out by",
+    "optionA": "nitrosomonas",
+    "optionB": "nitrobacter",
+    "optionC": "rhizobium",
+    "optionD": "azotobacter",
+    "correctAnswer": "nitrosomonas"
+  },
+  {
+    "title": "Biology",
+    "id": 64,
+    "question": "The disease caused by deficiency of Vitamin C is",
+    "optionA": "rickets",
+    "optionB": "scurvy",
+    "optionC": "beriberi",
+    "optionD": "night blindness",
+    "correctAnswer": "scurvy"
+  },
+  {
+    "title": "Biology",
+    "id": 65,
+    "question": "The part of the ear that converts sound vibrations into nerve impulses is the",
+    "optionA": "eardrum",
+    "optionB": "ossicles",
+    "optionC": "cochlea",
+    "optionD": "auditory nerve",
+    "correctAnswer": "cochlea"
+  },
+  {
+    "title": "Biology",
+    "id": 66,
+    "question": "Which of the following is NOT a function of the skeleton?",
+    "optionA": "Support",
+    "optionB": "Protection",
+    "optionC": "Production of blood cells",
+    "optionD": "Production of hormones",
+    "correctAnswer": "Production of hormones"
+  },
+  {
+    "title": "Biology",
+    "id": 67,
+    "question": "The process by which pollen is transferred from anther to stigma is called",
+    "optionA": "fertilization",
+    "optionB": "pollination",
+    "optionC": "germination",
+    "optionD": "dispersal",
+    "correctAnswer": "pollination"
+  },
+  {
+    "title": "Biology",
+    "id": 68,
+    "question": "The main function of the red blood cells is to",
+    "optionA": "fight disease",
+    "optionB": "carry oxygen",
+    "optionC": "clot blood",
+    "optionD": "produce antibodies",
+    "correctAnswer": "carry oxygen"
+  },
+  {
+    "title": "Biology",
+    "id": 69,
+    "question": "The part of the seed that develops into the root is the",
+    "optionA": "plumule",
+    "optionB": "radicle",
+    "optionC": "cotyledon",
+    "optionD": "testa",
+    "correctAnswer": "radicle"
+  },
+  {
+    "title": "Biology",
+    "id": 70,
+    "question": "Which of the following is an example of a monocotyledonous plant?",
+    "optionA": "Bean",
+    "optionB": "Maize",
+    "optionC": "Mango",
+    "optionD": "Orange",
+    "correctAnswer": "Maize"
+  },
+  {
+    "title": "Biology",
+    "id": 71,
+    "question": "The process of cell division that reduces the chromosome number by half is",
+    "optionA": "mitosis",
+    "optionB": "meiosis",
+    "optionC": "binary fission",
+    "optionD": "budding",
+    "correctAnswer": "meiosis"
+  },
+  {
+    "title": "Biology",
+    "id": 72,
+    "question": "The hormone that regulates blood sugar level is",
+    "optionA": "insulin",
+    "optionB": "adrenaline",
+    "optionC": "thyroxine",
+    "optionD": "estrogen",
+    "correctAnswer": "insulin"
+  },
+  {
+    "title": "Biology",
+    "id": 73,
+    "question": "The part of the human respiratory system where gas exchange occurs is the",
+    "optionA": "trachea",
+    "optionB": "bronchus",
+    "optionC": "alveolus",
+    "optionD": "pharynx",
+    "correctAnswer": "alveolus"
+  },
+  {
+    "title": "Biology",
+    "id": 74,
+    "question": "Which of the following is an example of an innate behavior?",
+    "optionA": "A dog learning to sit",
+    "optionB": "A bird building a nest",
+    "optionC": "A chimpanzee using a tool",
+    "optionD": "A human speaking a language",
+    "correctAnswer": "A bird building a nest"
+  },
+  {
+    "title": "Biology",
+    "id": 75,
+    "question": "The process by which plants respond to touch is called",
+    "optionA": "phototropism",
+    "optionB": "geotropism",
+    "optionC": "hydrotropism",
+    "optionD": "thigmotropism",
+    "correctAnswer": "thigmotropism"
+  },
+  {
+    "title": "Biology",
+    "id": 76,
+    "question": "The main function of the waxy cuticle on leaves is to",
+    "optionA": "absorb water",
+    "optionB": "reduce water loss",
+    "optionC": "attract insects",
+    "optionD": "produce food",
+    "correctAnswer": "reduce water loss"
+  },
+  {
+    "title": "Biology",
+    "id": 77,
+    "question": "Which of the following is a biotic component of an ecosystem?",
+    "optionA": "Soil",
+    "optionB": "Water",
+    "optionC": "Air",
+    "optionD": "Producer",
+    "correctAnswer": "Producer"
+  },
+  {
+    "title": "Biology",
+    "id": 78,
+    "question": "The process by which green plants release oxygen is a result of",
+    "optionA": "respiration",
+    "optionB": "photosynthesis",
+    "optionC": "transpiration",
+    "optionD": "fermentation",
+    "correctAnswer": "photosynthesis"
+  },
+  {
+    "title": "Biology",
+    "id": 79,
+    "question": "The scientist who proposed the theory of acquired characteristics was",
+    "optionA": "Charles Darwin",
+    "optionB": "Jean-Baptiste Lamarck",
+    "optionC": "Gregor Mendel",
+    "optionD": "Alfred Wallace",
+    "correctAnswer": "Jean-Baptiste Lamarck"
+  },
+  {
+    "title": "Biology",
+    "id": 80,
+    "question": "The part of the microscope that controls the amount of light is the",
+    "optionA": "eyepiece",
+    "optionB": "objective lens",
+    "optionC": "diaphragm",
+    "optionD": "stage",
+    "correctAnswer": "diaphragm"
+  },
+  {
+    "title": "Biology",
+    "id": 81,
+    "question": "Which of the following is a function of the lymphatic system?",
+    "optionA": "Transport oxygen",
+    "optionB": "Produce hormones",
+    "optionC": "Defend against disease",
+    "optionD": "Digest food",
+    "correctAnswer": "Defend against disease"
+  },
+  {
+    "title": "Biology",
+    "id": 82,
+    "question": "The process by which animals take in oxygen and release carbon dioxide is called",
+    "optionA": "photosynthesis",
+    "optionB": "respiration",
+    "optionC": "transpiration",
+    "optionD": "digestion",
+    "correctAnswer": "respiration"
+  },
+  {
+    "title": "Biology",
+    "id": 83,
+    "question": "The main function of the stomata is to",
+    "optionA": "absorb water",
+    "optionB": "exchange gases",
+    "optionC": "produce food",
+    "optionD": "support the leaf",
+    "correctAnswer": "exchange gases"
+  },
+  {
+    "title": "Biology",
+    "id": 84,
+    "question": "Which of the following is a sex-linked disorder?",
+    "optionA": "Down syndrome",
+    "optionB": "Hemophilia",
+    "optionC": "Sickle cell anemia",
+    "optionD": "Cystic fibrosis",
+    "correctAnswer": "Hemophilia"
+  },
+  {
+    "title": "Biology",
+    "id": 85,
+    "question": "The process by which organisms produce offspring is called",
+    "optionA": "growth",
+    "optionB": "respiration",
+    "optionC": "reproduction",
+    "optionD": "excretion",
+    "correctAnswer": "reproduction"
+  },
+  {
+    "title": "Biology",
+    "id": 86,
+    "question": "The part of the human eye that focuses light onto the retina is the",
+    "optionA": "cornea",
+    "optionB": "iris",
+    "optionC": "lens",
+    "optionD": "pupil",
+    "correctAnswer": "lens"
+  },
+  {
+    "title": "Biology",
+    "id": 87,
+    "question": "Which of the following is a function of the kidney?",
+    "optionA": "Produce bile",
+    "optionB": "Regulate blood sugar",
+    "optionC": "Filter blood",
+    "optionD": "Produce insulin",
+    "correctAnswer": "Filter blood"
+  },
+  {
+    "title": "Biology",
+    "id": 88,
+    "question": "The process by which DNA makes a copy of itself is called",
+    "optionA": "transcription",
+    "optionB": "translation",
+    "optionC": "replication",
+    "optionD": "mutation",
+    "correctAnswer": "replication"
+  },
+  {
+    "title": "Biology",
+    "id": 89,
+    "question": "The main function of the ribosomes is to",
+    "optionA": "produce energy",
+    "optionB": "synthesize proteins",
+    "optionC": "store genetic information",
+    "optionD": "transport materials",
+    "correctAnswer": "synthesize proteins"
+  },
+  {
+    "title": "Biology",
+    "id": 90,
+    "question": "Which of the following is an example of a connective tissue?",
+    "optionA": "Blood",
+    "optionB": "Skin",
+    "optionC": "Brain",
+    "optionD": "Muscle",
+    "correctAnswer": "Blood"
+  },
+  {
+    "title": "Biology",
+    "id": 91,
+    "question": "The process by which plants release water vapor is called",
+    "optionA": "respiration",
+    "optionB": "transpiration",
+    "optionC": "photosynthesis",
+    "optionD": "guttation",
+    "correctAnswer": "transpiration"
+  },
+  {
+    "title": "Biology",
+    "id": 92,
+    "question": "The main function of the large intestine is to",
+    "optionA": "digest proteins",
+    "optionB": "absorb water",
+    "optionC": "produce bile",
+    "optionD": "absorb glucose",
+    "correctAnswer": "absorb water"
+  },
+  {
+    "title": "Biology",
+    "id": 93,
+    "question": "Which of the following is a function of the liver?",
+    "optionA": "Produce insulin",
+    "optionB": "Store glycogen",
+    "optionC": "Filter urine",
+    "optionD": "Pump blood",
+    "correctAnswer": "Store glycogen"
+  },
+  {
+    "title": "Biology",
+    "id": 94,
+    "question": "The process by which plants bend towards light is called",
+    "optionA": "geotropism",
+    "optionB": "phototropism",
+    "optionC": "hydrotropism",
+    "optionD": "thigmotropism",
+    "correctAnswer": "phototropism"
+  },
+  {
+    "title": "Biology",
+    "id": 95,
+    "question": "The main function of the root is to",
+    "optionA": "produce food",
+    "optionB": "absorb water and minerals",
+    "optionC": "attract pollinators",
+    "optionD": "produce seeds",
+    "correctAnswer": "absorb water and minerals"
+  },
+  {
+    "title": "Biology",
+    "id": 96,
+    "question": "Which of the following is a function of the skin?",
+    "optionA": "Produce bile",
+    "optionB": "Regulate body temperature",
+    "optionC": "Produce insulin",
+    "optionD": "Pump blood",
+    "correctAnswer": "Regulate body temperature"
+  },
+  {
+    "title": "Biology",
+    "id": 97,
+    "question": "The process by which animals break down food into simpler substances is called",
+    "optionA": "respiration",
+    "optionB": "digestion",
+    "optionC": "excretion",
+    "optionD": "reproduction",
+    "correctAnswer": "digestion"
+  },
+  {
+    "title": "Biology",
+    "id": 98,
+    "question": "The main function of the flower is to",
+    "optionA": "produce food",
+    "optionB": "absorb water",
+    "optionC": "produce seeds",
+    "optionD": "support the plant",
+    "correctAnswer": "produce seeds"
+  },
+  {
+    "title": "Biology",
+    "id": 99,
+    "question": "Which of the following is a function of the stem?",
+    "optionA": "Absorb water",
+    "optionB": "Produce food",
+    "optionC": "Transport materials",
+    "optionD": "Anchor the plant",
+    "correctAnswer": "Transport materials"
+  },
+  {
+    "title": "Biology",
+    "id": 100,
+    "question": "The process by which plants make their own food is called",
+    "optionA": "respiration",
+    "optionB": "photosynthesis",
+    "optionC": "transpiration",
+    "optionD": "digestion",
+    "correctAnswer": "photosynthesis"
+  },
+ {
+    "title": "Biology",
+    "id": 101,
+    "question": "Which of the following words look like rice plant morphologically?",
+    "optionA": "maize grain",
+    "optionB": "weedy rice",
+    "optionC": "elephant rice",
+    "optionD": "sugar cane plant",
+    "correctAnswer": "weedy rice"
+  },
+  {
+    "title": "Biology",
+    "id": 102,
+    "question": "Saline mixture is used as a drip instead of water because.",
+    "optionA": "Saline mixture kills bacteria",
+    "optionB": "saline mixture normalizes blood temperature",
+    "optionC": "there is much water in the blood already",
+    "optionD": "saline mixture is important for fluid balance",
+    "correctAnswer": "saline mixture is important for fluid balance"
+  },
+  {
+    "title": "Biology",
+    "id": 103,
+    "question": "Which of the following bone is found in the first region of the cervical vertebrae?",
+    "optionA": "atlas",
+    "optionB": "axis",
+    "optionC": "thoracic vertebrae",
+    "optionD": "",
+    "correctAnswer": "atlas"
+  },
+  {
+    "title": "Biology",
+    "id": 104,
+    "question": "The straightening of a hinge joint is called ___",
+    "optionA": "flexion",
+    "optionB": "extension",
+    "optionC": "juncture",
+    "optionD": "",
+    "correctAnswer": "extension"
+  },
+  {
+    "title": "Biology",
+    "id": 105,
+    "question": "What parts of the bone have the pectoral girdle.",
+    "optionA": "caudal vertebrae",
+    "optionB": "sacral vertebrae",
+    "optionC": "scapula and copula",
+    "optionD": "clavicle and scapula",
+    "correctAnswer": "clavicle and scapula"
+  },
+  {
+    "title": "Biology",
+    "id": 106,
+    "question": "The most important ecological factor in a terrestrial habitat is ___",
+    "optionA": "precipitation",
+    "optionB": "temperature",
+    "optionC": "salinity",
+    "optionD": "Topography",
+    "correctAnswer": "temperature"
+  },
+  {
+    "title": "Biology",
+    "id": 107,
+    "question": "The following ecological instruments are used for measuring population except",
+    "optionA": "poorer",
+    "optionB": "sweep-net",
+    "optionC": "quadrant",
+    "optionD": "photometer",
+    "correctAnswer": "photometer"
+  },
+  {
+    "title": "Biology",
+    "id": 108,
+    "question": "The hierarchical arrangement of classification of humans is ___",
+    "optionA": "animalia, chordate, mammalia, primate, hominidae, homo, sapiens",
+    "optionB": "animals, mammals, chordate, primate, hominidae, hornis, sapiens",
+    "optionC": "Animalia Chordata Mammalia, primate homonidae homo homo sapiens",
+    "optionD": "",
+    "correctAnswer": "animalia, chordate, mammalia, primate, hominidae, homo, sapiens"
+  },
+  {
+    "title": "Biology",
+    "id": 109,
+    "question": "___ Is the function of mitochondrion.",
+    "optionA": "clorosis",
+    "optionB": "respiratory process",
+    "optionC": "cell division",
+    "optionD": "metabolism",
+    "correctAnswer": "respiratory process"
+  }   ,
+   {
+    "title": "Biology",
+    "id": 110,
+    "question": "The pathogen that causes smallpox is",
+    "optionA": "pleomavirus",
+    "optionB": "paramyxovirus",
+    "optionC": "herpesvirus",
+    "optionD": "poxvirus",
+    "correctAnswer": "poxvirus"
+  },
+  {
+    "title": "Biology",
+    "id": 111,
+    "question": "The vector for the malaria parasite is",
+    "optionA": "female aedes mosquito",
+    "optionB": "female Anopheles mosquito",
+    "optionC": "female culex mosquito",
+    "optionD": "female culex mosquito",
+    "correctAnswer": "female Anopheles mosquito"
+  },
+  {
+    "title": "Biology",
+    "id": 112,
+    "question": "Which of the following pairs are social insects?",
+    "optionA": "Termite and locust",
+    "optionB": "Ants and cockroach",
+    "optionC": "Cockroach and bee",
+    "optionD": "Termite and bee",
+    "correctAnswer": "Termite and bee"
+  },
+  {
+    "title": "Biology",
+    "id": 113,
+    "question": "Which of the following is NOT a method of conserving wild flora?",
+    "optionA": "Indiscriminate poaching",
+    "optionB": "Establishment of zoological gardens",
+    "optionC": "Enacting wildlife conservation laws",
+    "optionD": "Establishment of game reserves",
+    "correctAnswer": "Indiscriminate poaching"
+  },
+  {
+    "title": "Biology",
+    "id": 114,
+    "question": "The type of asexual reproduction that is common to both Paramecium and Protist is",
+    "optionA": "fragmentation",
+    "optionB": "budding",
+    "optionC": "sporulation",
+    "optionD": "fission",
+    "correctAnswer": "fission"
+  },
+  {
+    "title": "Biology",
+    "id": 115,
+    "question": "The micro-organisms that causes Typhoid disease is",
+    "optionA": "trypanosome gambiense",
+    "optionB": "Salmonella typhi",
+    "optionC": "entamoeba histolytica",
+    "optionD": "plasmodium sp",
+    "correctAnswer": "Salmonella typhi"
+  }
+]

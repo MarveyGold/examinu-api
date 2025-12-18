@@ -1,0 +1,502 @@
+[
+    {
+      "title": "Government",
+      "id": 1,
+      "question": "Which of the following countries does not operate a federal constitution?",
+      "optionA": "U.S.A",
+      "optionB": "Canada",
+      "optionC": "Nigeria",
+      "optionD": "France",
+      "correctAnswer": "France"
+    },
+    {
+      "title": "Government",
+      "id": 2,
+      "question": "The transfer of authority to local government council is known as",
+      "optionA": "Demarcation",
+      "optionB": "Delegation",
+      "optionC": "Fusion",
+      "optionD": "Devolution",
+      "correctAnswer": "Devolution"
+    },
+    {
+      "title": "Government",
+      "id": 3,
+      "question": "A popular principle of colonial administration in British West Africa was",
+      "optionA": "Indirect rule",
+      "optionB": "Paternalism",
+      "optionC": "Westernization",
+      "optionD": "Assimilation",
+      "correctAnswer": "Indirect rule"
+    },
+    {
+      "title": "Government",
+      "id": 4,
+      "question": "The first Governor-General of colonial Nigeria was",
+      "optionA": "Sir Hugh Clifford",
+      "optionB": "Sir James Robertson",
+      "optionC": "Dr. Nnamdi Azikiwe",
+      "optionD": "Lord Lugard",
+      "correctAnswer": "Lord Lugard"
+    },
+    {
+      "title": "Government",
+      "id": 5,
+      "question": "Lagos became a Crown Colony in",
+      "optionA": "1900",
+      "optionB": "1914",
+      "optionC": "1886",
+      "optionD": "1881",
+      "correctAnswer": "1886"
+    },
+    {
+      "title": "Government",
+      "id": 6,
+      "question": "The first general election in Nigeria was held in",
+      "optionA": "1933",
+      "optionB": "1952",
+      "optionC": "1955",
+      "optionD": "1959",
+      "correctAnswer": "1959"
+    },
+    {
+      "title": "Government",
+      "id": 7,
+      "question": "A social system in which power derives from control over land is called",
+      "optionA": "Oligarchy",
+      "optionB": "Feudalism",
+      "optionC": "Socialism",
+      "optionD": "Presidential",
+      "correctAnswer": "Feudalism"
+    },
+    {
+      "title": "Government",
+      "id": 8,
+      "question": "Pre-colonial Igbo society was",
+      "optionA": "Centralized",
+      "optionB": "Acephalous",
+      "optionC": "Feudal",
+      "optionD": "Capitalist",
+      "correctAnswer": "Acephalous"
+    },
+    {
+      "title": "Government",
+      "id": 9,
+      "question": "When did Nigeria adopt the nineteen-state structure?",
+      "optionA": "1960",
+      "optionB": "1966",
+      "optionC": "1969",
+      "optionD": "1976",
+      "correctAnswer": "1976"
+    },
+    {
+      "title": "Government",
+      "id": 10,
+      "question": "When a state is subject to no other authority, it is said to be",
+      "optionA": "Powerful",
+      "optionB": "Legitimate",
+      "optionC": "Authoritative",
+      "optionD": "Sovereign",
+      "correctAnswer": "Sovereign"
+    },
+    {
+      "title": "Government",
+      "id": 11,
+      "question": "A limited geographical territory with a population and sovereign authority is",
+      "optionA": "Society",
+      "optionB": "Community",
+      "optionC": "State",
+      "optionD": "Government",
+      "correctAnswer": "State"
+    },
+    {
+      "title": "Government",
+      "id": 12,
+      "question": "In British parliamentary system, the Monarch can be referred to as the",
+      "optionA": "Parliament",
+      "optionB": "Queen and parliament",
+      "optionC": "Queen's parliament",
+      "optionD": "Queen's assembly",
+      "correctAnswer": "Queen and parliament"
+    },
+    {
+      "title": "Government",
+      "id": 13,
+      "question": "A government by people with pride of birth is called",
+      "optionA": "Democracy",
+      "optionB": "Aristocracy",
+      "optionC": "Autocracy",
+      "optionD": "Monarchy",
+      "correctAnswer": "Aristocracy"
+    },
+    {
+      "title": "Government",
+      "id": 14,
+      "question": "In Nigeria, representations of states in the Upper House is based on",
+      "optionA": "Population",
+      "optionB": "Ethnicity",
+      "optionC": "Equity",
+      "optionD": "Equality",
+      "correctAnswer": "Equality"
+    },
+    {
+      "title": "Government",
+      "id": 15,
+      "question": "Which organ of government is referred to as the last hope of the common man?",
+      "optionA": "The legislature",
+      "optionB": "The parliament",
+      "optionC": "The executive",
+      "optionD": "The judiciary",
+      "correctAnswer": "The judiciary"
+    },
+    {
+      "title": "Government",
+      "id": 16,
+      "question": "A Unitary System of Government leads to",
+      "optionA": "Too much expenditure",
+      "optionB": "Duplication of resources",
+      "optionC": "Delay in passage of bills",
+      "optionD": "Quick passage of bills",
+      "correctAnswer": "Quick passage of bills"
+    },
+    {
+      "title": "Government",
+      "id": 17,
+      "question": "In parliamentary system of government, powers of organs of government are",
+      "optionA": "Diffused",
+      "optionB": "Separated",
+      "optionC": "Fused",
+      "optionD": "Divided",
+      "correctAnswer": "Fused"
+    },
+    {
+      "title": "Government",
+      "id": 18,
+      "question": "Fascism is associated with:",
+      "optionA": "Carl Marx",
+      "optionB": "Benito Mussolini",
+      "optionC": "Adolf Hitler",
+      "optionD": "Mao Tse Tung",
+      "correctAnswer": "Benito Mussolini"
+    },
+    {
+      "title": "Government",
+      "id": 19,
+      "question": "A written constitution must contain a",
+      "optionA": "Dialogue",
+      "optionB": "Prologue",
+      "optionC": "Preamble",
+      "optionD": "Epilogue",
+      "correctAnswer": "Preamble"
+    },
+    {
+      "title": "Government",
+      "id": 20,
+      "question": "Checks and Balances empower the Judiciary to",
+      "optionA": "Interpret the constitution",
+      "optionB": "Apply the law",
+      "optionC": "Declare null and void actions of other organs",
+      "optionD": "Execute the law",
+      "correctAnswer": "Declare null and void actions of other organs"
+    },
+    {
+      "title": "Government",
+      "id": 21,
+      "question": "Government by the few is",
+      "optionA": "Dictatorship",
+      "optionB": "Monarchy",
+      "optionC": "Oligarchy",
+      "optionD": "Autocracy",
+      "correctAnswer": "Oligarchy"
+    },
+    {
+      "title": "Government",
+      "id": 22,
+      "question": "The primary function of the Judiciary is to",
+      "optionA": "Make laws",
+      "optionB": "Protect the citizens",
+      "optionC": "Interpret laws",
+      "optionD": "Execute laws",
+      "correctAnswer": "Interpret laws"
+    },
+    {
+      "title": "Government",
+      "id": 23,
+      "question": "A characteristic feature of communism is",
+      "optionA": "Free enterprise",
+      "optionB": "Liberal democracy",
+      "optionC": "Dictatorship",
+      "optionD": "Multi-party system",
+      "correctAnswer": "Dictatorship"
+    },
+    {
+      "title": "Government",
+      "id": 24,
+      "question": "A tax law is a",
+      "optionA": "Private bill",
+      "optionB": "Speaker's bill",
+      "optionC": "Public bill",
+      "optionD": "Judicial bill",
+      "correctAnswer": "Public bill"
+    },
+    {
+      "title": "Government",
+      "id": 25,
+      "question": "Nigeria is member of",
+      "optionA": "OPEC, NATO and ECOWAS",
+      "optionB": "O.A.U, the U.N.O and ECOWAS",
+      "optionC": "ECOWAS, NATO and O.A.U",
+      "optionD": "The Commonwealth of Nations, OPEC and the O.A.U",
+      "correctAnswer": "The Commonwealth of Nations, OPEC and the O.A.U"
+    },
+    {
+      "title": "Government",
+      "id": 26,
+      "question": "The Yoruba traditional government system was",
+      "optionA": "Egalitarian",
+      "optionB": "Republican",
+      "optionC": "Democratic",
+      "optionD": "Monarchical",
+      "correctAnswer": "Monarchical"
+    },
+    {
+      "title": "Government",
+      "id": 27,
+      "question": "The highest court in Nigeria before 1963 was the",
+      "optionA": "Supreme Court",
+      "optionB": "High Court",
+      "optionC": "Judicial Committee of the Privy Council",
+      "optionD": "Court of Appeal",
+      "correctAnswer": "Judicial Committee of the Privy Council"
+    },
+    {
+      "title": "Government",
+      "id": 28,
+      "question": "Political authority refers to the",
+      "optionA": "Ability to effect political action",
+      "optionB": "Capacity to produce desired political results",
+      "optionC": "Capacity to reshape the political behaviour of citizens",
+      "optionD": "Recognized right to exercise political power",
+      "correctAnswer": "Recognized right to exercise political power"
+    },
+    {
+      "title": "Government",
+      "id": 29,
+      "question": "The Civil service belongs to the organ of government called the",
+      "optionA": "Legislature",
+      "optionB": "Executive",
+      "optionC": "Judiciary",
+      "optionD": "Parastatals",
+      "correctAnswer": "Executive"
+    },
+    {
+      "title": "Government",
+      "id": 30,
+      "question": "Gerrymandering means",
+      "optionA": "The second ballot system",
+      "optionB": "Single transferable vote",
+      "optionC": "The manipulation of constituency boundaries",
+      "optionD": "The tyranny of the majority",
+      "correctAnswer": "The manipulation of constituency boundaries"
+    },
+    {
+      "title": "Government",
+      "id": 31,
+      "question": "In Nigeria, the function of the Council of States is",
+      "optionA": "Judiciary",
+      "optionB": "Investigative",
+      "optionC": "Legislative",
+      "optionD": "Advisory",
+      "correctAnswer": "Advisory"
+    },
+    {
+      "title": "Government",
+      "id": 32,
+      "question": "The highest policy making body of the O.A.U is the",
+      "optionA": "Economic and Social Commission",
+      "optionB": "Council of Ministers",
+      "optionC": "General Secretariat",
+      "optionD": "Assembly of Heads of State and Government",
+      "correctAnswer": "Assembly of Heads of State and Government"
+    },
+    {
+      "title": "Government",
+      "id": 33,
+      "question": "A society that is politically organized under a government is called a",
+      "optionA": "Sovereign state",
+      "optionB": "Community",
+      "optionC": "National state",
+      "optionD": "Polity",
+      "correctAnswer": "Polity"
+    },
+    {
+      "title": "Government",
+      "id": 34,
+      "question": "One of the main functions of Political party is",
+      "optionA": "Political evaluation",
+      "optionB": "Interest aggregation",
+      "optionC": "Political accountability",
+      "optionD": "Interest determination",
+      "correctAnswer": "Interest aggregation"
+    },
+    {
+      "title": "Government",
+      "id": 35,
+      "question": "The Political party that replaced NNDP before Independence was",
+      "optionA": "NYM",
+      "optionB": "NCNC",
+      "optionC": "UNDP",
+      "optionD": "AG",
+      "correctAnswer": "NCNC"
+    },
+    {
+      "title": "Government",
+      "id": 36,
+      "question": "The first minority state to be created in the Nigeria federation was",
+      "optionA": "Benue-Plateau",
+      "optionB": "Cross River",
+      "optionC": "Kwara",
+      "optionD": "Mid-West",
+      "correctAnswer": "Mid-West"
+    },
+    {
+      "title": "Government",
+      "id": 37,
+      "question": "The committee that recommended Abuja as the new Federal Capital was headed by",
+      "optionA": "Graham Douglas",
+      "optionB": "Mamman Nasir",
+      "optionC": "Rotimi Williams",
+      "optionD": "Akinola Aguda",
+      "correctAnswer": "Akinola Aguda"
+    },
+    {
+      "title": "Government",
+      "id": 38,
+      "question": "The major strategy used by OPEC to influence Oil price is by",
+      "optionA": "Determining the quantity of Oil to be produced at any given period",
+      "optionB": "Influencing buyers at the International market to buy at high price",
+      "optionC": "Allowing member countries to produce at their discretion",
+      "optionD": "Increasing the supply of the commodities",
+      "correctAnswer": "Determining the quantity of Oil to be produced at any given period"
+    },
+    {
+      "title": "Government",
+      "id": 39,
+      "question": "Power is understood to mean the",
+      "optionA": "Right to compel obedience",
+      "optionB": "Capacity to compel obedience",
+      "optionC": "Relationship between the government and the people",
+      "optionD": "Desire to seize the State apparatus",
+      "correctAnswer": "Capacity to compel obedience"
+    },
+    {
+      "title": "Government",
+      "id": 40,
+      "question": "The executive arm of government includes the",
+      "optionA": "Police",
+      "optionB": "Court",
+      "optionC": "National Assembly",
+      "optionD": "Senate President",
+      "correctAnswer": "Police"
+    },
+    {
+      "title": "Government",
+      "id": 41,
+      "question": "Laws made by the Attorney-General and Minister of Justice are called",
+      "optionA": "Temporary laws",
+      "optionB": "Bills of attainder",
+      "optionC": "Case laws",
+      "optionD": "Ex post facto laws",
+      "correctAnswer": "Case laws"
+    },
+    {
+      "title": "Government",
+      "id": 42,
+      "question": "Nigeria adopted the nineteen-state structure in",
+      "optionA": "1960",
+      "optionB": "1966",
+      "optionC": "1969",
+      "optionD": "1976",
+      "correctAnswer": "1976"
+    },
+    {
+      "title": "Government",
+      "id": 43,
+      "question": "The OAU is founded on the principle of",
+      "optionA": "Settlement of international disputes by armed struggles",
+      "optionB": "Justifiable interference in the domestic affairs of members state",
+      "optionC": "Sovereign equality of member states",
+      "optionD": "Equal contribution by member states",
+      "correctAnswer": "Sovereign equality of member states"
+    },
+    {
+      "title": "Government",
+      "id": 44,
+      "question": "One of the achievements of ECOWAS is the",
+      "optionA": "Eradication of colonialism",
+      "optionB": "Adoption of vehicle insurance scheme",
+      "optionC": "Settlement of Liberian refugees",
+      "optionD": "Respect for human rights",
+      "correctAnswer": "Adoption of vehicle insurance scheme"
+    },
+    {
+      "title": "Government",
+      "id": 45,
+      "question": "The most distinguished characteristics of the state is",
+      "optionA": "Government",
+      "optionB": "Population",
+      "optionC": "Territory",
+      "optionD": "Sovereignty",
+      "correctAnswer": "Sovereignty"
+    },
+    {
+      "title": "Government",
+      "id": 46,
+      "question": "In a democracy, ultimate authority resides in the",
+      "optionA": "Electorate",
+      "optionB": "Head of State",
+      "optionC": "People",
+      "optionD": "Armed forces",
+      "correctAnswer": "People"
+    },
+    {
+      "title": "Government",
+      "id": 47,
+      "question": "Ceremonial and executive powers are fused in the",
+      "optionA": "Parliamentary system of government",
+      "optionB": "Presidential system of government",
+      "optionC": "Federal system of government",
+      "optionD": "Unitary system of government",
+      "correctAnswer": "Presidential system of government"
+    },
+    {
+      "title": "Government",
+      "id": 48,
+      "question": "Citizenship refers to the",
+      "optionA": "Indigenous member of a state",
+      "optionB": "Legal status of a member of a state",
+      "optionC": "Highest position in a state",
+      "optionD": "Social status of a person in a state",
+      "correctAnswer": "Legal status of a member of a state"
+    },
+    {
+      "title": "Government",
+      "id": 49,
+      "question": "Nigeria's relations with African countries are underscored by its policy of",
+      "optionA": "Non-alignment",
+      "optionB": "Political diplomacy",
+      "optionC": "Afro-centralism",
+      "optionD": "Peaceful coexistence",
+      "correctAnswer": "Afro-centralism"
+    },
+    {
+      "title": "Government",
+      "id": 50,
+      "question": "The two leaders that played the most prominent roles in the formation of the ECOWAS were",
+      "optionA": "Acheampong and Jawara",
+      "optionB": "Kountche and Senghor",
+      "optionC": "Kerekou and Tubman",
+      "optionD": "Gowon and Eyadema",
+      "correctAnswer": "Gowon and Eyadema"
+    }
+]
