@@ -10,9 +10,9 @@ await app.register(cors, {
 });
 
 const filePath = process.cwd() + `/data/data.json`;
-app.get('/api/data', async () => {
-  const file = fs.readFileSync(filePath, 'utf8');
+const file = fs.readFileSync(filePath, 'utf8');
   const data = JSON.parse(file);
+app.get('/api/data', async () => {
   return data.map(f => f.name)
 });
 app.listen({ port: 8080, host: '0.0.0.0'}, () => {
