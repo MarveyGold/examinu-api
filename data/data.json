@@ -45,16 +45,16 @@
                 "name": "Department of Chemistry",
                 "code": "CHM",
                 "courses": {
-                  "100level": [""],
-                  "200level": [""]
+                  "100level": [],
+                  "200level": []
             }
             },
             {
                 "name": "Department of Statistics",
                 "code": "STA",
                 "courses": {
-                  "100level": [""],
-                  "200level": [""]
+                  "100level": [],
+                  "200level": []
             }
 
             },
@@ -62,8 +62,8 @@
                 "name": "Department of Geology",
                 "code": "GLY",
                  "courses": {
-                  "100level": [""],
-                  "200level": [""]
+                  "100level": [],
+                  "200level": []
             }
 
             },
@@ -71,8 +71,8 @@
                 "name": "Department of Mathematics",
                 "code": "MTH",
                 "courses": {
-                  "100level": [""],
-                  "200level": [""]
+                  "100level": [],
+                  "200level": []
             }
 
 
@@ -81,8 +81,8 @@
                 "name": "Department of Physics",
                 "code": "PHY", 
                 "courses": {
-                  "100level": [""],
-                  "200level": [""]
+                  "100level": [],
+                  "200level": []
             }
 
             }
@@ -149,7 +149,7 @@
     },
     {
         "name": "Faculty of Social Sciences",
-        "code": "SOSSA"
+        "code": "SOSSA",
         "departments": [
             {
     "name": "Department of Economics",
