@@ -124,6 +124,12 @@
     {
         "name": "Faculty of Management Science",
         "code": "MGS"
+        "departments": [
+            {
+                "name": "Department of Accounting",
+                "code": "ACC"
+            }
+        ]
     },
     {
         "name": "Faculty of Pharmacy",
@@ -144,5 +150,20 @@
     {
         "name": "Faculty of Social Sciences",
         "code": "SOSSA"
+        "departments": [
+            {
+                "name": "Department of Economics",
+                "code": "ECO",
+                "courses": {
+                    "100level": [
+                        {
+                            "name": "Macroeconomics",
+                            "code": "eco101"
+                        },
+                        {}
+                    ]
+                }
+            }
+        ]
     }
 ]
