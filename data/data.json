@@ -123,7 +123,7 @@
     },
     {
         "name": "Faculty of Management Science",
-        "code": "MGS"
+        "code": "MGS",
         "departments": [
             {
                 "name": "Department of Accounting",
@@ -152,17 +152,69 @@
         "code": "SOSSA"
         "departments": [
             {
-                "name": "Department of Economics",
-                "code": "ECO",
-                "courses": {
-                    "100level": [
-                        {
-                            "name": "Macroeconomics",
-                            "code": "eco101"
-                        },
-                        {}
-                    ]
-                }
+    "name": "Department of Economics",
+    "code": "ECO",
+    "courses": {
+        "100level": [
+            {
+                "name": "Macroeconomics",
+                "code": "eco101"
+            },
+            {
+                "name": "Mathematics for Economists I",
+                "code": "eco103"
+            },
+            {
+                "name": "Statistics for Economists I",
+                "code": "eco105"
+            },
+            {
+                "name": "Introduction to Political Science",
+                "code": "pol101"
+            },
+            {
+                "name": "Introduction to Sociology",
+                "code": "soc101"
+            },
+            {
+                "name": "Principles of Accounting",
+                "code": "acc101"
+            },
+            {
+                "name": "Introduction to Business",
+                "code": "bus101"
+            },
+            {
+                "name": "Microeconomics",
+                "code": "eco102"
+            },
+            {
+                "name": "Mathematics for Economists II",
+                "code": "eco104"
+            },
+            {
+                "name": "Statistics for Economists II",
+                "code": "eco106"
+            },
+            {
+                "name": "Nigerian Government and Politics",
+                "code": "pol102"
+            },
+            {
+                "name": "Sociology of Development",
+                "code": "soc102"
+            },
+            {
+                "name": "Financial Accounting",
+                "code": "acc102"
+            },
+            {
+                "name": "Business Management",
+                "code": "bus102"
+            }
+        ],
+        "200level": []
+    }
             }
         ]
     }
