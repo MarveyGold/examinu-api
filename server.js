@@ -1,7 +1,6 @@
 import Fastify, { fastify } from 'fastify';
 import fs from 'fs';
 import cors from '@fastify/cors';
-
 const app = Fastify();
 
 await app.register(cors, {
@@ -11,7 +10,7 @@ await app.register(cors, {
 
 const filePath = process.cwd() + `/data/data.json`;
 const file = fs.readFileSync(filePath, 'utf8');
-  const data = JSON.parse(file);
+const data = JSON.parse(file);
 app.get('/', async () => {
   return "Welcome to ExaminU's API"
 });
@@ -24,6 +23,14 @@ app.get('/api/faculty/names', async () => {
 app.get('/api/faculty/codes', async () => {
   return data.map(f => f.code)
 });
-app.listen({ port: 8080, host: '0.0.0.0'}, () => {
+app.get('/api/faculties/:faculty/names', async (request, reply) => {
+  const { faculty } = request.params;
+  return data.find(f => f.code == faculty).departments.map(d => d.name)
+});
+app.get('/api/faculties/:faculty/codes', async (request, reply) => {
+  const { faculty } = request.params;
+  return data.find(f => f.code == faculty).departments.map(d => d.code)
+});
+app.listen({ port: 8080, host: '0.0.0.0' }, () => {
   console.log("server started on port 8080")
 })
