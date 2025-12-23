@@ -1,36 +1,56 @@
-import Fastify, { fastify } from 'fastify';
-import fs from 'fs';
-import cors from '@fastify/cors';
-const app = Fastify();
+'use strict'
 
-await app.register(cors, {
-  origin: 'http://localhost:3000',
-  methods: ['GET', 'POST']
-});
+const fs = require('fs')
+const path = require('path')
 
-const filePath = process.cwd() + `/data/data.json`;
-const file = fs.readFileSync(filePath, 'utf8');
-const data = JSON.parse(file);
-app.get('/', async () => {
-  return "Welcome to ExaminU's API"
-});
-app.get('/api/', async () => {
-  return data
-});
-app.get('/api/faculty/names', async () => {
-  return data.map(f => f.name)
-});
-app.get('/api/faculty/codes', async () => {
-  return data.map(f => f.code)
-});
-app.get('/api/faculties/:faculty/names', async (request, reply) => {
-  const { faculty } = request.params;
-  return data.find(f => f.code == faculty).departments.map(d => d.name)
-});
-app.get('/api/faculties/:faculty/codes', async (request, reply) => {
-  const { faculty } = request.params;
-  return data.find(f => f.code == faculty).departments.map(d => d.code)
-});
-app.listen({ port: 8080, host: '0.0.0.0' }, () => {
-  console.log("server started on port 8080")
-})
+module.exports = async function(app, opts) {
+
+  app.register(require('@fastify/cors'), {
+    origin: 'http://localhost:3000',
+    methods: ['GET', 'POST']
+  })
+
+
+  const filePath = path.join(process.cwd(), 'data', 'data.json')
+  const file = fs.readFileSync(filePath, 'utf8')
+  const data = JSON.parse(file)
+
+
+  app.get('/', async () => {
+    return { message: "Welcome to Examinus API" }
+  })
+
+  app.get('/api', async () => {
+    return data
+  })
+
+  app.get('/api/faculty/names', async () => {
+    return data.map(f => f.name)
+  })
+
+  app.get('/api/faculty/codes', async () => {
+    return data.map(f => f.code)
+  })
+
+
+  app.get('/api/:faculty/departments/names', async (request, reply) => {
+    const { faculty } = request.params
+    const foundFaculty = data.find(f => f.code === faculty)
+    if (!foundFaculty) {
+      reply.code(404).send({ error: 'Faculty not found' })
+      return
+    }
+    return foundFaculty.departments.map(d => d.name)
+  })
+
+
+  app.get('/api/:faculty/departments/codes', async (request, reply) => {
+    const { faculty } = request.params
+    const foundFaculty = data.find(f => f.code === faculty)
+    if (!foundFaculty) {
+      reply.code(404).send({ error: 'Faculty not found' })
+      return
+    }
+    return foundFaculty.departments.map(d => d.code)
+  })
+}
