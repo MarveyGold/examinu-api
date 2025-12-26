@@ -1,6 +1,7 @@
 'use strict'
 
 const fs = require('fs')
+const { request } = require('https')
 const path = require('path')
 
 module.exports = async function(app, opts) {
@@ -53,4 +54,31 @@ module.exports = async function(app, opts) {
     }
     return foundFaculty.departments.map(d => d.code)
   })
+  app.get('/api/:faculty/name', async (request, reply) => {
+    const { faculty } = request.params
+    const foundFaculty = data.find(f => f.code === faculty)
+    if (!foundFaculty) {
+      reply.code(404).send({ error: 'Faculty not found' })
+      return
+    }
+    return foundFaculty.name
+  }
+  )
+  app.get('/api/:faculty/:department/name', async (request) => {
+    const { faculty, department } = request.params;
+    const Faculty = data.find(f => f.code === faculty);
+    const Departments = Faculty.departments
+    const Department = Departments.find(d => d.code === department)
+
+    return Department.name
+  })
+  app.get('/api/:faculty/:department/courses', async (request) => {
+    const { faculty, department } = request.params;
+    const Faculty = data.find(f => f.code === faculty);
+    const Departments = Faculty.departments
+    const Department = Departments.find(d => d.code === department)
+
+    return Department.courses
+  })
+
 }
