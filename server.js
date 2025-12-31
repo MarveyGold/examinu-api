@@ -7,7 +7,10 @@ const path = require('path')
 module.exports = async function(app, opts) {
 
   app.register(require('@fastify/cors'), {
-    origin: 'http://localhost:5173',
+    origin: [
+      'http://localhost:5173',
+      'https://examinu.vercel.app'
+    ],
     methods: ['GET', 'POST']
   })
 
