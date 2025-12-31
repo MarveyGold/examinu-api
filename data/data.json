@@ -1,221 +1,243 @@
 [
-    {
-        "name": "Faculty of Physical Science",
-        "code": "PSC",
-        "departments": [
-                {
-                "name": "Department of Computer Science",
-                "code": "CSC",
-                "courses": {
-                  "100level": [
-                    {"name": "Introduction to Computing",
-                      "code":"cos101" 
-                    },
-                    {
-                      "name": "Algebra and Trigonometry",
-                      "code": "mth101"
-                    },
-                    {
-                      "name": "Descriptive Statistics",
-                      "code": "sta111"
-                    }
-                    ],
-                  "200level": [
-                    {
-                      "name": "Computer Programming II",
-                      "code": "cos202"
-                    },
-                    {
-                      "name": "Cybercrime, Law and Countermeasures",
-                      "code": "cyb203"
-                    },
-                    {
-                      "name": "Computer Architecture and Organisation",
-                      "code": "ift212"
-                    } , 
-                    {
-                      "name": "Entrepreneurship and Innovation",
-                      "code": "ent211"
-                    }
-                  ]
+  {
+    "name": "Faculty of Physical Science",
+    "code": "PSC",
+    "departments": [
+      {
+        "name": "Department of Computer Science",
+        "code": "CSC",
+        "courses": {
+          "100level": [
+            {
+              "name": "Introduction to Computing",
+              "code": "cos101",
+              "term": 1
+            },
+            {
+              "name": "Algebra and Trigonometry",
+              "code": "mth101",
+              "term": 1
+            },
+            {
+              "name": "Descriptive Statistics",
+              "code": "sta111",
+              "term": 1
+            },
+            {
+              "name": "Introduction to Problem Solving",
+              "code": "cos102",
+              "term": 1
+            },
+            {
+              "name": "General Physics I",
+              "code": "phy101",
+              "term": 1
+            },
+            {
+              "name": "Introduction to Software Packages",
+              "code": "csc120",
+              "term": 2
+            },
+            {
+              "name": "Elementary Mathematics II ",
+              "code": "mth102",
+              "term": 2
+            },
+            {
+              "name": "General Physics II",
+              "code": "phy102",
+              "term": 2
             }
-
+          ],
+          "200level": [
+            {
+              "name": "Computer Programming II",
+              "code": "cos202"
             },
             {
-                "name": "Department of Chemistry",
-                "code": "CHM",
-                "courses": {
-                  "100level": [],
-                  "200level": []
+              "name": "Cybercrime, Law and Countermeasures",
+              "code": "cyb203"
+            },
+            {
+              "name": "Computer Architecture and Organisation",
+              "code": "ift212"
+            },
+            {
+              "name": "Entrepreneurship and Innovation",
+              "code": "ent211"
             }
+          ]
+        }
+      },
+      {
+        "name": "Department of Chemistry",
+        "code": "CHM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Statistics",
+        "code": "STA",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Geology",
+        "code": "GLY",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Mathematics",
+        "code": "MTH",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Physics",
+        "code": "PHY",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
+  },
+  {
+    "name": "Faculty of Social Sciences",
+    "code": "SOSSA",
+    "departments": [
+      {
+        "name": "Department of Economics",
+        "code": "ECO",
+        "courses": {
+          "100level": [
+            {
+              "name": "Macroeconomics",
+              "code": "eco101"
             },
             {
-                "name": "Department of Statistics",
-                "code": "STA",
-                "courses": {
-                  "100level": [],
-                  "200level": []
+              "name": "Mathematics for Economists I",
+              "code": "eco103"
+            },
+            {
+              "name": "Statistics for Economists I",
+              "code": "eco105"
+            },
+            {
+              "name": "Introduction to Political Science",
+              "code": "pol101"
+            },
+            {
+              "name": "Introduction to Sociology",
+              "code": "soc101"
+            },
+            {
+              "name": "Principles of Accounting",
+              "code": "acc101"
+            },
+            {
+              "name": "Introduction to Business",
+              "code": "bus101"
+            },
+            {
+              "name": "Microeconomics",
+              "code": "eco102"
+            },
+            {
+              "name": "Mathematics for Economists II",
+              "code": "eco104"
+            },
+            {
+              "name": "Statistics for Economists II",
+              "code": "eco106"
+            },
+            {
+              "name": "Nigerian Government and Politics",
+              "code": "pol102"
+            },
+            {
+              "name": "Sociology of Development",
+              "code": "soc102"
+            },
+            {
+              "name": "Financial Accounting",
+              "code": "acc102"
+            },
+            {
+              "name": "Business Management",
+              "code": "bus102"
             }
-
-            },
-            {
-                "name": "Department of Geology",
-                "code": "GLY",
-                 "courses": {
-                  "100level": [],
-                  "200level": []
-            }
-
-            },
-            {
-                "name": "Department of Mathematics",
-                "code": "MTH",
-                "courses": {
-                  "100level": [],
-                  "200level": []
-            }
-
-
-            },
-            {
-                "name": "Department of Physics",
-                "code": "PHY", 
-                "courses": {
-                  "100level": [],
-                  "200level": []
-            }
-
-            }
-           
-        ]
-    },
-    {
-        "name": "Faculty of Life Sciences",
-        "code": "LSC"
-    },
-    {
-        "name": "Faculty of Basic Medical Sciences",
-        "code": "BMS"
-    },
-    {
-        "name": "Faculty of Engineering",
-        "code": "ENG"
-    },
-    {
-        "name": "Faculty of Agriculture",
-        "code": "AGR"
-    },
-    {
-        "name": "Faculty of Dentistry",
-        "code": "DEN"
-    },
-    {
-        "name": "Faculty of Education",
-        "code": "EDU"
-    },
-    {
-        "name": "Faculty of Environmental Sciences",
-        "code": "ENV"
-    },
-    {
-        "name": "Faculty of Medicine",
-        "code": "MED"
-    },
-    {
-        "name": "Faculty of Management Science",
-        "code": "MGS",
-        "departments": [
-            {
-                "name": "Department of Accounting",
-                "code": "ACC"
-            }
-        ]
-    },
-    {
-        "name": "Faculty of Pharmacy",
-        "code": "PHA"
-    },
-    {
-        "name": "Faculty of Veterinary Medicine",
-        "code": "VNM"
-    },
-    {
-        "name": "SPESSE",
-        "code": "SPESSE"
-    },
-    {
-        "name": "Faculty of Arts",
-        "code": "ART"
-    },
-    {
-        "name": "Faculty of Social Sciences",
-        "code": "SOSSA",
-        "departments": [
-            {
-    "name": "Department of Economics",
-    "code": "ECO",
-    "courses": {
-        "100level": [
-            {
-                "name": "Macroeconomics",
-                "code": "eco101"
-            },
-            {
-                "name": "Mathematics for Economists I",
-                "code": "eco103"
-            },
-            {
-                "name": "Statistics for Economists I",
-                "code": "eco105"
-            },
-            {
-                "name": "Introduction to Political Science",
-                "code": "pol101"
-            },
-            {
-                "name": "Introduction to Sociology",
-                "code": "soc101"
-            },
-            {
-                "name": "Principles of Accounting",
-                "code": "acc101"
-            },
-            {
-                "name": "Introduction to Business",
-                "code": "bus101"
-            },
-            {
-                "name": "Microeconomics",
-                "code": "eco102"
-            },
-            {
-                "name": "Mathematics for Economists II",
-                "code": "eco104"
-            },
-            {
-                "name": "Statistics for Economists II",
-                "code": "eco106"
-            },
-            {
-                "name": "Nigerian Government and Politics",
-                "code": "pol102"
-            },
-            {
-                "name": "Sociology of Development",
-                "code": "soc102"
-            },
-            {
-                "name": "Financial Accounting",
-                "code": "acc102"
-            },
-            {
-                "name": "Business Management",
-                "code": "bus102"
-            }
-        ],
-        "200level": []
-    }
-            }
-        ]
-    }
+          ],
+          "200level": []
+        }
+      }
+    ]
+  },
+  {
+    "name": "Faculty of Life Sciences",
+    "code": "LSC"
+  },
+  {
+    "name": "Faculty of Basic Medical Sciences",
+    "code": "BMS"
+  },
+  {
+    "name": "Faculty of Engineering",
+    "code": "ENG"
+  },
+  {
+    "name": "Faculty of Agriculture",
+    "code": "AGR"
+  },
+  {
+    "name": "Faculty of Dentistry",
+    "code": "DEN"
+  },
+  {
+    "name": "Faculty of Education",
+    "code": "EDU"
+  },
+  {
+    "name": "Faculty of Environmental Sciences",
+    "code": "ENV"
+  },
+  {
+    "name": "Faculty of Medicine",
+    "code": "MED"
+  },
+  {
+    "name": "Faculty of Management Science",
+    "code": "MGS",
+    "departments": [
+      {
+        "name": "Department of Accounting",
+        "code": "ACC"
+      }
+    ]
+  },
+  {
+    "name": "Faculty of Pharmacy",
+    "code": "PHA"
+  },
+  {
+    "name": "Faculty of Veterinary Medicine",
+    "code": "VNM"
+  },
+  {
+    "name": "SPESSE",
+    "code": "SPESSE"
+  },
+  {
+    "name": "Faculty of Arts",
+    "code": "ART"
+  }
 ]

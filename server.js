@@ -7,7 +7,7 @@ const path = require('path')
 module.exports = async function(app, opts) {
 
   app.register(require('@fastify/cors'), {
-    origin: 'http://localhost:3000',
+    origin: 'http://localhost:5173',
     methods: ['GET', 'POST']
   })
 
