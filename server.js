@@ -83,5 +83,23 @@ module.exports = async function(app, opts) {
 
     return Department.courses
   })
+  app.get('/api/quiz/:course', async (request) => {
+    const { course } = request.params;
+    const { q } = request.query;
+    const index = Number(q);
+    const src = `${course}.json`;
+    const filePath = path.join(process.cwd(), 'data', 'courses', src)
+    const file = fs.readFileSync(filePath, 'utf8')
+    const data = JSON.parse(file)
+    return data[index]
+  })
+  app.get('/api/quiz/:course/length', async (request) => {
+    const { course } = request.params;
+    const src = `${course}.json`;
+    const filePath = path.join(process.cwd(), 'data', 'courses', src)
+    const file = fs.readFileSync(filePath, 'utf8')
+    const data = JSON.parse(file)
+    return data.length
+  })
 
 }

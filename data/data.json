@@ -113,7 +113,7 @@
   },
   {
     "name": "Faculty of Social Sciences",
-    "code": "SOSSA",
+    "code": "SSC",
     "departments": [
       {
         "name": "Department of Economics",
@@ -122,61 +122,130 @@
           "100level": [
             {
               "name": "Macroeconomics",
-              "code": "eco101"
+              "code": "eco111"
             },
             {
               "name": "Mathematics for Economists I",
-              "code": "eco103"
+              "code": "eco103",
+              "hidden": true
             },
             {
               "name": "Statistics for Economists I",
-              "code": "eco105"
+              "code": "eco105",
+              "hidden": true
             },
             {
               "name": "Introduction to Political Science",
-              "code": "pol101"
+              "code": "pol101",
+              "hidden": true
             },
             {
               "name": "Introduction to Sociology",
-              "code": "soc101"
+              "code": "soc101",
+              "hidden": true
             },
             {
               "name": "Principles of Accounting",
-              "code": "acc101"
+              "code": "acc101",
+              "hidden": true
             },
             {
               "name": "Introduction to Business",
-              "code": "bus101"
+              "code": "bus101",
+              "hidden": true
             },
             {
               "name": "Microeconomics",
-              "code": "eco102"
+              "code": "eco102",
+              "hidden": true
             },
             {
               "name": "Mathematics for Economists II",
-              "code": "eco104"
+              "code": "eco104",
+              "hidden": true
             },
             {
               "name": "Statistics for Economists II",
-              "code": "eco106"
+              "code": "eco106",
+              "hidden": true
             },
             {
               "name": "Nigerian Government and Politics",
-              "code": "pol102"
+              "code": "pol102",
+              "hidden": true
             },
             {
               "name": "Sociology of Development",
-              "code": "soc102"
+              "code": "soc102",
+              "hidden": true
             },
             {
               "name": "Financial Accounting",
-              "code": "acc102"
+              "code": "acc102",
+              "hidden": true
             },
             {
               "name": "Business Management",
-              "code": "bus102"
+              "code": "bus102",
+              "hidden": true
             }
           ],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Geography and Disaster Risk Management",
+        "code": "GEO",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Library and Information Science",
+        "code": "LIS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Peace Studies and Conflict Resolution",
+        "code": "PCR",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Political Science",
+        "code": "POL",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Public Administration",
+        "code": "PUB",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Sociology & Anthropology",
+        "code": "SAA",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Social Work",
+        "code": "SWK",
+        "courses": {
+          "100level": [],
           "200level": []
         }
       }
@@ -184,19 +253,307 @@
   },
   {
     "name": "Faculty of Life Sciences",
-    "code": "LSC"
+    "code": "LSC",
+    "departments": [
+      {
+        "name": "Department of Biochemistry",
+        "code": "BCH",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Botany",
+        "code": "BOT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Environmental Management & Toxicology",
+        "code": "EMT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Microbiology",
+        "code": "MCB",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Optometry",
+        "code": "OPT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Science Laboratory Technology",
+        "code": "SLT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Zoology",
+        "code": "ZOO",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
-    "name": "Faculty of Basic Medical Sciences",
-    "code": "BMS"
+    "name": "School of Basic Medical Sciences",
+    "code": "BMS",
+    "departments": [
+      {
+        "name": "Department of Anatomy",
+        "code": "ANA",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Medical Biochemistry",
+        "code": "MBC",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Medical Laboratory Science",
+        "code": "MLS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Nursing Sciences",
+        "code": "NSC",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Physiology",
+        "code": "PHS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Physiotherapy",
+        "code": "PST",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Radiography",
+        "code": "RAD",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "Faculty of Engineering",
-    "code": "ENG"
+    "code": "ENG",
+    "departments": [
+      {
+        "name": "Department of Agricultural Engineering",
+        "code": "AGR",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Chemical Engineering",
+        "code": "CHE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Computer Engineering",
+        "code": "CPE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Civil Engineering",
+        "code": "CVE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Electrical Electronics",
+        "code": "EEE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Industrial Engineering",
+        "code": "IDE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Marine Engineering",
+        "code": "MRE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Materials & Metallurgical Engineering",
+        "code": "MME",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Mechanical Engineering",
+        "code": "MEE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Mechatronics Engineering",
+        "code": "MTE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Petroleum Engineering",
+        "code": "PEE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Production Engineering",
+        "code": "PRE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Structural Engineering",
+        "code": "STE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "Faculty of Agriculture",
-    "code": "AGR"
+    "code": "AGR",
+    "departments": [
+      {
+        "name": "Department of Agricultural Economics & Extension Services",
+        "code": "AEE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Animal Science",
+        "code": "ANS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Crop Science",
+        "code": "CRS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Aquaculture and Fisheries Management",
+        "code": "FIS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Food Science and Nutrition",
+        "code": "FOD",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Forestry and Wildlife",
+        "code": "FOW",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Forest Resources and Wildlife Management",
+        "code": "FWM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Soil Science",
+        "code": "SOS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "Faculty of Dentistry",
@@ -204,11 +561,143 @@
   },
   {
     "name": "Faculty of Education",
-    "code": "EDU"
+    "code": "EDU",
+    "departments": [
+      {
+        "name": "Department of Continuing Education and Development Studies",
+        "code": "ADT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Curriculum and Instructional Technology",
+        "code": "CIT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Educational Foundations",
+        "code": "DEF",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Educational Management",
+        "code": "DEM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Educational Evaluation and Counselling Psychology",
+        "code": "EECP",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Educational Psychology & Curriculum Studies",
+        "code": "EPCS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Educational Studies and Management",
+        "code": "ESM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Health, Safety and Environmental Education",
+        "code": "HEK",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Human Kinetics and Sports Science",
+        "code": "HKS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Health, Safety and Environmental Education",
+        "code": "HSE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "Faculty of Environmental Sciences",
-    "code": "ENV"
+    "code": "ENV",
+    "departments": [
+      {
+        "name": "Department of Architecture",
+        "code": "ARC",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Estate Management",
+        "code": "ESM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Fine and Applied Arts",
+        "code": "FAA",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Geomatics (Surveying & Geoinformatics)",
+        "code": "GEM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Quantity Surveying",
+        "code": "OSV",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Geography and Disaster Risk Management",
+        "code": "URP",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "Faculty of Medicine",
@@ -220,7 +709,75 @@
     "departments": [
       {
         "name": "Department of Accounting",
-        "code": "ACC"
+        "code": "ACC",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Actuarial Science",
+        "code": "ACT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Banking and Finance",
+        "code": "BNK",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Business Administration",
+        "code": "BUS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Entrepreneurship",
+        "code": "ENT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Finance",
+        "code": "FIN",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Human Resource Management",
+        "code": "HRM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Insurance",
+        "code": "INS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Marketing",
+        "code": "MKT",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
       }
     ]
   },
@@ -230,7 +787,17 @@
   },
   {
     "name": "Faculty of Veterinary Medicine",
-    "code": "VNM"
+    "code": "VNM",
+    "departments": [
+      {
+        "name": "Department of Veterinary Medicine",
+        "code": "VNM",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   },
   {
     "name": "SPESSE",
@@ -238,6 +805,118 @@
   },
   {
     "name": "Faculty of Arts",
-    "code": "ART"
+    "code": "ART",
+    "departments": [
+      {
+        "name": "Department of English and Literature",
+        "code": "ENL",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Fine and Applied Art",
+        "code": "FAA",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Foreign Languages",
+        "code": "FOL",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of History And International Studies",
+        "code": "HIS",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Linguistics Studies",
+        "code": "LST",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Mass Communication",
+        "code": "MAC",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Philosophy",
+        "code": "PHL",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Religions",
+        "code": "REL",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Theatre Arts",
+        "code": "THR",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
+  },
+  {
+    "name": "Faculty of Vocational and Technical Education",
+    "code": "VTE",
+    "departments": [
+      {
+        "name": "Department of Agricultural Science Education and Fine and Applied Arts Education",
+        "code": "AED",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Business Education",
+        "code": "BED",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Home Economics, Hospitality and Tourism Education",
+        "code": "HEE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      },
+      {
+        "name": "Department of Industrial and Technical Education",
+        "code": "ITE",
+        "courses": {
+          "100level": [],
+          "200level": []
+        }
+      }
+    ]
   }
 ]
