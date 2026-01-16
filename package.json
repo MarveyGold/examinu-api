@@ -1,18 +1,25 @@
 {
   "name": "examinu-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Backend API for a quiz application",
   "main": "server.js",
   "scripts": {
-    "start": "fastify start --port 8080 --address 0.0.0.0 server.js",
-    "dev": "fastify start --watch --port 8080 --address 0.0.0.0  --log-level info server.js",
+    "start": "fastify start --port 8080 --address 0.0.0.0 server.mjs",
+    "dev": "fastify start --watch --port 8080 --address 0.0.0.0  --log-level info server.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@clerk/backend": "^2.29.2",
     "@fastify/cors": "^11.2.0",
-    "fastify": "^5.6.2"
+    "@supabase/supabase-js": "^2.90.1",
+    "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.45.1",
+    "fastify": "^5.6.2",
+    "pg": "^8.16.3"
   },
   "devDependencies": {
+    "drizzle-kit": "^0.31.8",
     "fastify-cli": "^7.4.1"
   }
 }
