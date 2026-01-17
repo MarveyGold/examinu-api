@@ -5,6 +5,7 @@
   "description": "Backend API for a quiz application",
   "main": "server.js",
   "scripts": {
+    "build": "echo \"No build needed\" ",
     "start": "fastify start --port 8080 --address 0.0.0.0 server.mjs",
     "dev": "fastify start --watch --port 8080 --address 0.0.0.0  --log-level info server.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
