@@ -1,9 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
-//import cors from '@fastify/cors';
-import { verifyClerk } from './plugins/clerk.js';
-import { syncUser } from './services/syncUser.js';
+import cors from '@fastify/cors';
+
 
 /**
  * Exported server function
@@ -13,13 +12,13 @@ export default function server(app) {
   // -------------------------
   // CORS
   // -------------------------
-  // await app.register(cors, {
-  //  origin: [
-  //    'http://0.0.0.0:5173',
-  //    'https://examinu.vercel.app'
-  //   ],
-  //   methods: ['GET', 'POST']
-  // });
+  app.register(cors, {
+    origin: [
+      'http://0.0.0.0:5173',
+      'https://examinu.vercel.app'
+    ],
+    methods: ['GET', 'POST']
+  });
 
   // -------------------------
   // Load JSON data
@@ -36,15 +35,7 @@ export default function server(app) {
   // -------------------------
   // Clerk-protected route
   // -------------------------
-  app.get('/me', { preHandler: verifyClerk }, async (req, reply) => {
-    try {
-      const userId = await syncUser(req.clerkUserId);
-      return { userId };
-    } catch (err) {
-      req.log.error(err);
-      return reply.code(500).send({ error: 'Internal server error' });
-    }
-  });
+
 
 
   app.get('/api/faculty/names', () => data.map(f => f.name));
