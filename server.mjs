@@ -4,6 +4,8 @@ import mongoose from "mongoose";
 import cors from '@fastify/cors';
 import { cwd } from 'process';
 import User from './models/user.js';
+import Data from './models/data.js'
+
 export default async function server(app, opts) {
   await app.register(cors, {
     origin: [
@@ -29,10 +31,12 @@ export default async function server(app, opts) {
   mongoose.connect(uri).then(() => console.log("Connected to db")).catch(() => console.log("Failed to connect to db"))
 
   const db = mongoose.connection;
+
   // -------------------------
   // Base route
   // -------------------------
   app.get('/', () => ({ message: 'Welcome to ExaminU API' }));
+  app.get('/api', () => Data.find())
   app.get('/users', () => User.find())
   app.post('/user', async (request, reply) => {
     const data = request.body;
@@ -48,7 +52,7 @@ export default async function server(app, opts) {
   })
 
 
-  app.get('/api/faculty/names', () => data.map(f => f.name));
+  app.get('/api/faculty/names', () => Data.distinct("name"));
   app.get('/api/faculty/codes', () => data.map(f => f.code));
 
   app.get('/api/:faculty/name', (req, reply) => {
