@@ -1,23 +1,20 @@
 import fs from 'fs';
 import path from 'path';
-
+import mongoose from "mongoose";
 import cors from '@fastify/cors';
-
-
-/**
- * Exported server function
- * @param {import('fastify').FastifyInstance} app
- */
-export default function server(app) {
-  // -------------------------
-  // CORS
-  // -------------------------
-  app.register(cors, {
+import { cwd } from 'process';
+import User from './models/user.js';
+export default async function server(app, opts) {
+  await app.register(cors, {
     origin: [
+      'http://localhost:5173',
       'http://0.0.0.0:5173',
+      'http://192.168.41.116:5173',
       'https://examinu.vercel.app'
     ],
-    methods: ['GET', 'POST']
+    methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type']
+
   });
 
   // -------------------------
@@ -27,15 +24,28 @@ export default function server(app) {
   const file = fs.readFileSync(dataFilePath, 'utf8');
   const data = JSON.parse(file);
 
+
+  const uri = "mongodb://127.0.0.1:27017/examinu";
+  mongoose.connect(uri).then(() => console.log("Connected to db")).catch(() => console.log("Failed to connect to db"))
+
+  const db = mongoose.connection;
   // -------------------------
   // Base route
   // -------------------------
   app.get('/', () => ({ message: 'Welcome to ExaminU API' }));
-
+  app.get('/users', () => User.find())
+  app.post('/user', async (request, reply) => {
+    const data = request.body;
+    const result = await User.insertOne(data)
+    return reply.status(201).send({ success: true, id: result.insertedId })
+  })
   // -------------------------
   // Clerk-protected route
   // -------------------------
-
+  app.get('/favicon.ico', (request, reply) => {
+    const iconPath = path.join(process.cwd(), 'favicon.ico');
+    reply.type('image/x-icon').send(fs.readFileSync(iconPath))
+  })
 
 
   app.get('/api/faculty/names', () => data.map(f => f.name));
@@ -115,4 +125,7 @@ export default function server(app) {
     return quizData.map((item) => item.question);
   });
 }
+// -------------------------
+// CORS
+// -------------------------
 
