@@ -43,35 +43,42 @@ export default async function server(app, opts) {
     const result = await User.insertOne(data)
     return reply.status(201).send({ success: true, id: result.insertedId })
   })
-  // -------------------------
-  // Clerk-protected route
-  // -------------------------
   app.get('/favicon.ico', (request, reply) => {
     const iconPath = path.join(process.cwd(), 'favicon.ico');
     reply.type('image/x-icon').send(fs.readFileSync(iconPath))
   })
+  const result = await Data.aggregate([
+    {
+      $group: {
+        _id: { name: "$name", code: "$code" }
+      }
+    },
+    { $project: { _id: 0, name: "$_id.name", code: "$_id.code" } }
+  ]);
 
 
-  app.get('/api/faculty/names', () => Data.distinct("name"));
-  app.get('/api/faculty/codes', () => data.map(f => f.code));
+  app.get('/api/faculty/names', async () => {
+    return result.map(a => a.name)
+  });
+  app.get('/api/faculty/codes', () => result.map(a => a.code));
 
-  app.get('/api/:faculty/name', (req, reply) => {
+  app.get('/api/:faculty/name', async (req, reply) => {
     const { faculty } = req.params;
-    const foundFaculty = data.find(f => f.code === faculty);
-    if (!foundFaculty) return reply.code(404).send({ error: 'Faculty not found' });
-    return foundFaculty.name;
+    const foundFaculty = await Data.findOne({ code: faculty });
+    const { name } = foundFaculty;
+    return name;
   });
 
-  app.get('/api/:faculty/departments/names', (req, reply) => {
+  app.get('/api/:faculty/departments/names', async (req, reply) => {
     const { faculty } = req.params;
-    const foundFaculty = data.find(f => f.code === faculty);
+    const foundFaculty = await Data.findOne({ code: faculty });
     if (!foundFaculty) return reply.code(404).send({ error: 'Faculty not found' });
     return foundFaculty.departments.map(d => d.name);
   });
 
-  app.get('/api/:faculty/departments/codes', (req, reply) => {
+  app.get('/api/:faculty/departments/codes', async (req, reply) => {
     const { faculty } = req.params;
-    const foundFaculty = data.find(f => f.code === faculty);
+    const foundFaculty = await Data.findOne({ code: faculty });
     if (!foundFaculty) return reply.code(404).send({ error: 'Faculty not found' });
     return foundFaculty.departments.map(d => d.code);
   });
@@ -79,9 +86,9 @@ export default async function server(app, opts) {
   // -------------------------
   // Department routes
   // -------------------------
-  app.get('/api/:faculty/:department/name', (req, reply) => {
+  app.get('/api/:faculty/:department/name', async (req, reply) => {
     const { faculty, department } = req.params;
-    const foundFaculty = data.find(f => f.code === faculty);
+    const foundFaculty = await Data.findOne({ code: faculty });
     if (!foundFaculty) return reply.code(404).send({ error: 'Faculty not found' });
 
     const foundDepartment = foundFaculty.departments.find(d => d.code === department);
@@ -90,9 +97,9 @@ export default async function server(app, opts) {
     return foundDepartment.name;
   });
 
-  app.get('/api/:faculty/:department/courses', (req, reply) => {
+  app.get('/api/:faculty/:department/courses', async (req, reply) => {
     const { faculty, department } = req.params;
-    const foundFaculty = data.find(f => f.code === faculty);
+    const foundFaculty = await Data.findOne({ code: faculty });
     if (!foundFaculty) return reply.code(404).send({ error: 'Faculty not found' });
 
     const foundDepartment = foundFaculty.departments.find(d => d.code === department);
