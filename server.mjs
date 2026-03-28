@@ -2,45 +2,36 @@ import fs from 'fs';
 import path from 'path';
 import mongoose from "mongoose";
 import cors from '@fastify/cors';
-import { cwd } from 'process';
-import User from './models/user.js';
-import Data from './models/data.js'
+import "dotenv/config";
+import Data from './models/data.js';
+import Feedback from './models/feedback.js'
+import Quiz from './models/quiz.js'
 
 export default async function server(app, opts) {
   await app.register(cors, {
     origin: [
       'http://localhost:5173',
       'http://0.0.0.0:5173',
-      'http://192.168.41.116:5173',
+      'http://192.168.205.116:5173',
       'https://examinu.vercel.app'
     ],
     methods: ['GET', 'POST', 'OPTIONS'],
     allowedHeaders: ['Content-Type']
 
   });
-
-  // -------------------------
-  // Load JSON data
-  // -------------------------
-  const dataFilePath = path.join(process.cwd(), 'data', 'data.json');
-  const file = fs.readFileSync(dataFilePath, 'utf8');
-  const data = JSON.parse(file);
-
-
-  const uri = "mongodb://127.0.0.1:27017/examinu";
+  const uri = process.env.DB_URL;
   mongoose.connect(uri).then(() => console.log("Connected to db")).catch(() => console.log("Failed to connect to db"))
 
-  const db = mongoose.connection;
 
   // -------------------------
   // Base route
   // -------------------------
   app.get('/', () => ({ message: 'Welcome to ExaminU API' }));
   app.get('/api', () => Data.find())
-  app.get('/users', () => User.find())
+  app.get('/users', () => Feedback.find())
   app.post('/user', async (request, reply) => {
     const data = request.body;
-    const result = await User.insertOne(data)
+    const result = await Feedback.insertOne(data)
     return reply.status(201).send({ success: true, id: result.insertedId })
   })
   app.get('/favicon.ico', (request, reply) => {
@@ -136,7 +127,4 @@ export default async function server(app, opts) {
     return quizData.map((item) => item.question);
   });
 }
-// -------------------------
-// CORS
-// -------------------------
 
