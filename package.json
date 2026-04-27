@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Backend API for a quiz application",
+  "packageManager": "yarn@4.0.0",
   "main": "server.js",
   "scripts": {
     "build": "echo \"No build needed\" ",
