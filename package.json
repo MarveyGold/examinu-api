@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Backend API for a quiz application",
   
-  "main": "server.js",
+  "main": "server.mjs",
   "scripts": {
     "build": "echo \"No build needed\" ",
     "start": "fastify start --port 8080 --address 0.0.0.0 server.mjs",
@@ -17,10 +17,11 @@
     "dotenv": "^17.2.3",
     "fastify": "^5.6.2",
     "mongoose": "^9.1.6",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+        "fastify-cli": "^7.4.1"
   },
   "devDependencies": {
     "drizzle-kit": "^0.31.8",
-    "fastify-cli": "^7.4.1"
+
   }
 }
